@@ -6,7 +6,7 @@ image: "/assets/img/beetle-fungus.png"
 cover-img:
 show-avatar: true
 round-avatar: false
-category: research
+readtime: true
 tags: [metabolism, evolution]
 #published: false
 ---
