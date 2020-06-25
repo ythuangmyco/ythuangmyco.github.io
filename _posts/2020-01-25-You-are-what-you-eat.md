@@ -10,6 +10,7 @@ category: research
 tags: [metabolism, evolution]
 #published: false
 ---
+see published paper [Huang et al. 2020](https://www.nature.com/articles/s41396-020-0593-7)
 
 The relationships between wood-boring ambrosia beetles and the fungi which they farm as their sole source of food have long been of interest to anyone concerned with maintaining healthy forests. With millions of years of history between the insects and their fungi, it has been generally assumed that each member of the symbiosis was highly adapted to one another. One of my recent study suggests that the metabolisms of the fungi started out working just as they have continued.
 
