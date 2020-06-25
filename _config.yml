@@ -36,7 +36,7 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "ythuangmyco@gmail.com"
-  facebook: https://www.facebook.com/MycoveryHD
+  facebook: https://www.facebook.com/MycoveryHD/
   #github: daattali
   #twitter: daattali
   rss: true
