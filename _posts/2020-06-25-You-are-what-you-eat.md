@@ -2,9 +2,10 @@
 layout: post
 title: You are what you eat
 subtitle: so you give what you metabolize
-image: "/assets/img/ergosterol_250.png"
+image: "/assets/img/beetle-fungus.png"
 cover-img:
 show-avatar: true
+round-avatar: false
 tags: [metabolism, evolution]
 #published: false
 ---
