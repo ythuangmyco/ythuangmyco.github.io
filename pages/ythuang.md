@@ -38,20 +38,25 @@ May 2016&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, Institute of Microbiology,
 
 _______
 
-Fungal Ecology<br>
-Scientific Reports<br>
-PLOS one<br>
+Fungal Ecology
+
+Scientific Reports
+
+PLOS one
 
 ### Membership
 
 _______
 
-Member, Mycological Society of Taiwan, since 2008<br>
-Member, Mycological Society of America, since 2017<br>
-Member, Florida Academic Lichen and Fungi Enthusiasts League, since 2017<br>
+Member, Mycological Society of Taiwan, since 2008
+
+Member, Mycological Society of America, since 2017
 
 
-詳情請見我的CV You can find more in my [CV](/assets/img/YinTse%20Huang%20CV%202020.pdf)
+Member, Florida Academic Lichen and Fungi Enthusiasts League, since 2017
+
+
+詳情請見我的[CV](/assets/img/YinTse%20Huang%20CV%202020.pdf) You can find more in my [CV](/assets/img/YinTse%20Huang%20CV%202020.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
