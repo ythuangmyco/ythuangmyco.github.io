@@ -1,6 +1,7 @@
 ---
 layout: page
 title: publications
+permalink: "publication"
 ---
 
 ## 2020
