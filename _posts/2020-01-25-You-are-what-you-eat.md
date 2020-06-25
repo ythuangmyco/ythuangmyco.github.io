@@ -10,6 +10,7 @@ category: research
 tags: [metabolism, evolution]
 #published: false
 ---
+For more infomation [Huang et al. 2020](https://www.nature.com/articles/s41396-020-0593-7)
 
 The relationships between wood-boring ambrosia beetles and the fungi which they farm as their sole source of food have long been of interest to anyone concerned with maintaining healthy forests. With millions of years of history between the insects and their fungi, it has been generally assumed that each member of the symbiosis was highly adapted to one another. One of my recent study suggests that the metabolisms of the fungi started out working just as they have continued.
 
@@ -25,6 +26,4 @@ To be honest, I was a bit unexpected to find no apparent compounds that emerged 
 
 On the other hand, it does highlight the great divergence of ecological niches and phylogenetic origins of ambrosia fungi. A conserved metabolism inherited from their ancestors which might have been optimized for distinct niches would be a rational and safe strategy for fungi. In fact, the functional redundancy has been shown in many associated fungi in ambrosia symbiosis. It indicates that the nutritional-oriented evolution of fungi to feed the vector beetles may not be that strongly enforced in the ambrosia system.
 
-![ergosterol heatmap](/assets/img/ergosterol_shared_220.png =100x20)
-
-For more infomation [Huang et al. 2020](https://www.nature.com/articles/s41396-020-0593-7)
+![ergosterol heatmap](/assets/img/ergosterol_shared_220.png)
