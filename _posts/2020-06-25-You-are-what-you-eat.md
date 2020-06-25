@@ -3,6 +3,7 @@ layout: post
 title: You are what you eat
 subtitle: so you give what you metabolize
 image: "/assets/img/ergosterol_250.png"
+cover-img:
 show-avatar: true
 tags: [metabolism, evolution]
 #published: false
