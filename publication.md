@@ -6,6 +6,7 @@ title: publications
 ## 2020
 _____________
 0. **Huang, Y.-T.**, Skelton, J., and Hulcr, J. 2020. Lipids and small metabolites provisioned by ambrosia fungi to symbiotic beetles are phylogeny-dependent, not convergent. The ISME Journal. 14: 1089–1099.
+{: reversed="reversed"}
 
 ## 2019
 _____________
@@ -16,6 +17,7 @@ _____________
 0. **Huang, Y.-T.**, Skelton, J., Johnson, A.J., Kolařík, M., Hulcr, J., 2019. _Geosmithia_ species in southeastern USA and their affinity to beetle vectors and tree hosts. Fungal Ecology. 39: 168–183.
 
 0. **Huang, Y.-T.**, Skelton, J., Hulcr, J., 2019. Multiple evolutionary origins lead to diversity in the metabolic profiles of ambrosia fungi. Fungal Ecology, From antagonism to mutualism: the chemical basis of insect-fungus interactions 38: 80–88.
+{: reversed="reversed"}
 
 ## 2018
 _____________
@@ -24,10 +26,12 @@ _____________
 0. **Huang, Y.-T.**, Kolarik, M., Kasson, M.T., and Hulcr, J. 2018. Two new _Geosmithia_ species in _G. pallida_ species complex from bark beetles in eastern USA. Mycologia. 109(5): 790–803.
 
 0. Na, F., Carrillo, J.D., Mayorquin, J.S., Ndinga-Muniania, C., Stajich, J.E., Stouthamer, R., **Huang, Y.-T.**, Lin, Y.-T., Chen, C.Y., Eskalen, A., 2018. Two novel fungal symbionts _Fusarium kuroshium_ sp. nov. and _Graphium kuroshium_ sp. nov. of Kuroshio shot hole borer (_Euwallacea_ sp. nr. _fornicatus_) cause Fusarium dieback on woody host species in California. Plant Disease. 102(6): 1154-1164.
+{: reversed="reversed"}
 
 ## 2017
 _____________
 0. Bateman, C, **Huang, Y.-T.**, Simmons, D. R., Kasson, M.T., Hulcr, J. 2017. Ambrosia beetle _Premnobius cavipennis_ (Scolytinae: Ipini) carries highly divergent ascomycotan ambrosia fungus, _Afroraffaelea ambrosiae_ gen. nov. et sp. nov. (Ophiostomatales). Fungal Ecology. 25: 41–49.
+{: reversed="reversed"}
 
 ## 2016
 _____________
@@ -38,6 +42,7 @@ _____________
 0. **Huang, Y.-T.**, Lucky, A., Hulcr, J., and Johnson, A. 2016. A Bark Beetle _Hypothenemus eruditus_ Westwood, 1836 (Insecta: Coleoptera: Curculionidae: Scolytinae). EDIS University of Florida/IFAS.
 
 0. Lin, Y.-T., Shih, H.-H., **Huang, Y.-T.**, Lin, C.-S., Chen, C.-Y., 2016. Two species of beetle-associated _Geosmithia_ in Taiwan. Fungal Science 31: 29–36.
+{: reversed="reversed"}
 
 ## 2015 & earlier
 _____________
