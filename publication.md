@@ -3,12 +3,11 @@ layout: page
 title: publications
 ---
 
- <font size="7">  2020 </font> 
+ <font size="5">  2020 </font> 
 _____________
 0. **Huang, Y.-T.**, Skelton, J., and Hulcr, J. 2020. Lipids and small metabolites provisioned by ambrosia fungi to symbiotic beetles are phylogeny-dependent, not convergent. The ISME Journal. 14: 1089–1099.
-{: reversed="reversed"}
 
-<font size="7"> 2019 </font>
+<font size="5"> 2019 </font>
 _____________
 0. **Huang, Y.-T.**, Eickwort, J., and Hulcr, J. 2019. Red Heart Disease in Pines Caused by _Porodaedalea_ (_Phellinus_) _pini_ in Florida. EDIS University of Florida/IFAS.
 
@@ -17,23 +16,20 @@ _____________
 0. **Huang, Y.-T.**, Skelton, J., Johnson, A.J., Kolařík, M., Hulcr, J., 2019. _Geosmithia_ species in southeastern USA and their affinity to beetle vectors and tree hosts. Fungal Ecology. 39: 168–183.
 
 0. **Huang, Y.-T.**, Skelton, J., Hulcr, J., 2019. Multiple evolutionary origins lead to diversity in the metabolic profiles of ambrosia fungi. Fungal Ecology, From antagonism to mutualism: the chemical basis of insect-fungus interactions 38: 80–88.
-{: reversed="reversed"}
 
-<font size="7"> 2018 </font>
+<font size="5"> 2018 </font>
 _____________
 0. Li, You, **Huang, Y.-T.**, Kasson, M.T., Maciasb, A.M., Skelton, J., Carlson, P., Yin, M., and Hulcr, J. Specific and promiscuous ophiostomatalean fungi associated with Platypodinae ambrosia beetles in the southeastern United States. 2018. Fungal Ecology. 35: 42–50.
 
 0. **Huang, Y.-T.**, Kolarik, M., Kasson, M.T., and Hulcr, J. 2018. Two new _Geosmithia_ species in _G. pallida_ species complex from bark beetles in eastern USA. Mycologia. 109(5): 790–803.
 
 0. Na, F., Carrillo, J.D., Mayorquin, J.S., Ndinga-Muniania, C., Stajich, J.E., Stouthamer, R., **Huang, Y.-T.**, Lin, Y.-T., Chen, C.Y., Eskalen, A., 2018. Two novel fungal symbionts _Fusarium kuroshium_ sp. nov. and _Graphium kuroshium_ sp. nov. of Kuroshio shot hole borer (_Euwallacea_ sp. nr. _fornicatus_) cause Fusarium dieback on woody host species in California. Plant Disease. 102(6): 1154-1164.
-{: reversed="reversed"}
 
-<font size="7"> 2017 </font>
+<font size="5"> 2017 </font>
 _____________
 0. Bateman, C, **Huang, Y.-T.**, Simmons, D. R., Kasson, M.T., Hulcr, J. 2017. Ambrosia beetle _Premnobius cavipennis_ (Scolytinae: Ipini) carries highly divergent ascomycotan ambrosia fungus, _Afroraffaelea ambrosiae_ gen. nov. et sp. nov. (Ophiostomatales). Fungal Ecology. 25: 41–49.
-{: reversed="reversed"}
 
-<font size="7"> 2016 </font>
+<font size="5"> 2016 </font>
 _____________
 0. Li, You, Gu, Xinyao, Kasson, M.T., Bateman, C., Guo, Jianjun, **Huang, Y.-T.**, Li, Qiao, Rabaglia, R. J., Hulcr, J. 2016. Distribution, host records and symbiotic fungi of _Euwallacea fornicatus_ (Eichhoff) (Coleoptera: Curculionidae: Scolytinae) in China. Florida Entomologist. 99 (4): 801–804.
 
@@ -42,9 +38,8 @@ _____________
 0. **Huang, Y.-T.**, Lucky, A., Hulcr, J., and Johnson, A. 2016. A Bark Beetle _Hypothenemus eruditus_ Westwood, 1836 (Insecta: Coleoptera: Curculionidae: Scolytinae). EDIS University of Florida/IFAS.
 
 0. Lin, Y.-T., Shih, H.-H., **Huang, Y.-T.**, Lin, C.-S., Chen, C.-Y., 2016. Two species of beetle-associated _Geosmithia_ in Taiwan. Fungal Science 31: 29–36.
-{: reversed="reversed"}
 
-<font size="7"> 2015 & earlier </font>
+<font size="5"> 2015 & earlier </font>
 _____________
 0. Wu, Y.-F., **Huang, Y.-T.**, Chang, C.-H., Cheng, A.-H., and Chen, C.-Y. 2015. Mango Malformation Disease. Proceedings of the Symposium on Important New Emerging Crop Diseases in Taiwan and Their Controls. 184: 43–50.
 
