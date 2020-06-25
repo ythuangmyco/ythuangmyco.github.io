@@ -56,5 +56,5 @@ Member, Mycological Society of America, since 2017
 Member, Florida Academic Lichen and Fungi Enthusiasts League, since 2017
 
 
-詳情請見我的[CV](/assets/img/YinTse%20Huang%20CV%202020.pdf)<br> 
+詳情請見我的 [CV](/assets/img/YinTse%20Huang%20CV%202020.pdf)<br> 
 You can find more in my [CV](/assets/img/YinTse%20Huang%20CV%202020.pdf)
