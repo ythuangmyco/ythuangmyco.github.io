@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yin-Tse Huang
-subtitle: Mycologist / Community Ecologis
+subtitle: Mycologist / Community Ecologist
 ---
 {:refdef: style="text-align: center;"}
 ![](assets/img/MeintheField_300px.png)
