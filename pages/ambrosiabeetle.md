@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 菌蠹蟲 Ambrosia beetle
-subtitle: 
+title: 菌蠹蟲
+subtitle: Ambrosia beetle
 permalink: "ambrosiabeetle"
 #published: false
 ---
