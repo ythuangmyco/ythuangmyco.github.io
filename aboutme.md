@@ -13,11 +13,11 @@ My name is Yin-Tse Huang. I study symbiosis, using fungi, beetles, and plants as
 
 ______
 
-2015–2019&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D.**, School of Forestry and Resources Conservation, University of Florida 
+2015–2019&nbsp;&nbsp;&nbsp;**Ph.D.**, School of Forestry and Resources Conservation, University of Florida 
 
-2009–2011&nbsp;&nbsp;&nbsp;&nbsp;**M.S.**, Plant Pathology, National Chung Hsing University
+2009–2011&nbsp;&nbsp;&nbsp;**M.S.**, Plant Pathology, National Chung Hsing University
 
-2006–2009&nbsp;&nbsp;&nbsp;&nbsp;**B.S.**, Plant Pathology, National Chung Hsing University
+2006–2009&nbsp;&nbsp;&nbsp;**B.S.**, Plant Pathology, National Chung Hsing University
 
 ### Experiences
 
@@ -37,22 +37,17 @@ ______
 
 _______
 
-Fungal Ecology
-
-Scientific Reports
-
-PLOS one
+Fungal Ecology<br>
+Scientific Reports<br>
+PLOS one<br>
 
 ### Membership
 
 _______
 
-Member, Mycological Society of Taiwan, since 2008
-
-Member, Mycological Society of America, since 2017
-
-Member, Florida Academic Lichen and Fungi Enthusiasts League, since 2017
-
+Member, Mycological Society of Taiwan, since 2008<br>
+Member, Mycological Society of America, since 2017<br>
+Member, Florida Academic Lichen and Fungi Enthusiasts League, since 2017<br>
 
 
 You can find more in my [CV](/assets/img/YinTse%20Huang%20CV%202020.pdf)
