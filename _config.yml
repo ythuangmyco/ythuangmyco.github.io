@@ -23,10 +23,10 @@ author: Yin-Tse Huang
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "ythuang"
+  #Member: "member"
   Research: "research"
   Publication: "publication"
-  #CV: "cv"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
