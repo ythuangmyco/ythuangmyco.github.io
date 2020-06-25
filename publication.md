@@ -3,7 +3,7 @@ layout: page
 title: publications
 ---
 
-## 2020
+ <font size="10">  2020 </font> 
 _____________
 0. **Huang, Y.-T.**, Skelton, J., and Hulcr, J. 2020. Lipids and small metabolites provisioned by ambrosia fungi to symbiotic beetles are phylogeny-dependent, not convergent. The ISME Journal. 14: 1089–1099.
 {: reversed="reversed"}
