@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Yin-Tse Huang
+subtitle: Mycologist / Community Ecologis
 ---
+{:refdef: style="text-align: center;"}
+![](assets/img/MeintheField_300px.png)
+{: refdef}
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Welcome to my site. My name is Yin-Tse Huang. I study symbiosis, using fungi, beetles, and plants as my model systems. I combine conventional/molecular sampling methods and statistical analysis approaches to help understanding the fasinating though often complicated symbiotic relationships among organisms. In addition to research, I am a fan of cooking and photography.
