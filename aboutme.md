@@ -27,7 +27,7 @@ ______
 
 2016&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, United States Forest Service, Northern Research Station
 
-2016&nbsp;&nbsp;**Visiting Scholar**, Institute of Microbiology, Czech Academy of Sciences
+2016&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, Institute of Microbiology, Czech Academy of Sciences
 
 2015–2019&nbsp;&nbsp;**Research Assistant**, School of Forestry and Resources Conservation, University of Florida
 
