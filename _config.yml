@@ -27,7 +27,8 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "assets/img/MeintheField_300px.png"
+title-img: assets/img/MeintheField_300px.png
+round-title-img: true
 
 # --- Footer options --- #
 
