@@ -6,6 +6,7 @@ image: "/assets/img/tree_beetle_fungus.png"
 cover-img:
 show-avatar: true
 round-avatar: false
+readtime: true
 tags: [specificity, ecology]
 published: false
 ---
