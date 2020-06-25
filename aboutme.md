@@ -13,8 +13,8 @@ My name is Yin-Tse Huang. I study symbiosis, using fungi, beetles, and plants as
 
 ______
 
-2015–2019&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D.**, School of Forestry and Resources Conservation, University of Florida<br>
-2009–2011&nbsp;&nbsp;&nbsp;&nbsp;**M.S.**, Plant Pathology, National Chung Hsing University<br>
+2015–2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D.**, School of Forestry and Resources Conservation, University of Florida<br>
+2009–2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**M.S.**, Plant Pathology, National Chung Hsing University<br>
 2006–2009&nbsp;&nbsp;&nbsp;**B.S.**, Plant Pathology, National Chung Hsing University<br>
 
 ### Experiences
