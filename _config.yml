@@ -179,7 +179,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-paginate_path: "/research/page:num/"
+#paginate_path: "/research/page:num/"
 
 kramdown:
   input: GFM
