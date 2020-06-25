@@ -7,7 +7,7 @@ cover-img:
 show-avatar: true
 round-avatar: false
 tags: [specificity, ecology]
-#published: false
+published: false
 ---
 
 Beetle 
