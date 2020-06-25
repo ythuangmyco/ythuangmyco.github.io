@@ -25,6 +25,9 @@ author: Yin-Tse Huang
 navbar-links:
   About Me: "ythuang"
   #Member: "member"
+  Ambrosia symbiosis:
+      - 菌蠹蟲真菌 Ambrosia fungi: "ambrosiafungi"
+      - 菌蠹蟲 Ambrosia beetle: "ambrosiabeetle"
   Research: "research"
   Publication: "publication"
 # --- Logo --- #
