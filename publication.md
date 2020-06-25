@@ -17,7 +17,7 @@ _________
 
 **Huang, Y.-T.**, Skelton, J., Hulcr, J., 2019. Multiple evolutionary origins lead to diversity in the metabolic profiles of ambrosia fungi. Fungal Ecology, From antagonism to mutualism: the chemical basis of insect-fungus interactions 38: 80–88.
 
- ## 2018
+## 2018
 _________
 Li, You, **Huang, Y.-T.**, Kasson, M.T., Maciasb, A.M., Skelton, J., Carlson, P., Yin, M., and Hulcr, J. Specific and promiscuous ophiostomatalean fungi associated with Platypodinae ambrosia beetles in the southeastern United States. 2018. Fungal Ecology. 35: 42–50.
 
