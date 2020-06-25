@@ -17,15 +17,15 @@ An organism's metabolism is regulated by molecules called enzymes, which act as 
 
 We chose three separate pairs of species of fungi, with each pair consisting of a beetle-farmed fungus and it's non-farmed relative. We put samples (fungal spores and mycelia) of the various fungi through a mass spectrometer in order to see exactly what molecules were present. 
 
-Surprisingly, the results showed that their metabolisms hadn't changed since establishing relationships with the beetles. It means that, metabolically, ambrosia fungi have different evolutionary paths to be adopted as the fungal crops
+Surprisingly, the results showed that their metabolisms hadn't changed since establishing relationships with the beetles. It means that, metabolically, ambrosia fungi have different evolutionary paths to be adopted as the fungal crops.
 
 ![lip_phy](/assets/img/lip_amb_220.png)
 
-To be honest, I was a bit unexpected to find no apparent compounds that emerged in ambrosia fungi, given the fact that they have had such a long co-evolution history with the beetles. 
+To be honest, it was a bit unexpected to find no apparent compounds that emerged in ambrosia fungi, given the fact that they have had such a long co-evolution history with the beetles. 
 
 On the other hand, it does highlight the great divergence of ecological niches and phylogenetic origins of ambrosia fungi. A conserved metabolism inherited from their ancestors which might have been optimized for distinct niches would be a rational and safe strategy for fungi. In fact, the functional redundancy has been shown in many associated fungi in ambrosia symbiosis. It indicates that the nutritional-oriented evolution of fungi to feed the vector beetles may not be that strongly enforced in the ambrosia system.
 
 ![ergosterol heatmap](/assets/img/ergosterol_shared_220.png)
 
 
-see published paper [Huang et al. 2020](https://www.nature.com/articles/s41396-020-0593-7)
+See the published paper [Huang et al. 2020](https://www.nature.com/articles/s41396-020-0593-7)
