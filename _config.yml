@@ -26,8 +26,9 @@ navbar-links:
   About Me: "ythuang"
   #Member: "member"
   Ambrosia symbiosis:
+      - 菌蠹蟲共生<br>Ambrosia symbiosis: "ambrosiasymbiosis"
       - 菌蠹蟲真菌<br>Ambrosia fungi: "ambrosiafungi"
-      - 菌蠹蟲 Ambrosia beetle: "ambrosiabeetle"
+      - 菌蠹蟲<br>Ambrosia beetle: "ambrosiabeetle"
   Research: "research"
   Publication: "publication"
 # --- Logo --- #
