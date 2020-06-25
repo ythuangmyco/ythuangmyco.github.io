@@ -25,9 +25,9 @@ ______
 
 2019–present&nbsp;&nbsp;**Postdoctoral researcher** Human Frontier Science Program (HFSP), Center for Ecological Research, Kyoto University
 
-2016&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, United States Forest Service, Northern Research Station
+Aug 2016&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, United States Forest Service, Northern Research Station
 
-2016&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, Institute of Microbiology, Czech Academy of Sciences
+May 2016&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, Institute of Microbiology, Czech Academy of Sciences
 
 2015–2019&nbsp;&nbsp;**Research Assistant**, School of Forestry and Resources Conservation, University of Florida
 
