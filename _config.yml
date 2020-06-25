@@ -27,8 +27,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: assets/img/MeintheField_300px.png
-round-title-img: true
+# title-img: assets/img/MeintheField_300px.png
 
 # --- Footer options --- #
 
@@ -37,7 +36,7 @@ round-title-img: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "ythuangmyco@gmail.com"
-  #facebook: deanattali
+  facebook: https://www.facebook.com/search/top/?q=mycovery%20hd%20%E7%B8%AE%E6%99%82%E7%9C%9F%E8%8F%8C%E7%95%8C
   #github: daattali
   #twitter: daattali
   rss: true
