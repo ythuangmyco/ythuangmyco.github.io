@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 黃尹則
+title: Yin-Tse Huang
 subtitle: Mycologist / Community Ecologist
 permalink: "ythuang"
 ---
