@@ -6,3 +6,7 @@ permalink: "ambrosiabeetle"
 #published: false
 ---
 ![](assets/img/ComingSoon_Kyle.jpg)
+
+[Ecology](/pages/ambrosiabeetle_ecology.md)
+[Diversity](/pages/ambrosiabeetle_diversity.md)
+[Adaptation](/pages/ambrosiabeetle_adaptation.md)
