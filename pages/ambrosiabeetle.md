@@ -12,4 +12,4 @@ permalink: "ambrosiabeetle"
 [Adaptation](pages/ambrosiabeetle_adaptation.md)<br>
 
 
-[Adaptation]{% link pages/ambrosiabeetle_adaptation.md %}
+[Adaptation]({% link pages/ambrosiabeetle_adaptation.md %})
