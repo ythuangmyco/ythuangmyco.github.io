@@ -5,4 +5,4 @@ subtitle: Ambrosia beetle ecology
 permalink: "ambrosiabeetle_ecology"
 #published: false
 ---
-![](assets/img/ComingSoon_Kyle.jpg)
+![](/assets/img/ComingSoon_Kyle.jpg)
