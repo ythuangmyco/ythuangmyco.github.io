@@ -7,5 +7,5 @@ permalink: "ambrosiafungi"
 ---
 ![](assets/img/ComingSoon_Kyle.jpg)
 
-[Diversity]({% link pages/ambrosiabeetle_diversity.md %})<br>
-[Metabolic Evolution]({% link pages/ambrosiafungi_metevolution.md %})
+- [多樣性 Diversity]({% link pages/ambrosiabeetle_diversity.md %})<br>
+- [代謝演化 Metabolic Evolution]({% link pages/ambrosiafungi_metevolution.md %})
