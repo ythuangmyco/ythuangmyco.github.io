@@ -7,9 +7,6 @@ permalink: "ambrosiabeetle"
 ---
 ![](/assets/img/ComingSoon_Kyle.jpg)
 
-[Ecology](/blob/master/pages/ambrosiabeetle_ecology.md)<br>
-[Diversity](ambrosiabeetle_diversity)<br>
-[Adaptation](pages/ambrosiabeetle_adaptation.md)<br>
-
-
+[Ecology]({% link pages/ambrosiabeetle_ecology.md %})<br>
+[Diversity]({% link pages/ambrosiabeetle_diversity.md %})<br>
 [Adaptation]({% link pages/ambrosiabeetle_adaptation.md %})
