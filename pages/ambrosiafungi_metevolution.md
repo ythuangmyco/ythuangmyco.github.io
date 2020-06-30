@@ -5,4 +5,4 @@ subtitle: Ambrosia fungi metabolic evolution
 permalink: "ambrosiafungi_metevolution"
 #published: false
 ---
-![](assets/img/ComingSoon_Kyle.jpg)
+![](/assets/img/ComingSoon_Kyle.jpg)
