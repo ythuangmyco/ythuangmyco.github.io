@@ -9,4 +9,7 @@ permalink: "ambrosiabeetle"
 
 [Ecology](/blob/master/pages/ambrosiabeetle_ecology.md)<br>
 [Diversity](ambrosiabeetle_diversity)<br>
-[Adaptation](/pages/ambrosiabeetle_adaptation.md)<br>
+[Adaptation](pages/ambrosiabeetle_adaptation.md)<br>
+
+
+[Adaptation]{% link pages/ambrosiabeetle_adaptation.md %}
