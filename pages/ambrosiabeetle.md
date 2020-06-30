@@ -5,8 +5,8 @@ subtitle: Ambrosia beetle
 permalink: "ambrosiabeetle"
 #published: false
 ---
-![](assets/img/ComingSoon_Kyle.jpg)
+![](/assets/img/ComingSoon_Kyle.jpg)
 
-[Ecology](/pages/ambrosiabeetle_ecology.md)
-[Diversity](/pages/ambrosiabeetle_diversity.md)
-[Adaptation](/pages/ambrosiabeetle_adaptation.md)
+[Ecology](/pages/ambrosiabeetle_ecology.md)<br>
+[Diversity](/pages/ambrosiabeetle_diversity.md)<br>
+[Adaptation](/pages/ambrosiabeetle_adaptation.md)<br>
