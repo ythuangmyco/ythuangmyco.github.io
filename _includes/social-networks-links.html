@@ -23,6 +23,18 @@
    </a>
   </li>
 {%- endif -%}
+  
+  {%- if site.social-network-links.googlescholar -%}
+  <li class="list-inline-item">
+    <a href="https://scholar.google.com/{{ site.social-network-links.googlescholar }}" title="Google scholar">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-googlescholar fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Google scholar</span>
+   </a>
+  </li>
+{%- endif -%}
 
 {%- if site.social-network-links.calendly -%}
   <li class="list-inline-item">
