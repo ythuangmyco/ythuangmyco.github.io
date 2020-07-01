@@ -5,4 +5,4 @@ subtitle: Ambrosia fungi Diversity
 permalink: "ambrosiafungi_diversity"
 #published: false
 ---
-![](/assets/img/ComingSoon_Kyle.jpg)
+![](assets/img/ComingSoon_Kyle.jpg)
