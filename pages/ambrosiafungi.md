@@ -10,4 +10,4 @@ permalink: "ambrosiafungi"
 
 
 - [多樣性 Diversity]({% link pages/ambrosiabeetle_diversity.md %})<br>
-- [演化適應 Adaptation]({% link pages/ambrosiafungi_metevolution.md %})
+- [演化適應 Adaptation]({% link pages/ambrosiafungi_adaptation.md %})
