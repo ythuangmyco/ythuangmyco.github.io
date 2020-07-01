@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yin-Tse Huang
-subtitle: Mycologist / Community Ecologist
+subtitle: Mycologist / Community ecologist
 permalink: "ythuang"
 ---
 {:refdef: style="text-align: center;"}
