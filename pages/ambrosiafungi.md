@@ -6,7 +6,7 @@ permalink: "ambrosiafungi"
 #published: false
 ---
 ![](assets/img/ambrosia_fungi_phy.png)
-*Phylogeny and swollen ambrosia cells of ambrosia fungi*
+*Diverse evolution origins and swollen ambrosia cells of ambrosia fungi*
 
 
 - [多樣性 Diversity]({% link pages/ambrosiabeetle_diversity.md %})<br>
