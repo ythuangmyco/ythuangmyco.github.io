@@ -13,7 +13,6 @@
   {% endif %}
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | default: 'Untitled' }} {{ site.title-separator | default: '-' }} {{ site.description }}" href="{{ '/feed.xml' | absolute_url }}">
-  <link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
   
   {% include gtag.html %}
   {% include gtm_head.html %}
@@ -39,6 +38,7 @@
 
   {% if page.css %}
     {% for css in page.css %}
+      <link rel="stylesheet" href="/assets/css/academicons.css">
       <link rel="stylesheet" href="{{ css | relative_url }}">
     {% endfor %}
   {% endif %}
