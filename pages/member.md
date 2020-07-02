@@ -4,7 +4,6 @@ title: Lab members
 subtitle:
 permalink: "member"
 ---
-<!DOCTYPE html>
 <html>
 <head>
 <style>
