@@ -4,6 +4,7 @@ title: Lab members
 subtitle:
 permalink: "member"
 ---
+{:refdef: style="text-align: center;"}
 實驗室主持人 Princeple investigator |  資深研究員 Senior researcher
 :-------------------------:|:-------------------------:
 [木吉 Muji]({% link pages/ythuang.md %}) | [黃尹則 Yin-Tse Huang]({% link pages/ythuang.md %})
@@ -30,3 +31,6 @@ permalink: "member"
 #大學部 Undergraduate
 
 #_________
+
+
+{: refdef}
