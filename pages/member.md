@@ -10,3 +10,26 @@ permalink: "member"
 [木吉 Muji]({% link pages/ythuang.md %}) | [黃尹則 Yin-Tse Huang]({% link pages/ythuang.md %})
 :-------------------------:|:-------------------------:
 ![](assets/img/people/Muji_TV_crop.gif) | ![](assets/img/people/MeintheField_220px.png)
+
+
+
+
+
+<table class="table table-noborder">
+    <thead>
+        <tr>
+            <th>Principal investigator</th>
+            <th>Senior researcher</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>[木吉 Muji]({% link pages/ythuang.md %})</td>
+            <td>[黃尹則 Yin-Tse Huang]({% link pages/ythuang.md %})</td>
+        </tr>
+        <tr>
+            <td>![](assets/img/people/Muji_TV_crop.gif)</td>
+            <td>![](assets/img/people/MeintheField_220px.png)</td>
+        </tr>
+    </tbody>
+</table>
