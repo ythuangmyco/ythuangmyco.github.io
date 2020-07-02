@@ -4,15 +4,6 @@ title: Lab members
 subtitle:
 permalink: "member"
 ---
-
-實驗室主持人 Princeple investigator<br>
-[木吉 Muji]({% link pages/ythuang.md %})<br>
-![](assets/img/people/Muji_TV_crop.gif)
-
-資深研究員 Senior researcher<br>
-[黃尹則 Yin-Tse Huang]({% link pages/ythuang.md %})<br>
-![](assets/img/people/MeintheField_220px.png)
-
 實驗室主持人 Princeple investigator |  資深研究員 Senior researcher
 [木吉 Muji]({% link pages/ythuang.md %}) | [黃尹則 Yin-Tse Huang]({% link pages/ythuang.md %})
 :-------------------------:|:-------------------------:
