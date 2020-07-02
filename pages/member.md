@@ -5,7 +5,7 @@ subtitle:
 permalink: "member"
 --- 
 <div class="container-fluid">
-<div class="row">
+<div class="row no-gutters">
   <div class="col no-gutters col-sm col-md">
     <h3>主持人 Princeple investigator</h3>
     <p><a href="ythuang">木吉 Muji</a></p>
