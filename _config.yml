@@ -23,7 +23,7 @@ author: 黃尹則 Yin-Tse Huang
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "ythuang"
+  #About Me: "ythuang"
   Members: "member"
   Ambrosia symbiosis:
     - 菌蠹蟲共生關係<br>Ambrosia symbiosis: "ambrosiasymbiosis"
