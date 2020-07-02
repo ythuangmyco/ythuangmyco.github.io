@@ -6,7 +6,7 @@ permalink: "member"
 ---
 <div class="row">
   <div class="col-md-5">
-    <p>實驗室主持人 Princeple investigator</p>
+    <p>主持人 Princeple investigator</p>
     <p><a href="/pages/ythuang.md">木吉 Muji</a></p>
     <img src="/assets/img/people/Muji_TV_crop.gif">
   </div>
