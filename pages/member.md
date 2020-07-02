@@ -11,8 +11,6 @@ permalink: "member"
     <p><a href="ythuang">木吉 Muji</a></p>
     <img src="/assets/img/people/Muji_TV_crop.gif">
   </div>
-  <br>
-  <br>
   <div class="col-sm-6">
     <h4>資深研究員 Senior researcher</h4>
     <p><a href="ythuang">黃尹則 Yin-Tse Huang</a></p>
