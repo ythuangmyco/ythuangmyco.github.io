@@ -4,7 +4,7 @@ title: Lab members
 subtitle:
 permalink: "member"
 --- 
-<div class="container">
+<div class="container-fluid">
 <div class="row">
   <div class="col-sm-3 col-md-6">
     <h4>主持人 Princeple investigator</h4>
