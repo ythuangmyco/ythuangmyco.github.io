@@ -7,7 +7,7 @@ permalink: "member"
 <div class="container-fluid">
 <div class="row">
   <div class="col no-gutters col-sm col-md">
-    <h3>主持人 Princeple investigator</h3>
+    <h3>主持人 Principal investigator</h3>
     <p><a href="ythuang">木吉 Muji</a></p>
     <img src="/assets/img/people/Muji_TV_crop.gif">
   </div>
