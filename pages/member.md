@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minimal
 title: Members
 subtitle:
 permalink: "member"
