@@ -18,8 +18,8 @@ permalink: "member"
 <table class="table table-noborder">
     <thead>
         <tr>
-            <th>Principal investigator</th>
-            <th>Senior researcher</th>
+            <th>主持人 Principal investigator</th>
+            <th>資深研究員 Senior researcher</th>
         </tr>
     </thead>
     <tbody>
