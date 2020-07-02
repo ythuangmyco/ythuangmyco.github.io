@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Lab members
+title: Members
 subtitle:
 permalink: "member"
 --- 
+
+
 <div class="container-fluid">
 <div class="row">
   <div class="col-sm-3 col-md-6">
@@ -11,6 +13,9 @@ permalink: "member"
     <p><a href="ythuang">木吉 Muji</a></p>
     <img src="/assets/img/people/Muji_TV_crop.gif">
   </div>
+  
+  
+  
   <div class="col-sm-3 col-md-6">
     <h4>資深研究員 Senior researcher</h4>
     <p><a href="ythuang">黃尹則 Yin-Tse Huang</a></p>
