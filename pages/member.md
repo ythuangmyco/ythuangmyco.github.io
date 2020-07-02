@@ -14,13 +14,13 @@ permalink: "member"
 
 <div class="row">
   <div class="col-md-5">
-    <h2>實驗室主持人 Princeple investigator</h2>
-    <p>[木吉 Muji]({% link pages/ythuang.md %})</p>
+    <h3>實驗室主持人 Princeple investigator</h2>
+    <a href="/pages/ythuang.md ">木吉 Muji</a>
     <img src="/assets/img/people/Muji_TV_crop.gif">
   </div>
   <div class="col-md-5">
-    <h2>資深研究員 Senior researcher</h2>
-    <p>[黃尹則 Yin-Tse Huang]({% link pages/ythuang.md %})</p>
+    <h3>資深研究員 Senior researcher</h2>
+    <a href="/pages/ythuang.md ">黃尹則 Yin-Tse Huang</a>
     <img src="/assets/img/people/MeintheField_220px.png">
  </div>
 </div>
