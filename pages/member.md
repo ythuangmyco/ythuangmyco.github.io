@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: Members
 subtitle:
 permalink: "member"
