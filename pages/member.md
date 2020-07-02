@@ -17,3 +17,10 @@ permalink: "member"
     <img src="/assets/img/people/MeintheField_220px.png">
   </div>
 </div>
+
+
+<div class="row">
+  <div class="col-4"><h4>主持人 Princeple investigator</h4></div>
+  <div class="col-4"><p><a href="ythuang">木吉 Muji</a></p></div>
+  <div class="col-4"><img src="/assets/img/people/Muji_TV_crop.gif"></div>
+</div>
