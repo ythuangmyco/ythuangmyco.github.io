@@ -1,0 +1,15 @@
+---
+layout: page
+title: Lab members
+subtitle:
+permalink: "member"
+---
+
+實驗室主持人 Princeple investigator
+![木吉]({% link pages/ythuang.md %})<br>
+![](assets/img/Muji_TV.gif)
+
+
+資深研究員 Senior researcher
+![黃尹則]({% link pages/ythuang.md %})<br>
+![](assets/img/MeintheField_300px.png)
