@@ -6,7 +6,7 @@ layout: base
 
 <div class="container-md" role="main">
   <div class="row">
-    <div class="col-sm-2 offset-sm-3 col-md-2 offset-md-3 col-xl-2 offset-xl-3 col-lg-2 offset-lg-3">
+    <div class="col-sm-10 offset-sm-1 col-md-10 offset-md-1 col-xl-10 offset-xl-1 col-lg-10 offset-lg-1">
       {{ content }}
       {% include comments.html %}
     </div>
