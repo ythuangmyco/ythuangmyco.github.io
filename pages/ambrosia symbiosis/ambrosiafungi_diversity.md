@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 多樣性
-subtitle: Ambrosia fungi Diversity
+subtitle: Ambrosia fungi diversity
 permalink: "ambrosiafungi_diversity"
 #published: false
 ---
