@@ -17,15 +17,13 @@ permalink: "member"
     <img src="/assets/img/people/MeintheField_220px.png">
   </div>
 </div>
-
-
-
+<br>
+<br>
 <h3>博士後研究員 Postdoctoral</h3>
 <hr>
-
+<br> 
 <h3>博士班 PhD</h3>
 <hr>
-
 <div class="container-fluid">
 <div class="row">
   <div class="col no-gutters col-sm col-md">
@@ -41,10 +39,10 @@ permalink: "member"
     <img src="/assets/img/people/Muji_TV_crop.gif">
   </div>
 </div>
-
-
+<br>
 <h3>碩士班</h3>
 <hr>
-
+<br>
 <h3>學士班 Undergraduate</h3>
 <hr>
+<br>
