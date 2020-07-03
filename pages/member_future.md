@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: page_mem
 title: Members
 subtitle:
-#permalink: "member"
+permalink: "member_future"
 --- 
 <div class="container-fluid">
 <div class="row">
