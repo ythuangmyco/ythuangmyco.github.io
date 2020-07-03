@@ -20,14 +20,19 @@ permalink: "member"
 
 
 
-## 博士後研究員 Postdoctoral
+<h2>博士後研究員 Postdoctoral</h2>
 
-_________
+hr.new1 {
+  border-top: 1px;
+}
 
 
-## 博士班 PhD
+<h2>博士班 PhD</h2>
 
-_________
+hr.new1 {
+  border-top: 1px;
+}
+
 <div class="container-fluid">
 <div class="row">
   <div class="col no-gutters col-sm col-md">
@@ -45,12 +50,18 @@ _________
 </div>
 
 
-## 碩士班 Master
+<h2>碩士班</h2>
 
-_________
+hr.new1 {
+  border-top: 1px;
+}
 
 
-## 學士班 Undergraduate
 
-_________
+<h2>學士班 Undergraduate</h2>
+
+hr.new1 {
+  border-top: 1px;
+}
+
 
