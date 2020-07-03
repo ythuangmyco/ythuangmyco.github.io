@@ -21,17 +21,10 @@ permalink: "member"
 
 
 <h3>博士後研究員 Postdoctoral</h3>
-
-hr.new1 {
-  border-top: 1px;
-}
-
+<hr>
 
 <h3>博士班 PhD</h3>
-
-hr.new1 {
-  border-top: 1px;
-}
+<hr>
 
 <div class="container-fluid">
 <div class="row">
@@ -51,17 +44,7 @@ hr.new1 {
 
 
 <h3>碩士班</h3>
-
-hr.new1 {
-  border-top: 1px;
-}
-
-
+<hr>
 
 <h3>學士班 Undergraduate</h3>
-
-hr.new1 {
-  border-top: 1px;
-}
-
-
+<hr>
