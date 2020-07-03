@@ -18,7 +18,6 @@ permalink: "member"
   </div>
 </div>
 <br>
-<br>
 <h3>博士後研究員 Postdoctoral</h3>
 <hr/>
 <br> 
