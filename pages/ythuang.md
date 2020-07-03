@@ -53,7 +53,6 @@ Member, Mycological Society of Taiwan, since 2008
 
 Member, Mycological Society of America, since 2017
 
-
 Member, Florida Academic Lichen and Fungi Enthusiasts League, since 2017
 
 
