@@ -6,4 +6,3 @@ permalink: "ambrosiabeetle_ecology"
 #published: false
 ---
 ![](assets/img/ComingSoon_Kyle.jpg)
-test
