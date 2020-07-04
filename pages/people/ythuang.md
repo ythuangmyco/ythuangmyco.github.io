@@ -26,7 +26,7 @@ ______
 2019–present&nbsp;&nbsp;**Postdoctoral researcher** Center for Ecological Research, Kyoto University<br>
 Aug 2016&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, United States Forest Service, Northern Research Station<br>
 May 2016&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, Institute of Microbiology, Czech Academy of Sciences<br>
-2015–2019&nbsp;&nbsp;**Research Assistant**, School of Forestry and Resources Conservation, University of Florida<br>
+2015–2019&nbsp;&nbsp;**Research Assistant**, SFRC, University of Florida<br>
 2012–2015&nbsp;&nbsp;**Research Assistant**, Mycology Laboratory, National Chung Hsing University
 
 ### Scholarly review service
