@@ -8,7 +8,7 @@ permalink: "member"
 <div class="row">
   <div class="col no-gutters col-sm col-md">
     <h3>主持人 Principal investigator</h3>
-    <p>木吉 Muji</p>
+    木吉 Muji
     <img src="/assets/img/people/Muji_TV_crop.gif">
   </div>
   <div class="col no-gutters col-sm col-md">
