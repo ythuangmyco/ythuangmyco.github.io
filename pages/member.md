@@ -8,8 +8,8 @@ permalink: "member"
 <div class="row">
   <div class="col no-gutters col-sm col-md">
     <h3>主持人 Principal investigator</h3>
-    <div class="row no-gutters"<p><a href="ythuang">木吉 Muji</a></p></div>
-    <div class="row no-gutters"<p><img src="/assets/img/people/Muji_TV_crop.gif"></div>
+    <div class="row no-gutters"><p><a href="ythuang">木吉 Muji</a></p></div>
+    <img src="/assets/img/people/Muji_TV_crop.gif">
   </div>
   <div class="col no-gutters col-sm col-md">
     <h3>資深研究員 Senior researcher</h3>
