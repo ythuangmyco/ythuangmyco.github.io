@@ -11,4 +11,7 @@ cover-img:
 - assets/img/Scolytus_gallery_down.JPG
 use-site-title: true
 ---
-Blog updates
+<div class="list-filters">
+  <a href="/" class="list-filter filter-selected">All posts</a>
+  <a href="/tags" class="list-filter">Index</a>
+</div>
