@@ -11,3 +11,4 @@ cover-img:
 - assets/img/Scolytus_gallery_down.JPG
 use-site-title: true
 ---
+Blog updates
