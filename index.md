@@ -3,7 +3,7 @@ layout: home
 title: Welcome
 show-avatar: true
 subtitle: 黃尹則的個人研究網站<br> 
-          Yin-Tse's research and personal page
+          Yin-Tse's research and personal site
 cover-img: 
 - assets/img/Marasmus_down.jpg
 - assets/img/IMGP7709.jpg
