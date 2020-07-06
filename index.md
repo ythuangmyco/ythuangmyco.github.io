@@ -9,6 +9,7 @@ cover-img:
 - assets/img/IMGP7709.jpg
 - assets/img/Cnestus_mutilatus_donw.JPG
 - assets/img/Scolytus_gallery_down.JPG
+- assets/img/IMGP9660_3.jpg
 use-site-title: true
 ---
 <div class="list-filters">
