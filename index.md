@@ -12,7 +12,7 @@ cover-img:
 use-site-title: true
 ---
 <div class="list-filters">
-  <a class="btn btn-primary" href="/" role="button">All posts</a>
+  <a type="button" class="btn btn-outline-secondary" href="/">All posts</a>
   <a class="btn btn-primary" href="/tags" role="button">Index</a>
 </div>
 
