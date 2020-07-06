@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Welcome
 show-avatar: true
 subtitle: 黃尹則的個人研究網站<br> 
