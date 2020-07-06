@@ -8,7 +8,7 @@ show-avatar: true
 round-avatar: false
 readtime: true
 tags: [specificity, ecology]
-published: false
+#published: false
 ---
 
 Beetle 
