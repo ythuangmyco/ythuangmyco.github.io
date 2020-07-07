@@ -7,7 +7,7 @@ cover-img:
 show-avatar: true
 round-avatar: false
 readtime: true
-tags: [specificity, ecology]
+tags: [symbiosis, ecology]
 #published: false
 ---
 
