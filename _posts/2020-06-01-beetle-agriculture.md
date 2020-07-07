@@ -40,4 +40,16 @@ tags: [evolution, symbiosis]
 那菌蠹蟲如何去對抗這些威脅呢？前面有提到，人類因為農業行為的產生，進而發展出複雜的社會結構。同樣的，部份種類的菌蠹蟲也具有社會性特徵：有世代重疊的現象(族群內同時有不同階段的個體)、共同育幼的行為、分工制度。科學家發現，某些菌蠹蟲為了維持隧道內的清潔，幼蟲負責將排遺滾成球狀(balling)、成蟲將隧道中的木屑、死亡的個體推至洞口(shuffling)、最後由負責堵住洞口的成蟲將廢棄物排出。同時，這些負責堵在洞口的成蟲肩負了抵擋天敵入侵的責任。此外，當族群內大多數的成蟲離巢或死亡後，其真菌花園很快就被其他伺機性真菌及細菌所污染並且取代，進而導致整個隧道內族群的瓦解。因此，即使菌蠹蟲單一世代的生活史很短（大多僅一至三個月），仍需要家族中所有成員的分工合作才能確保整個族群的延續。<br>
 
 <h2>結語</h2>
-菌蠹蟲與菌蠹蟲真菌的共生關係，不管從生物學的角度或者是應用方面都有很高的研究價值。生物學方面，由於演化過程中它們多次獨立演化出農業行為，透過比較這些獨立發生的事件，可以幫助我們釐清昆蟲與真菌共生關係是如何開始的。應用方面，雖然攻擊健康樹木的菌蠹蟲種類很少，但幾乎都造成生態系等級的危害。例如前面提到危害美國酪梨產業的菌蠹蟲，其中一種就是從台灣被引進美國的入侵種。了解菌蠹蟲和共生真菌的生態，將有效幫助我們控制他們所造成的危害。
+菌蠹蟲與菌蠹蟲真菌的共生關係，不管從生物學的角度或者是應用方面都有很高的研究價值。生物學方面，由於演化過程中它們多次獨立演化出農業行為，透過比較這些獨立發生的事件，可以幫助我們釐清昆蟲與真菌共生關係是如何開始的。應用方面，雖然攻擊健康樹木的菌蠹蟲種類很少，但幾乎都造成生態系等級的危害。例如前面提到危害美國酪梨產業的菌蠹蟲，其中一種就是從台灣被引進美國的入侵種。了解菌蠹蟲和共生真菌的生態，將有效幫助我們控制他們所造成的危害。<br>
+
+<h2>延伸閱讀</h2>
+
+Johnson AJ, McKenna DD, Jordal BH, Cognato AI, Smith SM, Lemmon AR, et al. Phylogenomics clarifies repeated evolutionary origins of inbreeding and fungus farming in bark beetles (Curculionidae, Scolytinae). Mol Phylogenet Evol 2018; 127: 229–238.
+
+Vanderpool D, Bracewell RR, McCutcheon JP. Know your farmer: Ancient origins and multiple independent domestications of ambrosia beetle fungal cultivars. Mol Ecol 2018; 27: 2077–2094.
+
+Hulcr J, Stelinski LL. The ambrosia symbiosis: From evolutionary ecology to practical management. Annu Rev Entomol 2017; 62: 285–303.
+
+Skelton J, Johnson AJ, Jusino MA, Bateman CC, Li Y, Hulcr J. A selective fungal transport organ (mycangium) maintains coarse phylogenetic congruence between fungus-farming ambrosia beetles and their symbionts. Proceedings of the Royal Society B: Biological Sciences 2019; 286: 20182127.
+
+Huang Y-T, Skelton J, Hulcr J. Lipids and small metabolites provisioned by ambrosia fungi to symbiotic beetles are phylogeny-dependent, not convergent. ISME J 2020; 14: 1089–1099.
