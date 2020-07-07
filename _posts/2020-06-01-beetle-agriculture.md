@@ -6,7 +6,7 @@ image: "/assets/img/Corthyloxiphus_Ecuador.jpg"
 cover-img:
 show-avatar: true
 round-avatar: true
-readtime: true
+readtime: false
 tags: [evolution, symbiosis]
 #published: false
 ---
