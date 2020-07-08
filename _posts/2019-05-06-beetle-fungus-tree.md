@@ -8,7 +8,7 @@ show-avatar: true
 round-avatar: false
 readtime: true
 tags: [symbiosis, ecology]
-#published: false
+published: false
 ---
 
 Tree species
