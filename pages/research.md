@@ -1,6 +1,7 @@
 ---
 layout: page_mem
-title: Publications
+title: Research
+subtitle: past and ongoing projects
 permalink: "research"
 ---
 <br>
