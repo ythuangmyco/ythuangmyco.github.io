@@ -16,7 +16,7 @@ mylist:
     website: 
     img: /assets/img/people/MeintheField_220px.png
 
-permalink: "member"
+#permalink: "member"
 ---
 <br>
 {% include list-circles.html items=page.mylist %}
