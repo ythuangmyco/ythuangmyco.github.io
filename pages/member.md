@@ -2,7 +2,7 @@
 layout: page_mem
 title: Members
 subtitle:
-#permalink: "member"
+permalink: "member"
 --- 
 <div class="container-fluid">
 <div class="row">
