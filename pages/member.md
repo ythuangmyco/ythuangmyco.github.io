@@ -3,13 +3,13 @@ title: Members
 bigimg: 
 recon-list:
   - name: Muji
-    desc: 
+    desc: Principle investigator 主持人
     github: 
     url: <a href="ythuang"></a>
     website: 
     img: /assets/img/people/Muji_TV_crop.gif
   - name: Yin-Tse Huang
-    desc: 
+    desc: Senior researcher 資深研究員
     github: 
     url: <a href="ythuang"></a>
     website: 
