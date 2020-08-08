@@ -1,13 +1,8 @@
 ---
 layout: page
 title: Plant and fungal endophytes: friend or foe, or, both?
-subtitle: 
-image: "/assets/img/PI.jpg"
-cover-img:
-show-avatar: true
-round-avatar: false
-readtime: true
-tags: [symbiosis, endophyte]
+subtitle:
+permalink: "PlantFungiEndo"
 #published: false
 ---
 
