@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plant and fungal endophytes
+title: Plant X Endophytes
 subtitle: friend or foe, or, both?
 image: "/assets/img/PI.jpg"
 cover-img:
