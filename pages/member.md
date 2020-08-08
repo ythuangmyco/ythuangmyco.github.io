@@ -1,5 +1,5 @@
 ---
-title: Member
+title: Members
 bigimg: 
 recon-list:
   - name: Muji
