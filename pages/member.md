@@ -3,7 +3,7 @@ title: Members
 bigimg: 
 recon-list:
   - name: Muji
-    desc: Principle investigator 主持人
+    desc: Principal investigator 主持人
     github: 
     url: <a href="ythuang"></a>
     website: 
