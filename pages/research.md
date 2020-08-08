@@ -8,6 +8,8 @@ recon-list:
     url: https://github.com/ythuangmyco/ythuangmyco.github.io/tree/master/pages/research%20pages
     website: 
     img: https://github.com/ythuangmyco/ythuangmyco.github.io/blob/master/assets/img/PI.jpg
+    
+permalink: "research"
 ---
 <br>
 
