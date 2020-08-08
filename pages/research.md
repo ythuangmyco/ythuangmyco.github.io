@@ -4,6 +4,9 @@ title: Research
 subtitle: past and ongoing projects
 permalink: "research"
 ---
+
+## Ongoing project
+_________
 <!-- First Photo Grid-->
   <div class="w3-row-padding">
     <div class="w3-third w3-container w3-margin-bottom">
