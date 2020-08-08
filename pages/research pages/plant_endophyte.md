@@ -1,8 +1,9 @@
 ---
 layout: page
-title: 菌蠹蟲共生關係
-subtitle: Ambrosia symbiosis
-permalink: "ambrosiasymbiosis"
+title: Plant and fungal endophytes
+subtitle: friend or foe, or, both?
+#permalink: ""
 #published: false
 ---
-![](assets/img/ComingSoon_Kyle.jpg)
+<br>
+”… endophytes are fungi or bacteria which, for all or part of their life cycle, invade the tissues of living plants and cause unapparent and asymptomatic infections entirely within plant tissues but cause no symptoms of disease” – Dennis Wilson, 1995
