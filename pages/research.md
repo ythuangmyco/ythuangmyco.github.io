@@ -1,16 +1,13 @@
 ---
-title: Research
-bigimg: 
-recon-list:
-  - name: Plant X Endophyte
-    desc: Friend or foe
-    github: 
-    url: /pages/research%20pages
-    website: 
-    img: /assets/img/PI.jpg
-    
+layout: page_mem
+title: Publications
 permalink: "research"
 ---
 <br>
-
-{% include list-circles.html items=page.recon-list %}
+<div class="container-fluid">
+<div class="row">
+  <div class="col no-gutters col-sm col-md">
+    <h3>Plant and fungal endophytes</h3>
+    <a href="plantfungi">interaction</a><br>
+    <img src="/assets/img/PI.jpg">
+  </div>
