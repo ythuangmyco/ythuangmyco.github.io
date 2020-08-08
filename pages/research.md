@@ -1,5 +1,5 @@
 ---
-layout: page_mem
+layout: home
 title: Research
 subtitle: past and ongoing projects
 permalink: "research"
