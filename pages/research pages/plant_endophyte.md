@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Plant and fungal endophytes: friend or foe, or, both?
 subtitle: 
 image: "/assets/img/PI.jpg"
