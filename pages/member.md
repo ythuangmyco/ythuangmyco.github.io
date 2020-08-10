@@ -9,7 +9,7 @@ permalink: "member"
 <div class="container-fluid">
   
 <div class="row">
-  <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+  <div class="col no-gutters col-lg-4 col-md-4 col-sm-6 col-xs-12">
     <h4>主持人 Principal investigator</h4>
     <p>木吉 Muji</p>
 	  <div class="hovereffect">
@@ -19,7 +19,7 @@ permalink: "member"
 	  </div>
 	</div>
   
-<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+<div class="col no-gutters col-lg-4 col-md-4 col-sm-6 col-xs-12">
     <h4>資深研究員 Senior researcher</h4>
     <p>黃尹則 Yin-Tse Huang</p>
 	<div class="hovereffect">
