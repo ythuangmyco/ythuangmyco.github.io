@@ -4,10 +4,7 @@ title: Research
 subtitle: past and ongoing projects
 permalink: "research"
 ---
-
-## Ongoing project
 _________
-<!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
