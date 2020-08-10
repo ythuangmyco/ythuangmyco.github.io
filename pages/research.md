@@ -4,7 +4,6 @@ title: Research
 subtitle: past and ongoing projects
 permalink: "research"
 ---
-<br>
 <div class="container-fluid">
 <div class="row">
   <div class="col no-gutters col-sm-6 col-xs-12">
