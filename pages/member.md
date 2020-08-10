@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-mem
 title: Members
 subtitle:
 permalink: "member"
