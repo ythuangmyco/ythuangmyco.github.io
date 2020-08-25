@@ -3,7 +3,7 @@ layout: page
 title: Research
 subtitle: past and ongoing projects
 permalink: "research"
-puslish: "false"
+puslished: "false"
 ---
 <br>
 <div class="container-fluid">
