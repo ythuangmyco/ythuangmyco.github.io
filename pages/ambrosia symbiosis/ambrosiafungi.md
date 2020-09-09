@@ -5,7 +5,7 @@ subtitle: Ambrosia fungi
 permalink: "ambrosiafungi"
 #published: false
 ---
-![](assets/img/ambrosia_fungi_phy.png)
+![](assets/img/BarkBeeltFungi_pic2.png)
 *Diverse evolutionary origins and swollen ambrosia cells of ambrosia fungi*
 
 - <h4><a href="ambrosiafungi_diversity">多樣性 Diversity</a></h4>
