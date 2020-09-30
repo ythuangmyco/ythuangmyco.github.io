@@ -16,3 +16,6 @@ use-site-title: true
   <a type="button" class="btn btn-outline-secondary" href="/">All posts</a>
   <a type="button" class="btn btn-outline-secondary" href="/tags">Index</a>
 </div>
+
+<script async src="https://cse.google.com/cse.js?cx=ec1226b22d72b2c45"></script>
+<div class="gcse-search"></div>
