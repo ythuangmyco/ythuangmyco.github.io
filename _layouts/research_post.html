@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
+{% assign posts = paginator.research_posts | default: site.research_posts %}
 
 <div class="posts-list">
   {% for post in posts %}
