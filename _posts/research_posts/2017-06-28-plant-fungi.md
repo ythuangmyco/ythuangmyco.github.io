@@ -9,6 +9,7 @@ round-avatar: false
 readtime: true
 tags: [symbiosis, transcriptome]
 permalink: "plantfungi"
+categories: research_posts
 #published: FALSE
 ---
 <br>
