@@ -2,8 +2,8 @@
 layout: page
 title: Research
 subtitle: past and ongoing projects
-#permalink: "research"
-#published: false
+permalink: "research"
+published: false
 ---
 <br>
 <div class="container-fluid">
