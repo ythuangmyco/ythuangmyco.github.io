@@ -2,7 +2,7 @@
 layout: post
 title: Plant X Endophytes
 subtitle: friend or foe, or, both?
-image: "/assets/img/PI.jpg"
+image: "/assets/img/Arabidopsis_endo.png"
 cover-img:
 show-avatar: true
 round-avatar: false
@@ -12,5 +12,11 @@ permalink: "plantfungi"
 #published: FALSE
 ---
 <br>
-”… endophytes are fungi or bacteria which, for all or part of their life cycle, invade the tissues of living plants and cause unapparent and asymptomatic infections entirely within plant tissues but cause no symptoms of disease” – Dennis Wilson, 1995
-”State”, not a fixed ”category”
+Constructing a stable, beneficial, and functional complementary microbial community is of importance in many
+aspects of life. It can be applied in fields such as human gut microbiome, agricultural application, and
+environmental restoration. We are investigating interactions between plants and their fungal symbionts under
+varied environmental and biological conditions. We seek to use the obtained data to construct a quantifiable
+system allowing us to manipulate microbial communities suitable for conditions where to be applied.
+We are using plant Arabidopsis thaliana and combinations of three proven beneficial fungal endophytes
+(Colletotrichum tofieldiae, Cladophialophora chaetospira, and Piriformospora indica) to study their interactions
+under phosphorus sufficient / deficient conditions in different plant developing stages.
