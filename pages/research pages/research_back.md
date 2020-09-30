@@ -9,7 +9,7 @@ permalink: "research"
 <div class="container-fluid">
 <div class="row">
   <div class="col no-gutters col">
-    <a href=""><img src="/assets/img/PI.jpg"></a><br>
+    <a href=""><img src="/assets/img/Arabidopsis_endophyte2.png"></a><br>
     <h4>Plant and fungal endophytes</h4>
     <p>Constructing a stable, beneficial, and functional complementary microbial community is of importance in many
 aspects of life. It can be applied in fields such as human gut microbiome, agricultural application, and
