@@ -18,5 +18,3 @@ Constructing a stable, beneficial, and functional complementary microbial commun
 We are investigating interactions between plants and their fungal symbionts under varied environmental and biological conditions. We seek to use the obtained data to construct a quantifiable system allowing us to manipulate microbial communities suitable for conditions where to be applied.
 
 We are using plant Arabidopsis thaliana and combinations of three proven beneficial fungal endophytes to study their interactions under nutrient sufficient/deficient conditions in different plant developing stages.
-
-<br>
