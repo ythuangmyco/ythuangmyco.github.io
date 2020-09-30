@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Research
 subtitle: past and ongoing projects
 show-avatar : true
