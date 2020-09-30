@@ -8,6 +8,7 @@ show-avatar: true
 round-avatar: true
 readtime: false
 tags: [evolution, symbiosis]
+categories: posts
 #published: false
 ---
 大約一萬兩千年前，世界各地的人類不約而同地從狩獵、採集的生活型態轉型成遊牧、群聚的農業聚落。農業行為的出現，深深地影響了人類發展的腳步；人口的急遽增長、專業分工的產生 (有更多時間去做找食物以外的事情)，間接導致社會結構的出現，爾後組成大型聚落甚至是政府。因此，發展出農業行為是人類演進過程中的重大事件。
