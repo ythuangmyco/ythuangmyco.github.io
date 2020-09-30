@@ -2,7 +2,7 @@
 layout: home
 title: Research
 subtitle: past and ongoing projects
-permalink: "research"
+#permalink: "research"
 #published: false
 ---
 <br>
