@@ -4,15 +4,13 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
+{% assign posts = paginator.posts | default: site.categories.posts %}
 
 <div class="posts-list">
   {% for post in site.categories.posts %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
       <h2 class="post-title">{{ post.title }}</h2>
-    {{ posts.output }}
-  {% endfor %}
   
       {% if post.subtitle %}
         <h3 class="post-subtitle">
