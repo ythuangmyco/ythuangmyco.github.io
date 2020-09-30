@@ -6,6 +6,7 @@ permalink: "research"
 #published: false
 ---
 
+
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
@@ -77,4 +78,3 @@ permalink: "research"
   {% endif %}
 </ul>
 {% endif %}
-
