@@ -5,20 +5,76 @@ subtitle: past and ongoing projects
 permalink: "research"
 #published: false
 ---
-<br>
-<div class="container-fluid">
-<div class="row">
-  <div class="col no-gutters col">
-    <a href=""><img src="/assets/img/Arabidopsis_endo.png"></a><br>
-    <h4>Plant and fungal endophytes</h4>
-    <p>Constructing a stable, beneficial, and functional complementary microbial community is of importance in many
-aspects of life. It can be applied in fields such as human gut microbiome, agricultural application, and
-environmental restoration. We are investigating interactions between plants and their fungal symbionts under
-varied environmental and biological conditions. We seek to use the obtained data to construct a quantifiable
-system allowing us to manipulate microbial communities suitable for conditions where to be applied.
-We are using plant Arabidopsis thaliana and combinations of three proven beneficial fungal endophytes
-(Colletotrichum tofieldiae, Cladophialophora chaetospira, and Piriformospora indica) to study their interactions
-under phosphorus sufficient / deficient conditions in different plant developing stages</p><br>
-  </div>
+
+{{ content }}
+
+{% assign posts = paginator.posts | default: site.posts %}
+
+<div class="posts-list">
+  {% for post in posts %}
+  <article class="post-preview">
+    <a href="{{ post.url | relative_url }}">
+      <h2 class="post-title">{{ post.title }}</h2>
+
+      {% if post.subtitle %}
+        <h3 class="post-subtitle">
+        {{ post.subtitle }}
+        </h3>
+      {% endif %}
+    </a>
+
+    <p class="post-meta">
+      {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+      Posted on {{ post.date | date: date_format }}
+    </p>
+
+    <div class="post-entry-container">
+      {% if post.image %}
+      <div class="post-image">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.image | relative_url }}">
+        </a>
+      </div>
+      {% endif %}
+      <div class="post-entry">
+        {% assign excerpt_length = site.excerpt_length | default: 50 %}
+        {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
+        {% assign excerpt_word_count = post.excerpt | number_of_words %}
+        {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
+          <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if post.tags.size > 0 %}
+    <div class="blog-tags">
+      Tags:
+      {% if site.link-tags %}
+      {% for tag in post.tags %}
+      <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+      {% endfor %}
+      {% else %}
+        {{ post.tags | join: ", " }}
+      {% endif %}
+    </div>
+    {% endif %}
+
+   </article>
+  {% endfor %}
 </div>
-<br>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pagination main-pager">
+  {% if paginator.previous_page %}
+  <li class="page-item previous">
+    <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="page-item next">
+    <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
+
