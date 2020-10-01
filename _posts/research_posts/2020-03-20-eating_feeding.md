@@ -7,7 +7,7 @@ cover-img:
 show-avatar: true
 round-avatar: false
 readtime: true
-tags: [symbiosis, metabolic, evolution]
+tags: [symbiosis, metabolism, evolution]
 #permalink: ""
 categories: research_posts
 #published: FALSE
