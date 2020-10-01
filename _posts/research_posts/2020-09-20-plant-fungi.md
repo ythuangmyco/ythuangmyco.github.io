@@ -12,6 +12,8 @@ permalink: "plantfungi"
 categories: research_posts
 #published: FALSE
 ---
+![](/assets/img/plantfungiscoring.png)
+*Scoring of plant and fungi in network interactions*
 <br>
 We are living in a world full of microbes. These tiny critters affect all aspects of our life. One of the holy grails in the microbiology field is to construct a stable, beneficial, and functional complementary microbial community that can be applied to places needed. Examples such as human gut microbiome, farming lands, landfills, biofuel industries, and environment restoration can be benefited from it.
 <br>
