@@ -13,7 +13,7 @@ categories: research_posts
 #published: FALSE
 ---
 ![](/assets/img/plantfungiscoring.png)
-*Scoring introducted microbes with plant hosts in a network interaction [picture from Toju et al. (2020)]* <br>
+*Scoring introducted microbes for their interaction with plant hosts in a network system [picture from Toju et al. (2020)]* <br>
 <br>
 We are living in a world full of microbes. These tiny critters affect all aspects of our life. One of the holy grails in the microbiology field is to construct a stable, beneficial, and functional complementary microbial community that can be applied to places needed. Examples such as human gut microbiome, farming lands, landfills, biofuel industries, and environment restoration can be benefited from it.<br>
 
