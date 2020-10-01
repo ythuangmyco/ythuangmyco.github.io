@@ -30,7 +30,9 @@ I strategically selected nine tree species, including common trees in the region
 
 I eventually obtained 55 *Geosmithia* species from 195 beetle specimens from 45 exposed tree branches. There were 14 *Geosmithia* species were identified, and six of which were new to science. What amazing diversity in the Southeast USA!<br>
 
-![](/assets/img/Geosmithia_brunnea.png)<br>
+<p align="center">
+  <img src="/assets/img/Geosmithia_brunnea.png" />
+</p><br>
 *A new Geosmithia from the Southeast USA [from Huang et al. (2018)]*<br>
 
 Statistically speaking, five *Geosmithia* species are specific to trees where they collected from, and none were specific to beetle species. This is surprising because beetles are the only mobile agent in the relationship (tree and fungus are immobile on their own), and are conventionally considered as the affinity determiner.<br>
