@@ -23,7 +23,7 @@ We take advantage of the manipulability of plants and fungi and are using the sy
 
 Because each of the tested fungus promotes the growth of varied plant species, I would hypothesize that, when co-cultured, some additive effect would be seen. Consequently, the alternative hypothesis would be that these fungi may compete with each other for limited resources (nutrients, space, or niches in plant root) and result in a fierce battle ground that might oppositely affect the growth of plants.<br>
 
-To form a matrix for scoring the performance of these fungi, responses of plants (biomass and transcripts) and fungi (transcripts) under varied nutrient levels would be measured. With that, it deepens our knowledge of how exactly microbes interact with the host in different conditions. A scoring system of microbes can be readily applied to other fields by substituting measurable variables for desired effects.<br>
+To form a matrix for scoring the performance of these fungi, responses of plants (biomass and transcripts) and fungi (transcripts) under varied nutrient levels would be measured and analyzed. With that, it deepens our knowledge of how exactly microbes interact with the host in different conditions. A scoring system of microbes can be readily applied to other fields by substituting measurable variables for desired effects.<br>
 
 **Reference cited**<br>
 Toju H, Abe MS, Ishii C, Hori Y, Fujita H, Fukuda S. Scoring Species for Synthetic Community Design: Network Analyses of Functional Core Microbiomes. Front Microbiol 2020; 11: 1361.
