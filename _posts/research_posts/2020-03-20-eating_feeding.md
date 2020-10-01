@@ -33,7 +33,7 @@ We strategically selected six phylogenetically unrelated pairs of fungi includin
 The result revealed that these fungi became ambrosial in different ways, and likely influenced a lot by their phylogenetic background. We found phylogeny alone can explain 59% and 31% of the variations in their eating and feeding patterns. There were almost nothing of the variations explained by the ambrosia lifestyle. Therefore, ambrosia fungi keep much of the metabolic capacity as their non-ambrosial ancestors when adapted to be the crops.<br>
 
 ![](/assets/img/g6200-1.png)<br>
-*Phylogeny matters when talking about the metabolic patterns of ambrosia fungi.* <br>
+*Phylogeny matters when talking about the metabolic patterns of ambrosia fungi. [adapted from Huang et al. (2019 & 2020)]* <br>
 
 The result does highlight the great divergence of ecological niches and phylogenetic origins of ambrosia fungi. A conserved metabolism inherited from their ancestors which might have been optimized for distinct niches would be a rational and safe strategy for fungi. In fact, the functional redundancy has been shown in many associated fungi in ambrosia symbiosis. It indicates that the nutritional-oriented evolution of fungi to feed the vector beetles may not be that strongly enforced in the ambrosia system.<br>
  
