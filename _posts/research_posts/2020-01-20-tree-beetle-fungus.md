@@ -14,7 +14,7 @@ categories: research_posts
 ---
 <p align="center">
   <img src="/assets/img/tree_beetle_fungus.png" />
-</p><br>
+</p>
 *Tree, beetle, and fungus, are components affecting the association relationship with each other.*<br>
 
 Most bark beetles are associated with hundreds, if not thousands, of microbes during their life, often with a few dominant taxa at a time. One of the fungal genus *Geosmithia*, is globally very diverse and abundant, and dominantes a ubiquitous but under studied niche — the twig-infesting / phloem-feeding bark beetle mycobiome. <br>
@@ -32,7 +32,7 @@ I eventually obtained 55 *Geosmithia* species from 195 beetle specimens from 45 
 
 <p align="center">
   <img src="/assets/img/Geosmithia_brunnea.png" />
-</p><br>
+</p>
 *A new Geosmithia from the Southeast USA [from Huang et al. (2018)]*<br>
 
 Statistically speaking, five *Geosmithia* species are specific to trees where they collected from, and none were specific to beetle species. This is surprising because beetles are the only mobile agent in the relationship (tree and fungus are immobile on their own), and are conventionally considered as the affinity determiner.<br>
