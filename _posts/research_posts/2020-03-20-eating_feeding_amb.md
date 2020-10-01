@@ -2,7 +2,7 @@
 layout: post
 title: Metabolic evolution of ambrosia fungi 
 subtitle: Phylogeny v.s. lifestyle
-image: "/assets/img/AmbFungi among BarkBeetleFungi_pic2.png"
+image: "/assets/img/AmbBarkFungi among Fungi.png"
 cover-img:
 show-avatar: true
 round-avatar: false
