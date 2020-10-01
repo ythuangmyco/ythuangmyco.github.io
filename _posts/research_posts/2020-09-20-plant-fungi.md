@@ -25,5 +25,5 @@ Because each of the tested fungus promotes the growth of varied plant species, I
 
 To form a matrix for scoring the performance of these fungi, responses of plants (biomass and transcripts) and fungi (transcripts) under varied nutrient levels would be measured. With that, it deepens our knowledge of how exactly microbes interact with the host in different conditions. A scoring system of microbes can be readily applied to other fields by substituting measurable variables for desired effects.<br>
 
-**Cited reference**<br>
+**Reference cited**<br>
 Toju H, Abe MS, Ishii C, Hori Y, Fujita H, Fukuda S. Scoring Species for Synthetic Community Design: Network Analyses of Functional Core Microbiomes. Front Microbiol 2020; 11: 1361.
