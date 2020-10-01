@@ -12,10 +12,10 @@ tags: [symbiosis, metabolic, evolution]
 categories: research_posts
 #published: FALSE
 ---
+100 million years ago, a group of bark beetles started to farm their fungal symbionts and formed a tight relationship with the fungal crops. Such lifeform between bark beetles and their fungi is termed ambrosia symbiosis, and therefore “ambrosia beetles” and “ambrosia fungi” for components involved.<br>
+
 ![](/assets/img/AmbFungi among BarkBeetleFungi_pic2.png)<br>
 *Diverse origins and enlarged ambrosia cells of ambrosia fungi.* <br>
-
-100 million years ago, a group of bark beetles started to farm their fungal symbionts and formed a tight relationship with the fungal crops. Such lifeform between bark beetles and their fungi is termed ambrosia symbiosis, and therefore “ambrosia beetles” and “ambrosia fungi” for components involved.<br>
 
 This is currently the earliest known agriculture in insects, and perhaps in animals. The farmer beetles are fully reliant on the farmed fungi for food sources, and in return, the beetles are the only hitchhike for the fungi, which, otherwise, be left in the doomed environment. Therefore, ambrosia beetles and ambrosia fungi are in mutualistic, obligate relationships.<br>
 
@@ -37,6 +37,6 @@ The result revealed that these fungi became ambrosial in different ways, and lik
 
 The result does highlight the great divergence of ecological niches and phylogenetic origins of ambrosia fungi. A conserved metabolism inherited from their ancestors which might have been optimized for distinct niches would be a rational and safe strategy for fungi. In fact, the functional redundancy has been shown in many associated fungi in ambrosia symbiosis. It indicates that the nutritional-oriented evolution of fungi to feed the vector beetles may not be that strongly enforced in the ambrosia system.<br>
  
-**Reference cited**
+**Reference cited**<br>
 Huang Y-T, Skelton J, Hulcr J. Lipids and small metabolites provisioned by ambrosia fungi to symbiotic beetles are phylogeny-dependent, not convergent. ISME J 2020; 14: 1089–1099.<br>
-Huang Y-T, Skelton J, Hulcr J. Multiple evolutionary origins lead to diversity in the metabolic profiles of ambrosia fungi. Fungal Ecol 2019; 38: 80–88.
+Huang Y-T, Skelton J, Hulcr J. Multiple evolutionary origins lead to diversity in the metabolic profiles of ambrosia fungi. Fungal Ecol 2019; 38: 80–88.<br>
