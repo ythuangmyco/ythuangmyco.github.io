@@ -24,7 +24,7 @@ Current knowledge of *Geosmithia*’s biology and ecology are mostly from survey
 I strategically selected nine tree species, including common trees in the region and walnut / walnut-related species. The freshly cut tree branches were deployed as bait for luring bark beetles. I then excised all bark beetles and isolated their associated fungi with special focus *Geosmithia* species, via body wash. The advantage of such an experimental design is that it essentially factorizes trees, beetles, and fungi as variables that allow us to statistically study their association specificities—a breakthrough for the often described complicated relationship of bark beetle microbiome.<br>
 
 ![](/assets/img/tbf_result.png)<br>
-*Association of Geosmithia species with beetles(A) and trees(B); five Geosmithia species are specific to tree species (D); Rarefaction curce shows the species coverage is very high (C). [adapted from Huang et al. (2019)]* <br>
+*Association of Geosmithia species with beetles (A) and trees (B); five Geosmithia species are specific to tree species (D); Rarefaction curce shows the species coverage is very high (C). [adapted from Huang et al. (2019)]* <br>
 
 I eventually obtained 55 *Geosmithia* species from 195 beetle specimens from 45 exposed tree branches. There were 14 *Geosmithia* species were identified, and six of which were new to science. What an amazing unrecovered diversity in the southeast USA!<br>
 
