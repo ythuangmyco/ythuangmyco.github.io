@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plant X Endophytes
-subtitle: friend or foe, or, both?
+subtitle: Friend or foe, or, both?
 image: "/assets/img/Arabidopsis_endo.png"
 cover-img:
 show-avatar: true
