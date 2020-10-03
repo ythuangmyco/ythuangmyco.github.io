@@ -1,5 +1,9 @@
 # --- Basic options --- #
 
+# jekyll-multiple-language-plugin
+languages: ["en", "ch"]
+exclude_from_localizations: ["assets"]
+
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 url: "https://ythuangmyco.github.io/"
@@ -228,6 +232,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-multiple-languages-plugin
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
