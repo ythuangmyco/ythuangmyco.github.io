@@ -12,25 +12,25 @@ tags: [symbiosis, metabolism, evolution]
 categories: research_posts
 #published: FALSE
 ---
-100 million years ago, a group of bark beetles started to farm their fungal symbionts and formed a tight relationship with the fungal crops. Such lifeform between bark beetles and their fungi is termed ambrosia symbiosis, and therefore “ambrosia beetles” and “ambrosia fungi” for components involved.<br>
+100 million years ago, a group of bark beetles started to farm their fungal symbionts and formed a tight relationship with the fungal crops. Such lifeform between bark beetles and their fungi is termed ambrosia symbiosis, and therefore “ambrosia" beetles and “ambrosia" fungi for these critters involved.<br>
 
 ![](/assets/img/AmbFungi among BarkBeetleFungi_pic2.png)<br>
 *Diverse origins and enlarged ambrosia cells of ambrosia fungi.* <br>
 
-This is currently the earliest known agriculture in insects, and perhaps in animals. The farmer beetles are fully reliant on the farmed fungi for food sources, and in return, the beetles are the only hitchhike for the fungi, which, otherwise, be left in the doomed environment. Therefore, ambrosia beetles and ambrosia fungi are in mutualistic, obligate relationships.<br>
+The ambrosia lifeform is currently the earliest known agriculture in insects, and perhaps in animals. The farmer beetles are fully reliant on the farmed fungi for food sources, in return, the beetles are the only hitchhike for the fungi, which, otherwise, be left in the doomed environment. Therefore, ambrosia beetles and ambrosia fungi are in mutualistic, obligate relationships.<br>
 
 Based on the evolutionary trees, there are at least 12–16 times of bark beetles turning to the ambrosia lifestyle. Likewise, more than 13 times of fungal lineages are adapted to be ambrosia crops.<br>
 
-Surprisingly (or perhaps unsurprisingly), the ambrosia lifestyle fixes the involved beetles and fungi in such a form and never turns back to their original independent lifestyle (free-living). So, what fixes them in the relationship? Did it achieve physically, metabolically, or others? Can we detect it in their genomic, metabolic, or phenotypic features?<br> 
+Surprisingly (or perhaps unsurprisingly), the ambrosia lifestyle fixes the involved beetles and fungi in such a form and never turns back to their original independent lifestyle (free-living). So, what fixes them in the relationship? Does it achieve physically, chemically, metabolically, or others? Can we detect it in their genomic, metabolic, or phenotypic features?<br> 
 
-To answer these questions, we designed an experiment to examine the eating and feeding pattern of ambrosia fungi. We profiled the eating pattern of fungi using the Biolog microarray system for their usage of 190 different carbohydrates, and profiled the feeding pattern using the Ultra Performance Liquid Chromatography (UPLC) for all metabolites present in their cells.<br>
+To answer the questions, we designed an experiment to examine the eating and feeding pattern of ambrosia fungi. We profiled the eating pattern of fungi using the Biolog microarray system for their usage of 190 different carbohydrates, and profiled the feeding pattern using the Ultra Performance Liquid Chromatography (UPLC) for all metabolites present in their cells.<br>
 
 We strategically selected six phylogenetically unrelated pairs of fungi including an ambrosia and a non-ambroisa in each pair. The design allowed us to comparatively study the evolutionary trajectory of unrelated ambrosia fungi to understand how they all land on the ambrosia lifestyle.<br>
 
 ![](/assets/img/Eat_feed_study.png)<br>
 *Comparative study of the eating and feeding patterns of ambrosia fungi.* <br>
 
-The result revealed that these fungi became ambrosial in different ways, and likely influenced a lot by their phylogenetic background. We found phylogeny alone can explain 59% and 31% of the variations in their eating and feeding patterns. There were almost nothing of the variations explained by the ambrosia lifestyle. Therefore, ambrosia fungi keep much of the metabolic capacity as their non-ambrosial ancestors when adapted to be the crops.<br>
+The result revealed that these fungi became ambrosial in different ways, and likely influenced a lot by their phylogenetic background. We found phylogeny alone can explain 59% and 31% of the variations in their eating and feeding patterns. There were almost nothing of the variations explained by the ambrosia lifestyle. It suggested that ambrosia fungi keep much of the metabolic capacity as their non-ambrosial ancestors when adapted to be the crops.<br>
 
 ![](/assets/img/g6200-1.png)<br>
 *Phylogeny matters when talking about the metabolic patterns of ambrosia fungi. [adapted from Huang et al. (2019 & 2020)]* <br>
