@@ -11,5 +11,5 @@ tags: [evolution, symbiosis]
 categories: posts
 #published: false
 ---
-在[泛科學關於小蠹蟲與共生真菌的文章](https://pansci.asia/archives/189833?fbclid=IwAR3ydVshZ4KCN3hdfc3_WEGM_nhzYYsGnKYRyGkRFXwtkm8llDXwWJpZ-bU)！
+在[泛科學關於小蠹蟲與共生真菌的文章](https://pansci.asia/archives/189833?fbclid=IwAR3ydVshZ4KCN3hdfc3_WEGM_nhzYYsGnKYRyGkRFXwtkm8llDXwWJpZ-bU){:target="_blank"}！
 
