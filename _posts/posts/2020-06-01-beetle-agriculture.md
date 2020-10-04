@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [泛科學] 世上最早的「小農」在這裡！菌蠹蟲與真菌缺一不可的共生農業
+title: 世上最早的「小農」在這裡！菌蠹蟲與真菌缺一不可的共生農業
 subtitle:
 image: "/assets/img/Corthyloxiphus_Ecuador.jpg"
 cover-img:
