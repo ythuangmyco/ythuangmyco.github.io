@@ -10,11 +10,11 @@ _________
 
 **Huang, Y.-T.**, Skelton, J., and Hulcr, J. 2020. Lipids and small metabolites provisioned by ambrosia fungi to symbiotic beetles are phylogeny-dependent, not convergent. The ISME Journal. 14: 1089–1099.
 
+**Huang, Y.-T.**, Eickwort, J., and Hulcr, J. 2020. Red Heart Disease in Pines Caused by _Porodaedalea_ (_Phellinus_) _pini_ in Florida. EDIS University of Florida/IFAS.
+
 ## 2019
 
 _________
-
-**Huang, Y.-T.**, Eickwort, J., and Hulcr, J. 2019. Red Heart Disease in Pines Caused by _Porodaedalea_ (_Phellinus_) _pini_ in Florida. EDIS University of Florida/IFAS.
 
 **Huang, Y.-T.** and Hulcr, J. 2019. _Geosmithia_ species in Florida: a common fungal symbiont of wood-boring bark beetle. EDIS University of Florida/IFAS.
 
