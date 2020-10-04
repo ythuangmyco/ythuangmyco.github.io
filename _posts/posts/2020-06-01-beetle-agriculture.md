@@ -11,6 +11,5 @@ tags: [evolution, symbiosis]
 categories: posts
 #published: false
 ---
-我在泛科學發表的關於小蠹蟲與共生真菌的文章！Check it out!
-
+我在泛科學發表的關於小蠹蟲與共生真菌的文章！
 文章網址：https://pansci.asia/archives/189833?fbclid=IwAR3ydVshZ4KCN3hdfc3_WEGM_nhzYYsGnKYRyGkRFXwtkm8llDXwWJpZ-bU
