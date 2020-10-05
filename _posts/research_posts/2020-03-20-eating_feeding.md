@@ -38,5 +38,5 @@ The result revealed that these fungi became ambrosial in different ways, and lik
 The result does highlight the great divergence of ecological niches and phylogenetic origins of ambrosia fungi. A conserved metabolism inherited from their ancestors which might have been optimized for distinct niches would be a rational and safe strategy for fungi. In fact, the functional redundancy has been shown in many associated fungi in ambrosia symbiosis. It indicates that the nutritional-oriented evolution of fungi to feed the vector beetles may not be that strongly enforced in the ambrosia system.<br>
  
 **Reference cited**<br>
-Huang Y-T, Skelton J, Hulcr J. Lipids and small metabolites provisioned by ambrosia fungi to symbiotic beetles are phylogeny-dependent, not convergent. ISME J 2020; 14: 1089–1099.<br>
-Huang Y-T, Skelton J, Hulcr J. Multiple evolutionary origins lead to diversity in the metabolic profiles of ambrosia fungi. Fungal Ecol 2019; 38: 80–88.<br>
+1. Huang Y-T, Skelton J, Hulcr J. Lipids and small metabolites provisioned by ambrosia fungi to symbiotic beetles are phylogeny-dependent, not convergent. ISME J    2020; 14: 1089–1099.<br>
+2. Huang Y-T, Skelton J, Hulcr J. Multiple evolutionary origins lead to diversity in the metabolic profiles of ambrosia fungi. Fungal Ecol 2019; 38: 80–88.<br>
