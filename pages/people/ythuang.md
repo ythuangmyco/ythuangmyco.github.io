@@ -33,9 +33,10 @@ May. 2016&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, Institute of Microbiology
 
 _______
 
-Fungal Ecologyc<br>
-Scientific Reports<br>
-PLOS one
+Fungal Ecology<br>
+Journal of Applied Entomology<br>
+PLOS one<br>
+Scientific Reports
 
 ### Membership
 
