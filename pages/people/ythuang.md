@@ -46,5 +46,5 @@ Member, Mycological Society of Taiwan, since 2008<br>
 Member, Mycological Society of America, since 2017<br>
 Member, Florida Academic Lichen and Fungi Enthusiasts League, since 2017
 
-詳情請見我的 [CV](https://drive.google.com/file/d/1BXsZToKfrGR33RbTaPG8RxzJDiH401pt/view?usp=sharing){:target="_blank"}！<br> 
-You can find more in my [CV](https://drive.google.com/file/d/1BXsZToKfrGR33RbTaPG8RxzJDiH401pt/view?usp=sharing){:target="_blank"}！
+詳情請見我的 [CV](https://drive.google.com/file/d/1BXsZToKfrGR33RbTaPG8RxzJDiH401pt/view?usp=sharing){:target="_blank"}<br> 
+You can find more in my [CV](https://drive.google.com/file/d/1BXsZToKfrGR33RbTaPG8RxzJDiH401pt/view?usp=sharing){:target="_blank"}
