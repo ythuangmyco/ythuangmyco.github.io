@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metabolic evolution of ambrosia fungi 
+title: Metabolic adaptation of ambrosia fungi 
 subtitle: Lifestyle v.s. phylogeny
 image: "/assets/img/AmbBarkFungi_among_Fungi.png"
 cover-img:
