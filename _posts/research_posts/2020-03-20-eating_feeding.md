@@ -17,7 +17,7 @@ categories: research_posts
 ![](/assets/img/AmbFungi among BarkBeetleFungi_pic2.png)<br>
 *Diverse origins and enlarged ambrosia cells of ambrosia fungi.* <br>
 
-The ambrosia lifeform is currently the earliest known agriculture in insects, and perhaps in animals. The farmer beetles are fully reliant on the farmed fungi for food sources, in return, the beetles are the only hitchhike for the fungi, which, otherwise, be left in the doomed environment. Therefore, ambrosia beetles and ambrosia fungi are in mutualistic, obligate relationships.<br>
+The ambrosia lifeform is currently the earliest known agriculture in insects, and perhaps in animals. The farmer beetles are fully reliant on the farmed fungi for food sources, in return, the beetles are the only vehicle for the fungi, which, otherwise, be left in the doomed environment. Therefore, ambrosia beetles and ambrosia fungi are in mutualistic, obligate relationships.<br>
 
 Based on the evolutionary trees, there are at least 12–16 times of bark beetles turning to the ambrosia lifestyle. Likewise, more than 13 times of fungal lineages are adapted to be ambrosia crops.<br>
 
