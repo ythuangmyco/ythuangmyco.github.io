@@ -34,10 +34,10 @@ May. 2016&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, Institute of Microbiology
 _______
 
 Fungal Ecology<br>
+Frontiers in Forests and Global Change<br>
 Journal of Applied Entomology<br>
 PLOS one<br>
-Scientific Reports<br>
-Frontiers in Forests and Global Change
+Scientific Reports
 
 ### Membership
 
