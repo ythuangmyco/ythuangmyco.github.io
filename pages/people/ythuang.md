@@ -36,7 +36,8 @@ _______
 Fungal Ecology<br>
 Journal of Applied Entomology<br>
 PLOS one<br>
-Scientific Reports
+Scientific Reports<br>
+Frontiers in Forests and Global Change
 
 ### Membership
 
