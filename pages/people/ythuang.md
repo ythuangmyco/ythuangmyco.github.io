@@ -27,7 +27,7 @@ Oct 2019 – Jan 2021 &nbsp;&nbsp;**Postdoc Researcher** Center for Ecological R
 Aug 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, United States Forest Service, Northern Research Station<br>
 May 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, Institute of Microbiology, Czech Academy of Sciences<br>
 Aug 2015 – Aug 2019&nbsp;&nbsp;**Research Assistant**, SFRC, University of Florida<br>
-Nov 2012 – Apr 2015&nbsp;&nbsp;**Research Assistant**, Mycology Laboratory, National Chung Hsing University
+Nov 2012 – Apr 2015&nbsp;&nbsp;**Research Assistant**, Mycology Lab, National Chung Hsing University
 
 ### Scholarly review service
 
