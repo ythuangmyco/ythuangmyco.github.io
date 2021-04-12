@@ -33,6 +33,7 @@ Nov 2012 – Apr 2015&nbsp;&nbsp;**Research Assistant**, Mycology Lab, NCHU
 
 _______
 
+Biological Invasions<br>
 Fungal Ecology<br>
 Frontiers in Forests and Global Change<br>
 Journal of Applied Entomology<br>
