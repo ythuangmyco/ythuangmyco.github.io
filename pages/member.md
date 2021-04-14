@@ -25,7 +25,7 @@ permalink: "member"
     <h4> </h4>
     <a href="ythuang"> </a><br>
     <div class="hovereffect">
-    <a class="info" href="ythuang"><img class="img-responsive" src="/assets/img/people/joinus_circle_200.png" alt=""></a>
+    <a class="info" href=" "><img class="img-responsive" src="/assets/img/people/joinus_circle_200.png" alt=""></a>
       </div>
   </div>
 </div>
