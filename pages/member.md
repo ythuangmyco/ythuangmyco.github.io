@@ -11,7 +11,7 @@ permalink: "member"
     <h4>主持人 Principal investigator</h4>
     <a href="ythuang">木吉 Muji</a><br>
     <div class="hovereffect">
-      <a class="info" href="ythuang"><img class="img-responsive" src="/assets/img/people/Muji_TV_crop.gif" alt=""></a>
+      <a class="info" href="ythuang"><img class="img-responsive" src="/assets/img/people/Muji_TV_crop_circle.gif" alt=""></a>
       </div>
   </div>
   <div class="col no-gutters col-sm-6 col-xs-12">
