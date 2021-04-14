@@ -20,8 +20,15 @@ permalink: "member"
     <div class="hovereffect">
     <a class="info" href="ythuang"><img class="img-responsive" src="/assets/img/people/MeInField_circle.png" alt=""></a>
       </div>
+    </div>
+  <div class="col no-gutters col-sm-6 col-xs-12">
+    <h4> </h4>
+    <a href="ythuang"> </a><br>
+    <div class="hovereffect">
+    <a class="info" href="ythuang"><img class="img-responsive" src="/assets/img/people/joinus_circle_200.png" alt=""></a>
+      </div>
   </div>
 </div>
 <br>
----
+
 
