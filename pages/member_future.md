@@ -1,5 +1,5 @@
 ---
-layout: page_mem
+layout: page
 title: Members
 subtitle:
 permalink: "member_future"
@@ -20,6 +20,12 @@ permalink: "member_future"
 <br>
 <h3>博士後研究員 Postdoctoral</h3>
 <hr/>
+  <div class="col no-gutters col-sm col-md">
+    <h3> </h3>
+    <a href=" "> </a><br>
+    <img src="/assets/img/people/joinus_circle_200.png">
+  </div>
+</div>
 <br> 
 <h3>博士班 PhD</h3>
 <hr/>
