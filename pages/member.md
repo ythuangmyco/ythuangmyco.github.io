@@ -17,7 +17,7 @@ permalink: "member"
     <h3>資深研究員 Senior researcher</h3>
     <a href="ythuang">黃尹則 Yin-Tse Huang</a><br>
     <div class="hovereffect">
-     <a class="info" href=" "><img class="img-responsive" src="/assets/img/people/joinus_circle_200.png" alt=""></a>
+     <a class="info" href="ythuang"><img class="img-responsive" src="/assets/img/people/MeInField_circle.png" alt=""></a>
      </div>
   </div>
 </div>
