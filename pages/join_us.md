@@ -7,7 +7,7 @@ permalink: "join_us"
 published: false
 ---
 
-Please e-mail Tad at fukamit at stanford dot edu or other current members if you are interested in joining us as a student or postdoc.
+Please e-mail ythuangmyco@gmail.com or ythuangmyco@kmu.edu.tw if you are interested in joining us as a student or postdoc.
 
 Graduate students
 
