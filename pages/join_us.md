@@ -26,6 +26,6 @@ Undergraduate students
 
 Students are welcome to participate in the research conducted in our lab throughout the year. We often have funded opportunities in summer.
 
-Post-doctoral fellows
+<h4>Post-doctoral fellows</h4>
 <hr/>
 I encourage potential postdocs to apply for independent funding. Meanwhile, I am happy to help brainstorm ideas for collaborative proposals. If you are interested in joining the lab as a postdoc, email me and we can talk about funding opportunities.
