@@ -4,7 +4,7 @@ title: Join us
 subtitle: 
 show-avatar : true
 permalink: "join_us"
-#published: false
+published: false
 ---
 
 Please e-mail Tad at fukamit at stanford dot edu or other current members if you are interested in joining us as a student or postdoc.
