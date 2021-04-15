@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Join us
+title: Join the lab
 subtitle: 
 show-avatar : true
 permalink: "join_us"
 published: false
 ---
-
-Please e-mail ythuangmyco@gmail.com or ythuangmyco@kmu.edu.tw if you are interested in joining us as a student or postdoc.
+The Huang lab is always looking for motivated undergraduate students, graduate students, and postdocs to join the lab. Please e-mail ythuangmyco@gmail.com or ythuangmyco@kmu.edu.tw if you are interested in joining us.
 
 Graduate students
 
