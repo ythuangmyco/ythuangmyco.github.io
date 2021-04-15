@@ -9,16 +9,19 @@ permalink: "member"
   <div class="col no-gutters col-sm col-md">
     <h3>主持人 Principal investigator</h3>
     <a href="ythuang">木吉 Muji</a><br>
-    <img src="/assets/img/people/Muji_TV_crop_circle.gif">
+    <div class="hovereffect">
+     <a class="info" href="ythuang"><img class="img-responsive" src="/assets/img/people/Muji_TV_crop_circle.gif" alt=""></a>
+     </div>
   </div>
   <div class="col no-gutters col-sm col-md">
     <h3>資深研究員 Senior researcher</h3>
     <a href="ythuang">黃尹則 Yin-Tse Huang</a><br>
-    <img src="/assets/img/people/MeInField_circle.png">
+    <div class="hovereffect">
+     <a class="info" href=" "><img class="img-responsive" src="/assets/img/people/joinus_circle_200.png" alt=""></a>
+     </div>
   </div>
 </div>
 <br>
-<hr/>
   <div class="col no-gutters col-sm col-md">
     <h3> </h3>
     <a href=" "> </a><br>
