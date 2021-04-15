@@ -18,9 +18,6 @@ permalink: "member"
     <div class="hovereffect">
       <a class="info" href="ythuang"><img class="img-responsive" src="/assets/img/people/MeInField_circle.png" alt=""></a>
   </div>
-</div>
-<br>
-<h3> </h3>
 <hr/>
   <div class="col no-gutters col-sm col-md">
     <h3> </h3>
