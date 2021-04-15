@@ -14,7 +14,7 @@ Office: 933<br>
 
 <h4>Graduate students</h4>
 <hr/>
-My goal is train graduate students to become independent, high quality scientists. I encourage students to find, design, and execute their research on their own, with me as a collaborator. If you are interested in microbial ecology, insects, or symbiosis, please send me an email introducing yourself, your previous research experience and with a resume or CV attached.
+My goal is train graduate students to become independent, high quality scientists. I encourage students to find, design, and execute their research on their own, with me as a collaborator. If you are interested in microbial ecology, insects, or symbiosis, please send me an email introducing yourself, your previous research experience with a resume or CV attached.
 
 <h4>Undergraduate students</h4>
 <hr/>
