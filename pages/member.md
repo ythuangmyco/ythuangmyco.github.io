@@ -24,7 +24,10 @@ permalink: "member"
 <br>
   <div class="col no-gutters col-sm col-md">
     <h3> </h3>
-    <a href=" "> </a><br>
-    <img src="/assets/img/people/joinus_circle_200.png">
+    <a href="join_us"> </a><br>
+    <div class="hovereffect">
+     <a class="info" href="join_us"><img class="img-responsive" src="/assets/img/people/joinus_circle_200.png" alt=""></a>
+     </div>
   </div>
 </div>
+
