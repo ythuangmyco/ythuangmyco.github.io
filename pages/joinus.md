@@ -7,7 +7,7 @@ permalink: "join_us"
 #published: false
 ---
 {:refdef: style="text-align: center;"}
-![](assets/img/Mycena_crop.jpg)
+![](assets/img/Mycena.jpg)
 {: refdef}
 
 The Huang lab is always looking for motivated undergraduate students, graduate students, and postdocs to join the lab. Please e-mail [ythuangmyco@gmail.com](ythuangmyco@gmail.com) or [ythuangmyco@kmu.edu.tw](ythuangmyco@kmu.edu.tw) if you are interested in joining us.
