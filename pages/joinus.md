@@ -6,6 +6,10 @@ show-avatar : true
 permalink: "join_us"
 #published: false
 ---
+{:refdef: style="text-align: center;"}
+![](assets/img/Mycena_crop.jpg)
+{: refdef}
+
 The Huang lab is always looking for motivated undergraduate students, graduate students, and postdocs to join the lab. Please e-mail [ythuangmyco@gmail.com](ythuangmyco@gmail.com) or [ythuangmyco@kmu.edu.tw](ythuangmyco@kmu.edu.tw) if you are interested in joining us.
 
 The Huang lab is housed in the [Department of Biomedical Science and Environmental Biology](https://biology.kmu.edu.tw/index.php/zh-TW/) at Kaohsiung Medical School.<br>
