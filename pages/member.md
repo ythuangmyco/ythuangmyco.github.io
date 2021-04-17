@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Members
-subtitle:
+subtitle: " "
 permalink: "member"
 --- 
-<br>
 <div class="container-fluid">
 <div class="row">
   <div class="col no-gutters col-sm col-md">
