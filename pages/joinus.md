@@ -14,8 +14,8 @@ The Huang lab is always looking for motivated undergraduate students, graduate s
 
 The Huang lab is housed in the [Department of Biomedical Science and Environmental Biology](https://biology.kmu.edu.tw/index.php/zh-TW/){:target="_blank"} at Kaohsiung Medical School.<br>
 <br>
-Lab: 932<br>
-Office: 927<br>
+Lab: N932<br>
+Office: N927<br>
 
 <h4>Graduate students</h4>
 <hr/>
