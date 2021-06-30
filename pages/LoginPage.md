@@ -6,4 +6,11 @@ permalink: "LoginPage"
 #published: false
 #<iframe src="https://ythuangmyco.github.io/fdcs_login/" height="700" width="100%" frameBorder="0"></iframe>
 ---
-<link rel="登入 / 註冊" href="https://ythuangmyco.github.io/fdcs_login/">
+$.ajax({
+    url: "https://ythuangmyco.github.io/fdcs_login/",
+    data: { uname: "test" },
+    type: "GET",
+    beforeSend: function(xhr){xhr.setRequestHeader('X-TOKEN', 'xxxxx');},
+    success: function() { alert('Success!' + authHeader); }
+});
+
