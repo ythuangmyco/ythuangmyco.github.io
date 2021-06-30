@@ -6,9 +6,7 @@ permalink: "LoginPage"
 #published: false
 #<iframe src="https://ythuangmyco.github.io/fdcs_login/" height="700" width="100%" frameBorder="0"></iframe>
 ---
-<object data="https://ythuangmyco.github.io/fdcs_login/"
-width="100%"
-height="800"
-type="text/html">
-    Alternative Content
-</object>
+$.get('https://ythuangmyco.github.io/fdcs_login/', function(data) {
+  $('.result').html(data);
+     alert('App Loadded');
+});
