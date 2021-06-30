@@ -6,22 +6,54 @@ permalink: "LoginPage"
 #published: false
 #<iframe src="https://ythuangmyco.github.io/fdcs_login/" height="700" width="100%" frameBorder="0"></iframe>
 ---
-<html>
-<head>
-	<title>An Ajax Web Application</title>
-</head>
-<body>
-<h1 id="page-title"></h1>
-<button id="load-data">Click Here to Load the Data</button>
-<script>
-	document.getElementById("load-data").addEventListener("click",function(){
-		var xmlhttp = new XMLHttpRequest();
-		xmlhttp.open("GET", "https://ythuangmyco.github.io/fdcs_login/");
-		xmlhttp.onreadystatechange = function() {
-			document.getElementById("page-title").innerHTML = this.responseText;
-		};
-		xmlhttp.send();
-	});
-</script>
-</body>
-</html>
+class MyComponent extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      error: null,
+      isLoaded: false,
+      items: []
+    };
+  }
+
+  componentDidMount() {
+    fetch("https://ythuangmyco.github.io/fdcs_login/")
+      .then(res => res.json())
+      .then(
+        (result) => {
+          this.setState({
+            isLoaded: true,
+            items: result.items
+          });
+        },
+        // Note: it's important to handle errors here
+        // instead of a catch() block so that we don't swallow
+        // exceptions from actual bugs in components.
+        (error) => {
+          this.setState({
+            isLoaded: true,
+            error
+          });
+        }
+      )
+  }
+
+  render() {
+    const { error, isLoaded, items } = this.state;
+    if (error) {
+      return <div>Error: {error.message}</div>;
+    } else if (!isLoaded) {
+      return <div>Loading...</div>;
+    } else {
+      return (
+        <ul>
+          {items.map(item => (
+            <li key={item.id}>
+              {item.name} {item.price}
+            </li>
+          ))}
+        </ul>
+      );
+    }
+  }
+}
