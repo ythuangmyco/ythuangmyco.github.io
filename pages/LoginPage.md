@@ -6,28 +6,22 @@ permalink: "LoginPage"
 #published: false
 #<iframe src="https://ythuangmyco.github.io/fdcs_login/" height="700" width="100%" frameBorder="0"></iframe>
 ---
-<!DOCTYPE html>
 <html>
+<head>
+	<title>An Ajax Web Application</title>
+</head>
 <body>
-
-<div id="demo">
-<h1>The XMLHttpRequest Object</h1>
-<button type="button" onclick="loadDoc()">Change Content</button>
-</div>
-
+<h1 id="page-title"></h1>
+<button id="load-data">Click Here to Load the Data</button>
 <script>
-function loadDoc() {
-  var xhttp = new XMLHttpRequest();
-  xhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-      document.getElementById("demo").innerHTML =
-      this.responseText;
-    }
-  };
-  xhttp.open("GET", "https://ythuangmyco.github.io/fdcs_login/", true);
-  xhttp.send();
-}
+	document.getElementById("load-data").addEventListener("click",function(){
+		var xmlhttp = new XMLHttpRequest();
+		xmlhttp.open("GET", "https://ythuangmyco.github.io/fdcs_login/");
+		xmlhttp.onreadystatechange = function() {
+			document.getElementById("page-title").innerHTML = this.responseText;
+		};
+		xmlhttp.send();
+	});
 </script>
-
 </body>
 </html>
