@@ -1,8 +1,8 @@
 # --- Basic options --- #
 
 # jekyll-multiple-language-plugin
-languages: ["en", "ch"]
-exclude_from_localizations: ["assets"]
+# languages: ["en", "ch"]
+# exclude_from_localizations: ["assets"]
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
@@ -40,6 +40,8 @@ navbar-links:
         #- 共生適應<br>adaptation: "ambrosiabeetle_adaptation"
   Research: "research"
   Publication: "publication"
+#  Test: "LoginPage"
+  FCS: "LoginPage"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image

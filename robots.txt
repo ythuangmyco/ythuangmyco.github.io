@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: /FungiCitizenScienceCRUDAPP
+          /LogoutPage
+
+User-agent: *
+Allow: /
+
+Sitemap: https://ythuangmyco.github.io/feed.xml
