@@ -6,8 +6,4 @@ permalink: "LoginPage"
 #published: false
 #<iframe src="https://ythuangmyco.github.io/fdcs_login/" height="700" width="100%" frameBorder="0"></iframe>
 ---
-  <div id='include-from-outside'></div>
-    <script type='text/javascript'>
-      $('#include-from-outside').load('https://ythuangmyco.github.io/fdcs_login');
-    </script> 
-
+<a href="https://ythuangmyco.github.io/fdcs_login/">登入 / </a>
