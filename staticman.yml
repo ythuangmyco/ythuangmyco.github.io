@@ -103,8 +103,8 @@ comments:
   # 3. Uncomment `siteKey` and `secret` and fill them in with your values
   reCaptcha:
     enabled: true
-    #siteKey: "6LcexWsbAAAAAAi4XcWSqD6frVXHc7U64SiT-4DF"
+    siteKey: "6LcexWsbAAAAAAi4XcWSqD6frVXHc7U64SiT-4DF"
     # ENCRYPT reCaptcha secret key using Staticman /encrypt endpoint
     # i.e. https://{STATICMAN API INSTANCE}/v3/encrypt/{your-site-secret}
     # For more information, visit https://staticman.net/docs/encryption
-    #secret: "6LcexWsbAAAAAI9qGF-94lxkBkkPQb6HKPBVWwn-"
+    secret: "6LcexWsbAAAAAI9qGF-94lxkBkkPQb6HKPBVWwn-"
