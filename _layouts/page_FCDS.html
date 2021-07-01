@@ -2,13 +2,13 @@
 layout: base
 ---
 {% include header.html type="page" %}
-<!-- <script src="https://app.awesome-table.com/AwesomeTableInclude.js"></script> -->
+<script src='https://www.google.com/recaptcha/api.js'></script>
 
 <div class="container-md" role="main">
   <div class="row">
     <div class="col-xl-12 col-lg-12">
-<!--      <div data-type="AwesomeTableView" data-hide-filters="false" data-filters="" data-viewID="-MdWhajOYO_CZJt9pSTZ"></div>      -->
       {{ content }}
+      <div class="g-recaptcha" data-sitekey="6LcexWsbAAAAAAi4XcWSqD6frVXHc7U64SiT-4DF"></div>
       {% include comments.html %}
     </div>
   </div>
