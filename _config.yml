@@ -41,7 +41,7 @@ navbar-links:
   Research: "research"
   Publication: "publication"
 #  Test: "LoginPage"
-  FCS: "FungiCitizenScienceCRUDAPP"
+  TFDCS: "TFDCS_Input_Display"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
