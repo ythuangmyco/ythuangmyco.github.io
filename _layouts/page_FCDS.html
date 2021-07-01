@@ -8,10 +8,16 @@ layout: base
   <div class="row">
     <div class="col-xl-12 col-lg-12">
       {{ content }}
-      <div class="text-right">
-        <div class="g-recaptcha float: right" data-sitekey="6LfG12sbAAAAADx-DmwzQ1k9-WT-AgxqNQguWynZ"></div>
+      <div style="text-align: center;">
+        <div
+             class="g-recaptcha" 
+             data-sitekey="6LfG12sbAAAAADx-DmwzQ1k9-WT-AgxqNQguWynZ" 
+             style="display: inline-block;">
+        </div>
       </div>
       {% include comments.html %}
     </div>
   </div>
 </div>
+
+
