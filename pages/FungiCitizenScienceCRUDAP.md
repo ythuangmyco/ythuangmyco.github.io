@@ -5,6 +5,4 @@ subtitle: 公民科學調查
 permalink: "FungiCitizenScienceCRUDAPP"
 #published: false
 ---
-
-<iframe src="https://script.google.com/macros/s/AKfycbyc2A_spYR8J9wUB-ILPlHwChZB8-OSvdFccd45nzfKAUnJSkaxam2dbd5VbIcH5iYzhw/exec"
-height="1000" width="100%" frameBorder="0"></iframe>
+<iframe src="https://script.google.com/macros/s/AKfycbyc2A_spYR8J9wUB-ILPlHwChZB8-OSvdFccd45nzfKAUnJSkaxam2dbd5VbIcH5iYzhw/exec" height="1000" width="100%" frameBorder="0"></iframe>
