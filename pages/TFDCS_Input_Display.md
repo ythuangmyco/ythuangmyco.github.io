@@ -9,7 +9,7 @@ permalink: "TFDCS_Input_Display"
 <object data="https://script.google.com/macros/s/AKfycbxrdsNgC6D8sihpNH5xGfSOjjIH82lenuD3iHG1N_sgYH5UpKelrn0WMC0vROZ-utEmUw/exec" width="100%" height="1100">
     Error: Embedded data could not be displayed.
 </object>
-<h2>想看看大家的貢獻？好阿給你看</h2>
+<h2>想看看其他人的貢獻？嚨滴</h2>
 <hr>
 <iframe referrerpolicy="no-referrer-when-downgrade" height="620" width="100%" style="border:none;" src="https://view-awesome-table.com/-MdcIcYQ-6J01f22E6UG/view"></iframe>
 
