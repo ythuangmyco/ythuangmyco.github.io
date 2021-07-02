@@ -10,6 +10,8 @@ permalink: "TFDCS_Input_Display"
     <embed src="https://script.google.com/macros/s/AKfycbzFx8a-4MCdhV_W1QAyZnhPfndtDw42Xh5PJB3ypv4Af7YbbW_EuNbJut4Px6E5BewxjQ/exec" width="100%" height="1100"></embed>
     Error: Embedded data could not be displayed.
 </object>
+<h2>想搜尋你的資料？</h2>
+<hr>
 <iframe referrerpolicy="no-referrer-when-downgrade" height="620" width="100%" style="border:none;" src="https://view-awesome-table.com/-MdcIcYQ-6J01f22E6UG/view"></iframe>
 
 
