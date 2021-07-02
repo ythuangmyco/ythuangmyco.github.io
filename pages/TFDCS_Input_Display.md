@@ -6,8 +6,7 @@ permalink: "TFDCS_Input_Display"
 #published: false
 ---
 <iframe referrerpolicy="no-referrer-when-downgrade" height="520" width="100%" style="border:none;" src="https://view-awesome-table.com/-MdcEQCP3pRK4wRmkIG_/view"></iframe>
-<object data="https://script.google.com/macros/s/AKfycbzFx8a-4MCdhV_W1QAyZnhPfndtDw42Xh5PJB3ypv4Af7YbbW_EuNbJut4Px6E5BewxjQ/exec" width="100%" height="1100">
-    <embed src="https://script.google.com/macros/s/AKfycbzFx8a-4MCdhV_W1QAyZnhPfndtDw42Xh5PJB3ypv4Af7YbbW_EuNbJut4Px6E5BewxjQ/exec" width="100%" height="1100"></embed>
+<object data="https://script.google.com/macros/s/AKfycbxrdsNgC6D8sihpNH5xGfSOjjIH82lenuD3iHG1N_sgYH5UpKelrn0WMC0vROZ-utEmUw/exec" width="100%" height="1100">
     Error: Embedded data could not be displayed.
 </object>
 <h2>想看看大家的貢獻？好阿給你看</h2>
