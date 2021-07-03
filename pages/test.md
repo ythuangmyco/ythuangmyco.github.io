@@ -5,6 +5,5 @@ subtitle: 公民科學調查
 permalink: "MapboxSolution"
 #published: false
 ---
-<object data="https://script.google.com/macros/s/AKfycbwxBm3RpRzMbVs3ty-VdCc6rFZXlXTvKOuhibZs17qlRo4Iru6yAh4b3SGt5XFFK8qmFQ/exec" width="100%" height="1100">
-    Error: Embedded data could not be displayed.
-</object>
+<iframe data="https://script.google.com/macros/s/AKfycbx0hrKPcCF4rU1JRbuYlfLM8yQ9n9q3uRSn_g78NW31vloGJkXaimBFQ7a2GYP1slYuug/exec" width="100%" height="700">
+</iframe>
