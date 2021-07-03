@@ -6,10 +6,15 @@ permalink: "TFDCS_Input_Display"
 #published: false
 ---
 <iframe referrerpolicy="no-referrer-when-downgrade" height="520" width="100%" style="border:none;" src="https://view-awesome-table.com/-MdcEQCP3pRK4wRmkIG_/view"></iframe>
-<object data="https://script.google.com/macros/s/AKfycbwxBm3RpRzMbVs3ty-VdCc6rFZXlXTvKOuhibZs17qlRo4Iru6yAh4b3SGt5XFFK8qmFQ/exec" width="100%" height="1100">
-    Error: Embedded data could not be displayed.
-</object>
-<h2>想看看其他人的貢獻？嚨滴佳</h2>
+
+<h2 style="text-align: center;">輸入你的觀察資料</h2>
+<hr>
+<div style="text-align:center;">
+  <object data="https://script.google.com/macros/s/AKfycbyYCKPc3RlBSPM3DebrOYW322h98ggngAVdV2RM7Vyq3ArCiuJKoxS471QxuhtQTO25Aw/exec" width="100%" height="1200">
+  </object>
+</div>
+
+<h2 style="text-align: center;">想看看其他人的貢獻？嚨滴佳</h2>
 <hr>
 <iframe referrerpolicy="no-referrer-when-downgrade" height="620" width="100%" style="border:none;" src="https://view-awesome-table.com/-MdcIcYQ-6J01f22E6UG/view"></iframe>
 
