@@ -7,8 +7,13 @@ permalink: "MapboxSolution"
 ---
 <h2 style="text-align: center;">輸入你的觀察資料</h2>
 <hr>
-<p style="text-align:center;">
-  <iframe src="https://script.google.com/macros/s/AKfycbyYCKPc3RlBSPM3DebrOYW322h98ggngAVdV2RM7Vyq3ArCiuJKoxS471QxuhtQTO25Aw/exec" frameborder="0" width="100%" height="1200"></iframe>
-</p>
+<div style="text-align:center;">
+  <object data="https://script.google.com/macros/s/AKfycbyYCKPc3RlBSPM3DebrOYW322h98ggngAVdV2RM7Vyq3ArCiuJKoxS471QxuhtQTO25Aw/exec" width="100%" height="1200">
+  </object>
+</div>
+
+
+
+
 
 
