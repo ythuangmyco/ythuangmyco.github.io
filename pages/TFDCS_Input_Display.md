@@ -10,7 +10,7 @@ permalink: "TFDCS_Input_Display"
 <h2 style="text-align: center;">輸入你的觀察資料</h2>
 <hr>
 <div style="text-align:center;">
-  <object data="https://script.google.com/macros/s/AKfycbx3PvWuqNmBj6Bt-LAKZi2cOm6mPQo7_5QxdT4jAOvOaSie6slmkThR6QFNmmBYZ6KVmA/exec">
+  <object data="https://script.google.com/macros/s/AKfycbyHsY5p6W5IN3oZLTojIZ2RkZWpZxe2YBggWtBD3_OlMNiXiOF5QKzALc5emUMSbpXKiQ/exec" width="100%" height="1000" >
   </object>
 </div>
 
