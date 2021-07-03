@@ -12,8 +12,3 @@ permalink: "MapboxSolution"
   </object>
 </div>
 
-
-
-
-
-
