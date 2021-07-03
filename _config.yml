@@ -43,8 +43,9 @@ navbar-links:
   真菌公民科學調查: 
     - 結果輸入＆即時觀看: "TFDCS_Input_Display"
     - 如何加入: " x" 
-  Test: "MapboxSolution"    
+  # Test: "MapboxSolution"
 # --- Logo --- #
+
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
