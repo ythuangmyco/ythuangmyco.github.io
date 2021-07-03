@@ -14,7 +14,7 @@ permalink: "TFDCS_Input_Display"
   </object>
 </div>
 
-<h2 style="text-align: center;">想看看其他人的貢獻？嚨滴佳</h2>
+<h2 style="text-align: center;">想看看其他人的貢獻？</h2>
 <hr>
 <iframe referrerpolicy="no-referrer-when-downgrade" height="620" width="100%" style="border:none;" src="https://view-awesome-table.com/-MdcIcYQ-6J01f22E6UG/view"></iframe>
 
