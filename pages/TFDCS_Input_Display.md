@@ -31,5 +31,3 @@ permalink: "TFDCS_Input_Display"
         width="100%" 
         src="https://view-awesome-table.com/-MdcIcYQ-6J01f22E6UG/view">
 </iframe>
-
-
