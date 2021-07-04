@@ -9,7 +9,9 @@ permalink: "MapboxSolution"
 <hr>
 <div style="text-align:center;">
   <iframe scrolling="no"
-          style="overflow:hidden; height:950; width:100%" 
+          style="overflow:hidden"
+          height:"950" 
+          width:"100%" 
           src="https://script.google.com/macros/s/AKfycbxJqAglqBDa4JNg1DJp0IsCdyMUfjoRFmXNkPFC9QYZseLuMmRTWFBepDE-nmvNICXk4A/exec">
   </iframe>
 </div>
