@@ -14,12 +14,13 @@ permalink: "TFDCS_Input_Display"
 
 <h2 style="text-align: center;">輸入你的觀察資料</h2>
 <hr>
+<h4 style="text-align: center;">只需要填這些資料，其他的iNaturalist會幫你帶入</h2>
 <iframe frameborder="0"
-        height="950"
+        height="500"
         width="100%"
         scrolling="no"
         style="overflow:hidden"
-        src="https://script.google.com/macros/s/AKfycbz1o4IBkHNNViX_BPoD2KgrewfYXdhsJH6KY5F4-QmgQST58qDr0eTFgM-STaX5eihwVw/exec">
+        src="https://script.google.com/macros/s/AKfycbzyKql2dfTHQQrCpatpspdfct-dNAqD0ivH7FnKy56hfDkp6krNM5JvmhQ-ZdjoOwnY3Q/exec">
 </iframe>
 
 <h2 style="text-align: center;">想看看其他人的貢獻？</h2>
