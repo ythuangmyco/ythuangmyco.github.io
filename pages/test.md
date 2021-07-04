@@ -8,6 +8,11 @@ permalink: "MapboxSolution"
 <h2 style="text-align: center;">輸入你的觀察資料</h2>
 <hr>
 <div style="text-align:center;">
-  <iframe frameborder="0" height:"950" width:"100%" src="https://script.google.com/macros/s/AKfycbxJqAglqBDa4JNg1DJp0IsCdyMUfjoRFmXNkPFC9QYZseLuMmRTWFBepDE-nmvNICXk4A/exec"></iframe>
+  <iframe frameborder="0" 
+          height="950" 
+          width="100%"
+          scrolling="no" 
+          style="overflow:hidden" 
+          src="https://script.google.com/macros/s/AKfycbxJqAglqBDa4JNg1DJp0IsCdyMUfjoRFmXNkPFC9QYZseLuMmRTWFBepDE-nmvNICXk4A/exec"></iframe>
 </div>
 
