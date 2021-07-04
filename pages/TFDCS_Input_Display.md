@@ -14,9 +14,10 @@ permalink: "TFDCS_Input_Display"
 
 <h2 style="text-align: center;">輸入你的觀察資料</h2>
 <hr>
-<h4 style="text-align: center;">只要填這些資料，其他的從iNaturalist幫你帶入！</h2>
+<h4 style="text-align: center;">只要填這些資料，其他的從iNaturalist幫你帶入！</h4>
+<br>
 <iframe frameborder="0"
-        height="500"
+        height="700"
         width="100%"
         scrolling="no"
         style="overflow:hidden"
