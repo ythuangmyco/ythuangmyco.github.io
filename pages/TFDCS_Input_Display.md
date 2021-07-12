@@ -9,7 +9,7 @@ permalink: "TFDCS_Input_Display"
         frameborder="0"
         height="520" 
         width="100%"
-        src="https://view-awesome-table.com/-MdcEQCP3pRK4wRmkIG_/view">
+        src="https://view-awesome-table.com/-MdcEQCP3pRK4wRmkIG_/view">    
 </iframe>
 
 <h2 style="text-align: center;">輸入你的觀察資料</h2>
