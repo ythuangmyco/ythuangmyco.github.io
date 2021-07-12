@@ -20,7 +20,7 @@ permalink: "TFDCS_Input_Display"
         width="100%"
         scrolling="no"
         style="overflow:hidden"
-        src="https://script.google.com/macros/s/AKfycbzyKql2dfTHQQrCpatpspdfct-dNAqD0ivH7FnKy56hfDkp6krNM5JvmhQ-ZdjoOwnY3Q/exec">
+        src="https://script.google.com/macros/s/AKfycbxrem0QHHp7L8K1U7TwvmzJsE7azuQ_QxwQLLoC4lISWBrGuOBHcLZZF7PDugLhe7lUkA/exec">
 </iframe>
 
 <h2 style="text-align: center;">想看看其他人的貢獻？</h2>
