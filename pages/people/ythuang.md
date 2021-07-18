@@ -5,7 +5,7 @@ subtitle: Mycologist / Community ecologist
 permalink: "ythuang"
 ---
 {:refdef: style="text-align: center;"}
-![](assets/img/people/Me2021.jpg)
+![](assets/img/people/Me2021_300.jpg)
 {: refdef}
 我是黃尹則！我的研究以真菌、昆蟲和植物作為素材，探討生物間的共生關係。我結合傳統、分子的採樣及統計分析的方式，來了解生物間有趣且複雜的共生關係。除了研究外，攝影與健行也是我的最愛。<br>
 
