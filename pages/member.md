@@ -30,8 +30,7 @@ permalink: "member"
     <a href="join_us"> </a><br>
   </div>
     <div class="col no-gutters col-sm col-md">
-
-    <a href="join_us"> </a><br>
+      
   </div>
 </div>
 
