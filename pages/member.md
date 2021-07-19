@@ -11,7 +11,7 @@ permalink: "member"
      <a class="info" href="muji"><img class="img-responsive" src="/assets/img/people/Muji_TV_crop_circle.gif" alt=""></a>
      </div><br>
      <h4>主持人 Principal investigator</h4>
-     <a href="ythuang">木吉 Muji</a><br>
+     <a href="muji">木吉 Muji</a><br>
   </div>
   <div class="col no-gutters col-sm col-md">
     <div class="hovereffect">
