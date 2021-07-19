@@ -29,5 +29,9 @@ permalink: "member"
     <h4> </h4>
     <a href="join_us"> </a><br>
   </div>
+    <div class="col no-gutters col-sm col-md">
+
+    <a href="join_us"> </a><br>
+  </div>
 </div>
 
