@@ -3,11 +3,14 @@ layout: page
 title: Publications
 permalink: "publication"
 ---
+## 2021
+<hr>
+Li Y, Bateman C, Skelton J, Wang B, Black A, **Huang Y.-T.**, Gonzalez A, Jusino MA, Nolen ZJ, Freeman S, et al. 2021. Pre-invasion assessment of exotic bark beetle-vectored fungi to detect tree-killing pathogens. Phytopathology [Internet]. Available from: http://dx.doi.org/10.1094/PHYTO-01-21-0041-R
+
 
 ## 2020
 
-_________
-
+ <hr>
 **Huang, Y.-T.**, Skelton, J., and Hulcr, J. 2020. Lipids and small metabolites provisioned by ambrosia fungi to symbiotic beetles are phylogeny-dependent, not convergent. The ISME Journal. 14: 1089–1099.
 
 **Huang, Y.-T.**, Eickwort, J., and Hulcr, J. 2020. Red Heart Disease in Pines Caused by _Porodaedalea_ (_Phellinus_) _pini_ in Florida. EDIS University of Florida/IFAS.
@@ -24,8 +27,7 @@ _________
 
 ## 2018
 
-_________
-
+<hr>
 Li, You, **Huang, Y.-T.**, Kasson, M.T., Maciasb, A.M., Skelton, J., Carlson, P., Yin, M., and Hulcr, J. Specific and promiscuous ophiostomatalean fungi associated with Platypodinae ambrosia beetles in the southeastern United States. 2018. Fungal Ecology. 35: 42–50.
 
 **Huang, Y.-T.**, Kolarik, M., Kasson, M.T., and Hulcr, J. 2018. Two new _Geosmithia_ species in _G. pallida_ species complex from bark beetles in eastern USA. Mycologia. 109(5): 790–803.
@@ -34,13 +36,12 @@ Na, F., Carrillo, J.D., Mayorquin, J.S., Ndinga-Muniania, C., Stajich, J.E., Sto
 
 ## 2017
 
-_________
-
+<hr>
 Bateman, C, **Huang, Y.-T.**, Simmons, D. R., Kasson, M.T., Hulcr, J. 2017. Ambrosia beetle _Premnobius cavipennis_ (Scolytinae: Ipini) carries highly divergent ascomycotan ambrosia fungus, _Afroraffaelea ambrosiae_ gen. nov. et sp. nov. (Ophiostomatales). Fungal Ecology. 25: 41–49.
 
 ## 2016
 
-_________
+<hr>
 
 Li, You, Gu, Xinyao, Kasson, M.T., Bateman, C., Guo, Jianjun, **Huang, Y.-T.**, Li, Qiao, Rabaglia, R. J., Hulcr, J. 2016. Distribution, host records and symbiotic fungi of _Euwallacea fornicatus_ (Eichhoff) (Coleoptera: Curculionidae: Scolytinae) in China. Florida Entomologist. 99 (4): 801–804.<br>
 
@@ -53,7 +54,7 @@ Lin, Y.-T., Shih, H.-H., **Huang, Y.-T.**, Lin, C.-S., Chen, C.-Y., 2016. Two sp
 
 ## 2015 & earlier
 
-_________
+<hr>
 
 Wu, Y.-F., **Huang, Y.-T.**, Chang, C.-H., Cheng, A.-H., and Chen, C.-Y. 2015. Mango Malformation Disease. Proceedings of the Symposium on Important New Emerging Crop Diseases in Taiwan and Their Controls. 184: 43–50.
 
