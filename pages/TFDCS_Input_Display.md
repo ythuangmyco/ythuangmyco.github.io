@@ -5,8 +5,8 @@ subtitle: 公民科學調查
 permalink: "TFDCS_Input_Display"
 #published: false
 ---
-<br>
-將你的觀察紀錄放到地圖上<br>
+<h2 style="text-align: center;">將你的觀察紀錄放到地圖上</h2>
+<hr>  
 <iframe referrerpolicy="no-referrer-when-downgrade" 
         frameborder="0"
         height="520" 
