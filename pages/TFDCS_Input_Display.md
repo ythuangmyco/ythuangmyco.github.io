@@ -8,7 +8,7 @@ permalink: "TFDCS_Input_Display"
 #<hr>
 #<iframe referrerpolicy="no-referrer-when-downgrade" 
 #        frameborder="0"
-#        height="620" 
+#        height="1000" 
 #        width="100%" 
 #        src="https://view-awesome-table.com/-MdcIcYQ-6J01f22E6UG/view">
 #</iframe>
