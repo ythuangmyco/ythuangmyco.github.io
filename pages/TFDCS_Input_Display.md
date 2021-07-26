@@ -27,11 +27,11 @@ permalink: "TFDCS_Input_Display"
         src="https://script.google.com/macros/s/AKfycbxrem0QHHp7L8K1U7TwvmzJsE7azuQ_QxwQLLoC4lISWBrGuOBHcLZZF7PDugLhe7lUkA/exec">
 </iframe>
 
-<h2 style="text-align: center;">想看看其他人的貢獻？</h2>
-<hr>
-<iframe referrerpolicy="no-referrer-when-downgrade" 
-        frameborder="0"
-        height="620" 
-        width="100%" 
-        src="https://view-awesome-table.com/-MdcIcYQ-6J01f22E6UG/view">
-</iframe>
+#<h2 style="text-align: center;">想看看其他人的貢獻？</h2>
+#<hr>
+#<iframe referrerpolicy="no-referrer-when-downgrade" 
+#        frameborder="0"
+#        height="620" 
+#        width="100%" 
+#        src="https://view-awesome-table.com/-MdcIcYQ-6J01f22E6UG/view">
+#</iframe>
