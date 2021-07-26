@@ -17,7 +17,7 @@ permalink: "TFDCS_Input_Display"
 <hr>  
 <iframe referrerpolicy="no-referrer-when-downgrade" 
         frameborder="0"
-        height="1000" 
+        height="700" 
         width="100%"
         src="https://script.google.com/macros/s/AKfycby25U7UEXZJ1NXH41ypbJaF_XpShbPMXZWU38dKCSAmz0gfXOQCqN3a2Ka7h0YMrK8kaw/exec">    
 </iframe>
