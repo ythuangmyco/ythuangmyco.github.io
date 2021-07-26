@@ -4,6 +4,7 @@ title: 台灣真菌多樣性
 subtitle: 公民科學調查
 permalink: "TFDCS_Input_Display"
 #published: false
+#https://view-awesome-table.com/-MdcEQCP3pRK4wRmkIG_/view
 ---
 <h2 style="text-align: center;">將你的觀察紀錄放到地圖上</h2>
 <hr>  
@@ -11,8 +12,9 @@ permalink: "TFDCS_Input_Display"
         frameborder="0"
         height="520" 
         width="100%"
-        src="https://view-awesome-table.com/-MdcEQCP3pRK4wRmkIG_/view">    
+        src="https://script.google.com/macros/s/AKfycbzeWeMlggPS2s7ZJmFrpFi4jN7LjWtf8KJihMAxcRGluMmVTJTgc-qES-xafG2CD0S1yg/exec">    
 </iframe>
+
 
 <h2 style="text-align: center;">輸入你的觀察資料</h2>
 <hr>     
