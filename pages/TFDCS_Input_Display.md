@@ -20,7 +20,7 @@ permalink: "TFDCS_Input_Display"
         height="570" 
         width="100%"
         src="https://script.google.com/macros/s/AKfycbwcZacxAFHOQ4Hp7vNFhDv-vzaqiIkQGV7giCH2Zzue7d4p0OgFw64VhyakaV2rFyDvKg/exec">    
-</iframe><br>
+</iframe>
 <h2 style="text-align: center;">輸入你的觀察資料</h2>
 <hr>     
 <h4 style="text-align: center;">只要填這些資料，其他的從<a href="https://www.inaturalist.org/">iNaturalist</a>幫你帶入！</h4>
