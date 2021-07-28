@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page_FDCS
 title: 台灣真菌多樣性
 subtitle: 公民科學調查
 permalink: "TFDCS_Input_Display"
@@ -17,8 +17,8 @@ permalink: "TFDCS_Input_Display"
 <hr>  
 <iframe referrerpolicy="no-referrer-when-downgrade" 
         frameborder="0"
-        height="570" 
-        width="100%"
+        height="600" 
+        width="150%"
         src="https://script.google.com/macros/s/AKfycbyoygflb7PnYri0YE8fD6g3u803WkNYMGMHGsSoup_7jfopbQBRoE0Pzix9oy2DitP1CA/exec">    
 </iframe>
 <h2 style="text-align: center;">輸入你的觀察資料</h2>
