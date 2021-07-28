@@ -25,11 +25,9 @@ permalink: "TFDCS_Input_Display"
 <hr>     
 <h4 style="text-align: center;">只要填這些資料，其他的從<a href="https://www.inaturalist.org/">iNaturalist</a>幫你帶入！</h4>
 <iframe frameborder="0"
-        height="700"
+        height="600"
         width="100%"
         scrolling="no"
         style="overflow:hidden"
         src="https://script.google.com/macros/s/AKfycbzMrnGdVNtzRe2GJ2EUberLsQTWpIg_R0l1a0gQ8Zli_3aMftRT-r8vjxiC5it7NUkC_Q/exec">
 </iframe>
-
-
