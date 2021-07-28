@@ -19,7 +19,7 @@ permalink: "TFDCS_Input_Display"
         frameborder="0"
         height="650"
         width="100%"
-        src="https://script.google.com/macros/s/AKfycbwY2DI2YKfZiQraCH5UaDO8klXeEFxg3jLdt_k6fnUrDYhDPsh56eEJILTsMChZlCMZxw/exec">
+        src="https://script.google.com/macros/s/AKfycbxL1sU_CglnkrZwJCjxROY1LtabjsTTbrw5DdyqcM5TcAQbIpHfgUgBeti4d7wLFdrC5w/exec">
 </iframe>
 <p></p>
 <h2 style="text-align: center;">輸入你的觀察資料</h2>
