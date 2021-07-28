@@ -15,11 +15,14 @@ permalink: "TFDCS_Input_Display"
 ---
 <h2 style="text-align: center;">將你的觀察紀錄放到地圖上</h2>
 <hr>  
-<iframe referrerpolicy="no-referrer-when-downgrade" 
+<p align="center">
+        <iframe referrerpolicy="no-referrer-when-downgrade" 
         frameborder="0"
-        onload="this.width=screen.width;this.height=screen.height;"
+        height="650"
+        onload="this.width=screen.width"
         src="https://script.google.com/macros/s/AKfycbyoygflb7PnYri0YE8fD6g3u803WkNYMGMHGsSoup_7jfopbQBRoE0Pzix9oy2DitP1CA/exec">    
-</iframe>
+</p>
+        </iframe>
 <h2 style="text-align: center;">輸入你的觀察資料</h2>
 <hr>     
 <h4 style="text-align: center;">只要填這些資料，其他的從<a href="https://www.inaturalist.org/">iNaturalist</a>幫你帶入！</h4>
