@@ -18,7 +18,7 @@ permalink: "TFDCS_Input_Display"
 <iframe referrerpolicy="no-referrer-when-downgrade" 
         frameborder="0"
         height="650"
-        onload="this.width=screen.width"
+        width="100%"
         src="https://script.google.com/macros/s/AKfycbyoygflb7PnYri0YE8fD6g3u803WkNYMGMHGsSoup_7jfopbQBRoE0Pzix9oy2DitP1CA/exec">
 </iframe>
 <h2 style="text-align: center;">輸入你的觀察資料</h2>
