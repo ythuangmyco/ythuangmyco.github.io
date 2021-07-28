@@ -13,14 +13,12 @@ My name is Yin-Tse Huang. I study symbiosis, using fungi, beetles, and plants as
 
 ### Education
 <hr>
-<p></p>
 2015–2019&nbsp;&nbsp;&nbsp;**Ph.D.**, School of Forestry and Resources Conservation, University of Florida<br>
 2009–2011&nbsp;&nbsp;&nbsp;**M.S.**, Plant Pathology, National Chung Hsing University<br>
 2006–2009&nbsp;&nbsp;**B.S.**, Plant Pathology, National Chung Hsing University<br>
 
 ### Experiences
 <hr>
-<p></p>
 Feb 2021 – present **Assistant Professor**, Department of Biomedical Science and Environment Biology, Kaohsiung Medical School<br>
 Oct 2019 – Jan 2021 &nbsp;&nbsp;**Postdoc Researcher**, Center for Ecological Research, Kyoto University<br>
 Aug 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, United States Forest Service, Northern Research Station<br>
@@ -30,7 +28,6 @@ Nov 2012 – Apr 2015&nbsp;&nbsp;**Research Assistant**, Mycology Lab, NCHU
 
 ### Scholarly review service
 <hr>
-<p></p>
 Biological Invasions<br>
 Fungal Ecology<br>
 Frontiers in Forests and Global Change<br>
@@ -40,7 +37,6 @@ Scientific Reports
 
 ### Membership
 <hr>
-<p></p>
 Member, Mycological Society of Taiwan, since 2008<br>
 Member, Mycological Society of America, since 2017<br>
 Member, Florida Academic Lichen and Fungi Enthusiasts League, since 2017
