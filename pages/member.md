@@ -22,6 +22,23 @@ permalink: "member"
   </div>
 </div>
 <br>
+<div class="row">
+  <div class="col no-gutters col-sm col-md">
+     <div class="hovereffect">
+     <a class="info" href="muji"><img class="img-responsive" src="/assets/img/people/曾雯渟_circle.png" alt=""></a>
+     </div><br>
+     <h4>曾雯渟</h4>
+     <a href="曾雯渟">曾雯渟</a><br>
+  </div>
+  <div class="col no-gutters col-sm col-md">
+    <div class="hovereffect">
+     <a class="info" href="ythuang"><img class="img-responsive" src="/assets/img/people/董蘊庭_circle.png" alt=""></a>
+     </div><br>
+     <h4>董蘊庭</h4>
+     <a href="董蘊庭">董蘊庭</a><br>
+  </div>
+</div>
+<br>
   <div class="col no-gutters col-sm col-md">
     <div class="hovereffect">
     <a class="info" href="join_us"><img class="img-responsive" src="/assets/img/people/joinus_circle_200.png" alt=""></a>
@@ -29,7 +46,7 @@ permalink: "member"
     <h4> </h4>
     <a href="join_us"> </a><br>
   </div>
-    <div class="col no-gutters col-sm col-md">
+    <div class="col no-gutters col-sm col-md">  
       
   </div>
 </div>
