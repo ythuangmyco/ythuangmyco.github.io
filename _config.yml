@@ -41,7 +41,7 @@ navbar-links:
   Research: "research"
   Publication: "publication"
   真菌公民科學調查: 
-    - 結果輸入＆即時觀看: "TFDCS_Input_Display"
+    - 結果輸入＆即時觀看: "TFDCSHome"
     - 如何加入: " x" 
   # Test: "MapboxSolution"
 # --- Logo --- #
