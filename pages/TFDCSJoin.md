@@ -5,4 +5,4 @@ subtitle: 公民科學調查
 permalink: "TFDCSJoin"
 #published: false
 ---
-![](assets/img/ComingSoon_Kyle.jpg)
+<img src="assets/img/ComingSoon_Kyle.jpg" class="center">
