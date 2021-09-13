@@ -6,5 +6,5 @@ permalink: "TFDCSJoin"
 #published: false
 ---
 <div class="container">
-  <p align="center"><iframe width=100% height=100% src="https://www.youtube.com/embed/uhwUdjM_cno" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+  <p align="center"><iframe src="https://www.youtube.com/embed/uhwUdjM_cno" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
   </div>
