@@ -5,6 +5,6 @@ subtitle: 公民科學調查
 permalink: "TFDCSJoin"
 #published: false
 ---
-<div class="container">
-  <p align="center"><iframe src="https://www.youtube.com/embed/uhwUdjM_cno" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
-  </div>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe src="https://www.youtube.com/embed/uhwUdjM_cno" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
