@@ -21,14 +21,14 @@ permalink: "TFDCSJoin"
 <p></p>
 <h2 style="text-align: left;">2. 讓我們寄採集工具給你</h2>
 <hr>
-{:refdef: style="text-align: center;"}
-![](assets/img/package_150.jpg)
-{: refdef}
 除了照片，我們需要菇體樣本抽取DNA做分子鑑定。分子資料除能提供給你**精確的物種鑑定**，也可以協助我們建構重要的**真菌基因資料庫**。<br>
 因此需要你的聯絡資訊，讓我們將**保存管、採集標籤、夾鍊帶、回郵信封**寄給你!<br>
+{:refdef: style="text-align: center;"}
+![](assets/img/package_300.jpg)
+{: refdef}
 <iframe frameborder="0"
         width="100%"
-        height="400"
+        height="420"
         scrolling="no"
         align="center"
         src="https://script.google.com/macros/s/AKfycbzITDA7pOaXt4Q2HhY4h-BfKm4_V_WGvbVHYbhFLNgjxgZ8ONr8Yym_2wFOT9yOztNV/exec">
