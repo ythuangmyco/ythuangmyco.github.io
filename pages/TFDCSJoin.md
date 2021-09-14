@@ -5,8 +5,7 @@ subtitle: 公民科學調查
 permalink: "TFDCSJoin"
 #published: false
 ---
-<h2 style="text-align: center;"> 只要三個簡單的步驟來加入台灣真菌多樣性的調查</h2>
-
+<h2 style="text-align: center;"> 只要三個簡單的步驟來加入我們的調查</h2>
 <p></p>
 <h3 style="text-align: center;">1. 使用iNaturalist</h3>
 <hr>
@@ -37,10 +36,10 @@ permalink: "TFDCSJoin"
 <h4>關於採集不會影響真菌數量及多樣性的研究資料</h4></p>
 1. Egli S, Peter M, Buser C, Stahel W, Ayer F. 2006. [Mushroom picking does not impair future harvests – results of a long-term study in Switzerland](https://www.sciencedirect.com/science/article/pii/S0006320705004726){:target="_blank"} 129:271–276.<br>
 2. Norvell L. 1995. [Loving the chanterelle to death. The ten-year Oregon chanterelle project](https://www.researchgate.net/publication/255719162_Loving_the_chanterelle_to_death_The_ten-year_Oregon_Chanterelle_Project){:target="_blank"}. McIlvainea 12:6–25.
-
-<p></p>
-<h3>若你有任何問題 歡迎聯絡</h3>
+<br>
+<br>
+<h3>若有任何問題 歡迎聯絡</h3>
 <hr>
 黃尹則 高醫生物系真菌研究室<br> 
 ythuangmyco@gmail.com or ythuangmyco@kmu.edu.tw<br>
-高雄市三民區十全一路100號 第一教學大樓 927室<br>
+高雄市三民區十全一路100號 第一教學大樓 927室
