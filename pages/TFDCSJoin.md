@@ -5,6 +5,7 @@ subtitle: 公民科學調查
 permalink: "TFDCSJoin"
 #published: false
 ---
+<br>
 <h2 style="text-align: center;"> 只要三個簡單的步驟來加入我們的調查</h2>
 <p></p>
 <h2 style="text-align: center;">1. 使用iNaturalist</h2>
@@ -23,7 +24,7 @@ permalink: "TFDCSJoin"
 <img src="/assets/img/package_300.jpg" style="float:left" /><br>
 <iframe frameborder="0"
         height="500"
-        width="80%"
+        width="70%"
         scrolling="no"
         align="right"
         src="https://script.google.com/macros/s/AKfycbw-Z-rUKXCl6FRjMOQkG5NSa1Bl8ji39TSom8yqsiYBQ9Xfteb0Lg2Q2MXf6lTUq46u/exec">
