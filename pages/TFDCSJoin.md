@@ -3,7 +3,7 @@ layout: page_TFDCS
 title: 台灣真菌多樣性
 subtitle: 公民科學調查
 permalink: "TFDCSJoin"
-published: false
+#published: false
 ---
 <h2 style="text-align: center;"> 只要三個簡單的步驟來加入台灣真菌多樣性的調查</h2>
 <hr>  
