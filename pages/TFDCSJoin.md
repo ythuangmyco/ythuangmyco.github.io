@@ -16,7 +16,7 @@ permalink: "TFDCSJoin"
 {: refdef}
 - 在手機上下載iNaturalist app [iOS](https://apps.apple.com/us/app/inaturalist/id421397028){:target="_blank"}, [Android](https://play.google.com/store/apps/details?id=org.inaturalist.android&hl=en&gl=US){:target="_blank"}<br>
 - 註冊iNaturalist帳號 [教學](https://www.inaturalist.org/pages/register_zhtw){:target="_blank"}<br>
-- 使用iNaturalist紀錄菇體 [教學](https://e-info.org.tw/node/215237){:target="_blank"}<br>
+- 使用iNaturalist紀錄 [教學](https://e-info.org.tw/node/215237){:target="_blank"}<br>
 
 <p></p>
 <h2 style="text-align: left;">2. 讓我們寄採集工具給你</h2>
