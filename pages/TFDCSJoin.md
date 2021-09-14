@@ -23,3 +23,20 @@ permalink: "TFDCSJoin"
 
 
 *本計畫嚴格遵守[個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0050021){:target="_blank"}，提供的資料僅供本計畫寄送工具用途。<br>
+
+<p></p>
+<h3>3. 進行採集</h3>
+採集教學影片
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe src="https://www.youtube.com/embed/howFsUcMNIM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<p>
+<h4>關於採集不會影響真菌數量及多樣性的研究資料</h4></p>
+1. Egli S, Peter M, Buser C, Stahel W, Ayer F. 2006. [Mushroom picking does not impair future harvests – results of a long-term study in Switzerland](https://www.sciencedirect.com/science/article/pii/S0006320705004726){:target="_blank"} 129:271–276.<br>
+2. Norvell L. 1995. [Loving the chanterelle to death. The ten-year Oregon chanterelle project](https://www.researchgate.net/publication/255719162_Loving_the_chanterelle_to_death_The_ten-year_Oregon_Chanterelle_Project){:target="_blank"}. McIlvainea 12:6–25.
+
+<p></p>
+<h3>若你有任何問題 歡迎聯絡</h3>
+黃尹則 高醫生物系真菌研究室 
+ythuangmyco@gmail.com or ythuangmyco@kmu.edu.tw
+高雄市三民區十全一路100號 第一教學大樓 927室
