@@ -21,7 +21,7 @@ permalink: "TFDCSJoin"
 除了照片，我們需要菇體樣本抽取DNA做分子鑑定。分子資料除能提供給你**精確的物種鑑定**，也可以協助我們建構重要的**真菌基因資料庫**。<br>
 因此需要你的聯絡資訊，讓我們將**保存管、採集標籤、夾鍊帶、回郵信封**寄給你!<br>
 <img src="/assets/img/package_300.jpg"><br>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd98TgQVq-QaEvNJvVxiECBl0pjrejSLLe5M-ec79KGOwaPyA/viewform?embedded=true" width="640" height="844" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe><br>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd98TgQVq-QaEvNJvVxiECBl0pjrejSLLe5M-ec79KGOwaPyA/viewform?embedded=true" width="844" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe><br>
 *本計畫嚴格遵守[個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0050021){:target="_blank"}，提供的資料僅供本計畫寄送工具用途。<br>
 
 <p></p>
