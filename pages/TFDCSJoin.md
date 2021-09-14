@@ -15,6 +15,7 @@ permalink: "TFDCSJoin"
 - 使用iNaturalist紀錄菇體 [教學](https://e-info.org.tw/node/215237){:target="_blank"}<br>
 
 <h3>2. 讓我們寄採集工具給你</h3>
+<img src="/assets/img/package_300.jpg">
 除了照片，我們需要菇體樣本來抽取DNA做分子鑑定。分子資料除了能提供給你**精確的物種鑑定**，也可以協助我們建構重要的**真菌基因資料庫**。<br>
 需要你提供我們聯絡資訊，讓我們將**保存管、採集標籤、回郵信封**寄給你!<br>
 
