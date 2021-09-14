@@ -51,5 +51,5 @@ permalink: "TFDCSJoin"
 <h2>若有任何問題 歡迎聯絡</h2>
 <hr>
 黃尹則 高醫生物系真菌研究室<br> 
-ythuangmyco@gmail.com or ythuangmyco@kmu.edu.tw<br>
+ythuangmyco@kmu.edu.tw<br>
 高雄市三民區十全一路100號 第一教學大樓 927室
