@@ -10,8 +10,8 @@ permalink: "TFDCSJoin"
 <p></p>
 <h2 style="text-align: center;">1. 使用iNaturalist</h2>
 <hr>
+<img src="/assets/img/iNatlogo100.png"><br>
 高品質的菇體照片、地理資訊對於我們這個計畫非常重要。因此我們倚賴iNaturalist這個已經完善的平台來協助我們。<br>
-<img src="/assets/img/iNatlogo100.png">
 - 在手機上下載iNaturalist app [iOS](https://apps.apple.com/us/app/inaturalist/id421397028){:target="_blank"}, [Android](https://play.google.com/store/apps/details?id=org.inaturalist.android&hl=en&gl=US){:target="_blank"}<br>
 - 註冊iNaturalist帳號 [教學](https://www.inaturalist.org/pages/register_zhtw){:target="_blank"}<br>
 - 使用iNaturalist紀錄菇體 [教學](https://e-info.org.tw/node/215237){:target="_blank"}<br>
@@ -19,14 +19,14 @@ permalink: "TFDCSJoin"
 <p></p>
 <h2 style="text-align: center;">2. 讓我們寄採集工具給你</h2>
 <hr>
+<img src="/assets/img/package_300.jpg" style="float:left" /><br>
 除了照片，我們需要菇體樣本抽取DNA做分子鑑定。分子資料除能提供給你**精確的物種鑑定**，也可以協助我們建構重要的**真菌基因資料庫**。<br>
 因此需要你的聯絡資訊，讓我們將**保存管、採集標籤、夾鍊帶、回郵信封**寄給你!<br>
-<img src="/assets/img/package_300.jpg" style="float:left" /><br>
 <iframe frameborder="0"
-        width="70%"
+        width="100%"
         height="500"
         scrolling="no"
-        align="right"
+        align="center"
         src="https://script.google.com/macros/s/AKfycbyVB3eE7kTlkA57xWA10Cl7Fwj7lYF0K9bMyeAZLf3BItmVDnC2K-4bbgq0LkVElRFJ/exec">
 </iframe><br>
 ＊本計畫嚴格遵守[個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0050021){:target="_blank"}，提供的資料僅供本計畫寄送工具用途。<br>
