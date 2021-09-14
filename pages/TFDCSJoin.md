@@ -6,7 +6,7 @@ permalink: "TFDCSJoin"
 #published: false
 ---
 <h2 style="text-align: center;"> 只要三個簡單的步驟來加入台灣真菌多樣性的調查</h2>
-<hr>
+
 <p></p>
 <h3 style="text-align: center;">1. 使用iNaturalist</h3>
 <hr>
