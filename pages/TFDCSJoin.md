@@ -24,6 +24,8 @@ permalink: "TFDCSJoin"
 <iframe frameborder="0"
         height="250"
         width="100%"
+        scrolling="no"
+        style="overflow:hidden"
         align="left"
         src="https://script.google.com/macros/s/AKfycbxYhTHhXMI-AlQUZrkxcT9ly322MwYqtNnnN8VUbV08jiVDokN3BqIUxKTSooTea4OM/exec">
 </iframe><br>
