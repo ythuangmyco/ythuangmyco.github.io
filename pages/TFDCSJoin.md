@@ -23,7 +23,6 @@ permalink: "TFDCSJoin"
 <img src="/assets/img/package_300.jpg" style="float:left" /><br>
 <iframe frameborder="0"
         height="400"
-        width="100%"
         scrolling="no"
         align="right"
         src="https://script.google.com/macros/s/AKfycbw-Z-rUKXCl6FRjMOQkG5NSa1Bl8ji39TSom8yqsiYBQ9Xfteb0Lg2Q2MXf6lTUq46u/exec">
