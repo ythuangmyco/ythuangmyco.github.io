@@ -26,9 +26,9 @@ permalink: "TFDCSJoin"
         width="100%"
         align="left"
         src="https://script.google.com/macros/s/AKfycbxYhTHhXMI-AlQUZrkxcT9ly322MwYqtNnnN8VUbV08jiVDokN3BqIUxKTSooTea4OM/exec">
-</iframe>
+</iframe><br>
 *本計畫嚴格遵守[個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0050021){:target="_blank"}，提供的資料僅供本計畫寄送工具用途。<br>
-
+<br>
 <p></p>
 <h2 style="text-align: center;">3. 出門記得著手機和工具來採集</h2>
 <hr>
