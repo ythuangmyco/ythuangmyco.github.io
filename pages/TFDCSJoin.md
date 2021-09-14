@@ -14,7 +14,7 @@ permalink: "TFDCSJoin"
 - 在手機上下載iNaturalist app [iOS](https://apps.apple.com/us/app/inaturalist/id421397028){:target="_blank"}, [Android](https://play.google.com/store/apps/details?id=org.inaturalist.android&hl=en&gl=US){:target="_blank"}<br>
 - 註冊iNaturalist帳號 [教學](https://www.inaturalist.org/pages/register_zhtw){:target="_blank"}<br>
 - 使用iNaturalist紀錄菇體 [教學](https://e-info.org.tw/node/215237){:target="_blank"}<br>
-
+<hr>
 <p></p>
 <h3>2. 讓我們寄採集工具給你</h3>
 除了照片，我們需要菇體樣本抽取DNA做分子鑑定。分子資料除能提供給你**精確的物種鑑定**，也可以協助我們建構重要的**真菌基因資料庫**。<br>
@@ -23,7 +23,7 @@ permalink: "TFDCSJoin"
 
 
 *本計畫嚴格遵守[個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0050021){:target="_blank"}，提供的資料僅供本計畫寄送工具用途。<br>
-
+<hr>
 <p></p>
 <h3>3. 進行採集</h3>
 採集教學影片
@@ -34,7 +34,7 @@ permalink: "TFDCSJoin"
 <h4>關於採集不會影響真菌數量及多樣性的研究資料</h4></p>
 1. Egli S, Peter M, Buser C, Stahel W, Ayer F. 2006. [Mushroom picking does not impair future harvests – results of a long-term study in Switzerland](https://www.sciencedirect.com/science/article/pii/S0006320705004726){:target="_blank"} 129:271–276.<br>
 2. Norvell L. 1995. [Loving the chanterelle to death. The ten-year Oregon chanterelle project](https://www.researchgate.net/publication/255719162_Loving_the_chanterelle_to_death_The_ten-year_Oregon_Chanterelle_Project){:target="_blank"}. McIlvainea 12:6–25.
-
+<hr>
 <p></p>
 <h3>若你有任何問題 歡迎聯絡</h3>
 黃尹則 高醫生物系真菌研究室<br> 
