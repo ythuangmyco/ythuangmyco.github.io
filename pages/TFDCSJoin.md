@@ -22,12 +22,15 @@ permalink: "TFDCSJoin"
 因此需要你的聯絡資訊，讓我們將**保存管、採集標籤、夾鍊帶、回郵信封**寄給你!<br>
 <img src="/assets/img/package_300.jpg" style="float:left" /><br>
 <iframe frameborder="0"
-        height="400"
+        height="500"
+        width="80%"
         scrolling="no"
         align="right"
         src="https://script.google.com/macros/s/AKfycbw-Z-rUKXCl6FRjMOQkG5NSa1Bl8ji39TSom8yqsiYBQ9Xfteb0Lg2Q2MXf6lTUq46u/exec">
-</iframe><br>
-
+</iframe>
+<br>
+<br>
+<br>
 *本計畫嚴格遵守[個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0050021){:target="_blank"}，提供的資料僅供本計畫寄送工具用途。<br>
 <br>
 
