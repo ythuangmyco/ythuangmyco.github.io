@@ -9,7 +9,7 @@ permalink: "TFDCSJoin"
 <hr>  
 <h3>1. 使用iNaturalist</h3>
 高品質的菇體照片、地理資訊對於我們這個計畫非常重要。因此我們倚賴iNaturalist這個已經完善的平台來協助我們。<br>
-<img src="/assets/img/iNatlogo.png">
+<img src="/assets/img/iNatlogo250.png">
 - 在手機上下載iNaturalist app [iOS](https://apps.apple.com/us/app/inaturalist/id421397028){:target="_blank"}, [Android](https://play.google.com/store/apps/details?id=org.inaturalist.android&hl=en&gl=US){:target="_blank"}<br>
 - 註冊iNaturalist帳號 [教學](https://www.inaturalist.org/pages/register_zhtw){:target="_blank"}<br>
 - 使用iNaturalist紀錄菇體 [教學](https://e-info.org.tw/node/215237){:target="_blank"}<br>
