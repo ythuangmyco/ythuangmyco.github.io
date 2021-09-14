@@ -42,7 +42,7 @@ navbar-links:
   Publication: "publication"
   真菌公民科學調查: 
     - 結果輸入＆即時觀看: "TFDCSHome"
-    - 影片介紹: "TFDCSIntro" 
+    - 如何採集: "TFDCSSampling" 
   # Test: "MapboxSolution"
 # --- Logo --- #
 
