@@ -38,7 +38,7 @@ permalink: "TFDCSJoin"
 <p></p>
 <h2 style="text-align: left;">3. 出門記得著手機和工具來採集</h2>
 <hr>
-採集教學影片
+採集教學影片(建議按cc打開字幕)
 <div class="embed-responsive embed-responsive-16by9">
   <iframe src="https://www.youtube.com/embed/howFsUcMNIM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
