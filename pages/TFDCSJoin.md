@@ -22,10 +22,9 @@ permalink: "TFDCSJoin"
 因此需要你的聯絡資訊，讓我們將**保存管、採集標籤、夾鍊帶、回郵信封**寄給你!<br>
 <img src="/assets/img/package_300.jpg" style="float:left" /><br>
 <iframe frameborder="0"
-        height="250"
+        height="400"
         width="100%"
         scrolling="no"
-        style="overflow:hidden"
         align="right"
         src="https://script.google.com/macros/s/AKfycbw-Z-rUKXCl6FRjMOQkG5NSa1Bl8ji39TSom8yqsiYBQ9Xfteb0Lg2Q2MXf6lTUq46u/exec">
 </iframe><br>
