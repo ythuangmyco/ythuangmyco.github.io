@@ -23,7 +23,6 @@ permalink: "TFDCSJoin"
 因此需要你的聯絡資訊，讓我們將**保存管、採集標籤、夾鍊帶、回郵信封**寄給你!<br>
 <img src="/assets/img/package_300.jpg" style="float:left" /><br>
 <iframe frameborder="0"
-        height="500"
         width="70%"
         scrolling="no"
         align="right"
