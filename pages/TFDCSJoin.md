@@ -28,8 +28,10 @@ permalink: "TFDCSJoin"
         align="right"
         src="https://script.google.com/macros/s/AKfycbw-Z-rUKXCl6FRjMOQkG5NSa1Bl8ji39TSom8yqsiYBQ9Xfteb0Lg2Q2MXf6lTUq46u/exec">
 </iframe><br>
+
 *本計畫嚴格遵守[個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0050021){:target="_blank"}，提供的資料僅供本計畫寄送工具用途。<br>
 <br>
+
 <p></p>
 <h2 style="text-align: center;">3. 出門記得著手機和工具來採集</h2>
 <hr>
