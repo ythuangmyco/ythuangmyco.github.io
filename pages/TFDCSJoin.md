@@ -28,7 +28,7 @@ permalink: "TFDCSJoin"
 {:refdef: style="text-align: center;"}
 ![](assets/img/package_300.jpg)
 {: refdef}
-<iframe frameboarder="0"
+<iframe frameborder="0"
         width="100%"
         height="430"
         scrolling="no"
