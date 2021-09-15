@@ -28,8 +28,9 @@ permalink: "TFDCSJoin"
 {:refdef: style="text-align: center;"}
 ![](assets/img/package_300.jpg)
 {: refdef}
-<iframe width="100%"
-        height="425"
+<iframe frameboarder="0"
+        width="100%"
+        height="430"
         scrolling="no"
         align="center"
         src="https://script.google.com/macros/s/AKfycbxmRGURNTPtsB7AGFeP2ne_usSWL4-YwTes-Zpbtj9IzMYhFdgFFoMOr3REzfPEc55p/exec">
