@@ -28,13 +28,16 @@ permalink: "TFDCSJoin"
 {:refdef: style="text-align: center;"}
 ![](assets/img/package_300.jpg)
 {: refdef}
-<iframe frameborder="0"
-        width="100%"
+<iframe referrerpolicy="no-referrer-when-downgrade" 
+        frameborder="0"
         height="430"
+        width="100%"
         scrolling="no"
         align="center"
         src="https://script.google.com/macros/s/AKfycbxmRGURNTPtsB7AGFeP2ne_usSWL4-YwTes-Zpbtj9IzMYhFdgFFoMOr3REzfPEc55p/exec">
 </iframe><br>
+
+
 <p></p>
 <h2 style="text-align: left;">3. 出門記得帶著手機和工具來採集</h2>
 <hr>
