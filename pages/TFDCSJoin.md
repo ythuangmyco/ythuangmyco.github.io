@@ -40,7 +40,7 @@ permalink: "TFDCSJoin"
 <hr>
 採集教學影片(建議按cc打開字幕)
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe src="https://www.youtube.com/embed/howFsUcMNIM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/Ua5AapTJdUM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <p>
 <h3>關於採集不會影響真菌數量及多樣性的研究資料</h3></p>
