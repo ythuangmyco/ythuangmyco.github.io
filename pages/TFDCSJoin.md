@@ -5,7 +5,7 @@ subtitle: 公民科學調查
 permalink: "TFDCSJoin"
 #published: false
 ---
-<p></p>
+<h2 style="text-align: center;"> 了解真菌多樣性對人類社會、經濟、生態永續至關重要，我們需要你的幫忙加速</h2>
 <h2 style="text-align: center;"> 只要三個簡單的步驟來加入我們的調查</h2>
 <p></p>
 <h2 style="text-align: left;">1. 使用iNaturalist</h2>
