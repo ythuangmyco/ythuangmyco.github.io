@@ -2,7 +2,7 @@
 layout: post
 title: We are hiring
 subtitle: 徵求計畫助理
-image: "/assets/img/Hiring.jpg" 
+image: "/assets/img/Hiring-modified.png" 
 cover-img:
 show-avatar: true
 round-avatar: true
