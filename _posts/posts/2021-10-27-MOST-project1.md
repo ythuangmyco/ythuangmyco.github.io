@@ -11,5 +11,5 @@ tags: [MOST, funding]
 categories: posts
 #published: false
 ---
-YES! the lab get the prject, Between beetle and fungus: mechanisms determining the fidelity in
+YES! the lab gets the prject, Between beetle and fungus: mechanisms determining the fidelity in
 ambrosia symbiosis, funded for three years (MOST 110-2621-B-037-002-MY3).
