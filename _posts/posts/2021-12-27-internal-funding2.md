@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 獲新聘教師專案計畫補助！
+title: 獲新聘教師專案計畫補助 ！
 subtitle: Get funded!
 image: "/assets/img/getfunded.jpg"
 cover-img:
