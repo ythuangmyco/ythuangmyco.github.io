@@ -16,4 +16,4 @@ Me presenting my research on ambrosia symbiosis at the online Annual Meeting of 
 <br>
 Many appreciate forthe invitation from Dr. Wei-Chiang Shen at National Taiwan University.<br>
 ![](/assets/img/TMAM.png)
-photo credit: Jie-Hao Ou
+Photo credit: Jie-Hao Ou
