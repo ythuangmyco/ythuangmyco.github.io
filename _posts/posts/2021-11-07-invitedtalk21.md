@@ -2,7 +2,7 @@
 layout: post
 title: Invited talk
 subtitle: 2021 Annual Meeting of Mycological Society ROC
-image: "/assets/img/TMAM.png" 
+image: "/assets/img/Guestspeaker.png" 
 cover-img:
 show-avatar: true
 round-avatar: true
