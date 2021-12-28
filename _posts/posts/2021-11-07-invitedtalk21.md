@@ -12,7 +12,7 @@ categories: posts
 #published: false
 ---
 
-Me presenting my research on ambrosia symbiosis at the online Annual Meeting of Mycological Society ROC. <br>
+Yin-Tse Huang was invited to introduce the ambrosia symbiosis research at the online Annual Meeting of Mycological Society ROC. <br>
 <br>
 Many appreciate for the invitation from Dr. Wei-Chiang Shen at National Taiwan University.<br>
 ![](/assets/img/TMAM.png)
