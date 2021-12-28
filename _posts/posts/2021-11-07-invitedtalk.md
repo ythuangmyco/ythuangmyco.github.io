@@ -15,3 +15,4 @@ categories: posts
 Me presenting my research on ambrosia symbiosis at 2021 Annual Meeting of Mycological Society ROC. 
 Thank you for the invitation from Dr. Wei-Chiang Shen at National Taiwan University.
 ![](/assets/img/TMAM.png)
+photo credit: Jie-Hao Ou
