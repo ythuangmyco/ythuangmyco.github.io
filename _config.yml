@@ -197,7 +197,7 @@ timezone: "Taiwan"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 3
+paginate: 5
 #paginate_path: "/research/page:num/"
 
 kramdown:
