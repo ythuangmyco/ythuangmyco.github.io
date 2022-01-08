@@ -2,7 +2,7 @@
 layout: post
 title: 2021 Christmas party
 subtitle: 
-image: "/assets/img/regular post/beetle-fungus.png"
+image: "/assets/img/regular post/LabEvent.png"
 cover-img:
 show-avatar: true
 round-avatar: true
