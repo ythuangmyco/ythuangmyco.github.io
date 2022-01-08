@@ -2,7 +2,7 @@
 layout: post
 title: You are what you eat
 subtitle: so you give out what you metabolize
-image: "/assets/img/beetle-fungus.png"
+image: "/assets/img/regular post/beetle-fungus.png"
 cover-img:
 show-avatar: true
 round-avatar: false
