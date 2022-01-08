@@ -12,7 +12,7 @@ permalink: "TFDCSJoin"
 <hr>
 高品質的菇體照片、地理資訊對於我們這個計畫非常重要。因此我們倚賴iNaturalist這個已經完善的平台來協助我們。<br>
 {:refdef: style="text-align: center;"}
-![](assets/img/iNatlogo100.png)
+![](assets/img/Research/iNatlogo100.png)
 {: refdef}
 - 在手機上下載iNaturalist app [iOS](https://apps.apple.com/us/app/inaturalist/id421397028){:target="_blank"}, [Android](https://play.google.com/store/apps/details?id=org.inaturalist.android&hl=en&gl=US){:target="_blank"}<br>
 - 註冊iNaturalist帳號 [教學](https://www.inaturalist.org/pages/register_zhtw){:target="_blank"}<br>
@@ -26,7 +26,7 @@ permalink: "TFDCSJoin"
 <p></p>
 *本計畫嚴格遵守[個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0050021){:target="_blank"}，提供的資料僅供本計畫寄送工具用途。<br>
 {:refdef: style="text-align: center;"}
-![](assets/img/package_300.jpg)
+![](assets/img/Research/package_300.jpg)
 {: refdef}
 <iframe referrerpolicy="no-referrer-when-downgrade" 
         frameborder="0"
