@@ -2,7 +2,7 @@
 layout: post
 title: 獲科技部計畫補助！
 subtitle: Get funded!
-image: "/assets/img/getfunded.jpg"
+image: "/assets/img/regular post/getfunded.jpg"
 cover-img:
 show-avatar: true
 round-avatar: true
