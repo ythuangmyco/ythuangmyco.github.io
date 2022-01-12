@@ -12,6 +12,24 @@ cover-img:
 - assets/img/Pesotum_dissect.png
 use-site-title: true
 ---
+<h2>News & Blog</h2><br>
+
+<div class="list-filters">
+  <a type="button" class="btn btn-outline-secondary" href="/">All posts</a>
+  <a type="button" class="btn btn-outline-secondary" href="/tags">Index</a>
+</div>
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
+
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
@@ -29,11 +47,4 @@ use-site-title: true
   {% else %}
     <span class="next ">Next</span>
   {% endif %}
-</div>
-
-<h2>News & Blog</h2><br>
-
-<div class="list-filters">
-  <a type="button" class="btn btn-outline-secondary" href="/">All posts</a>
-  <a type="button" class="btn btn-outline-secondary" href="/tags">Index</a>
 </div>
