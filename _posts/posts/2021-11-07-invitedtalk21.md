@@ -7,7 +7,7 @@ cover-img:
 show-avatar: true
 round-avatar: true
 readtime: true
-tags: [InvitedTalk]
+tags: [Award]
 categories: posts
 #published: false
 ---
