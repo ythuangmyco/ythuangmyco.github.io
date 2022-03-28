@@ -37,6 +37,8 @@ permalink: "member"
      <h4>大專研究生</h4>
      <a href="董蘊庭">董蘊庭</a><br>
   </div>
+<br>
+<div class="row">
   <div class="col no-gutters col-sm col-md">
     <div class="hovereffect">
      <a class="info" href="洪子純"><img class="img-responsive" src="/assets/img/people/洪子純_200.PNG" alt=""></a>
