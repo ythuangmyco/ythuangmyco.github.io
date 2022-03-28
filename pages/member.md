@@ -37,6 +37,19 @@ permalink: "member"
      <h4>大專研究生</h4>
      <a href="董蘊庭">董蘊庭</a><br>
   </div>
+  <div class="col no-gutters col-sm col-md">
+    <div class="hovereffect">
+     <a class="info" href="洪子純"><img class="img-responsive" src="/assets/img/people/洪子純_200.PNG" alt=""></a>
+     </div><br>
+     <h4>研究助理</h4>
+     <a href="洪子純">洪子純</a><br></div>
+  </div>
+  <div class="col no-gutters col-sm col-md">
+    <div class="hovereffect">
+     <a class="info" href="吳昕懋"><img class="img-responsive" src="/assets/img/people/吳昕懋_200.PNG" alt=""></a>
+     </div><br>
+     <h4>大專研究生</h4>
+     <a href="吳昕懋">吳昕懋</a><br>
 </div>
 <br>
   <div class="col no-gutters col-sm col-md">
