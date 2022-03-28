@@ -37,6 +37,7 @@ permalink: "member"
      <h4>大專研究生</h4>
      <a href="董蘊庭">董蘊庭</a><br>
   </div>
+</div>
 <br>
 <div class="row">
   <div class="col no-gutters col-sm col-md">
@@ -52,6 +53,7 @@ permalink: "member"
      </div><br>
      <h4>大專研究生</h4>
      <a href="吳昕懋">吳昕懋</a><br>
+  </div>
 </div>
 <br>
   <div class="col no-gutters col-sm col-md">
