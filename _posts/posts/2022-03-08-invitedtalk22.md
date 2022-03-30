@@ -18,5 +18,5 @@ Many appreciate for the invitation<br>
 ![](/assets/img/regular post/YTH_IBSeminar.jpg)
 Photo credit: NTU Entomology
 
-Check out more detail in the report written by students
-(http://www.entomol.ntu.edu.tw/News_Content_n_46830_s_104117.html){:target="_blank"}！
+Check out more detail in the [report](http://www.entomol.ntu.edu.tw/News_Content_n_46830_s_104117.html){:target="_blank"}！ written by students
+
