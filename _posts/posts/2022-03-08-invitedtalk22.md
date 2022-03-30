@@ -12,7 +12,7 @@ categories: posts
 #published: false
 ---
 
-Yin-Tse Huang was invited to talk about ambrosia beetles/fungi and their adaptation to the mutualistic lifestyle in the Department of Entomology at National Taiwan University. Many appreciate for the invitation<br>
+Yin-Tse Huang was invited to talk about ambrosia beetles/fungi and their adaptation to the mutualistic lifestyle in the Department of Entomology at National Taiwan University. Much appreciated for the invitation<br>
 ![](/assets/img/regular post/YTH_IBSeminar.jpg)<br>
 Photo credit: NTU Entomology
 
