@@ -14,6 +14,6 @@ categories: posts
 
 Yin-Tse Huang was invited to introduce his ambrosia symbiosis research at the online Annual Meeting of Mycological Society ROC. <br>
 <br>
-Many appreciate for the invitation from Dr. Wei-Chiang Shen at National Taiwan University.<br>
+Much appreciated for the invitation from Dr. Wei-Chiang Shen at National Taiwan University.<br>
 ![](/assets/img/regular post/TMAM.png)
 Photo credit: Jie-Hao Ou
