@@ -39,6 +39,7 @@ navbar-links:
         #- 多樣性<br>Diversity: "ambrosiabeetle_diversity"
         #- 共生適應<br>adaptation: "ambrosiabeetle_adaptation"
   Research: "research"
+  Protocol: "protocol"
   Publication: "publication"
   真菌公民科學調查: 
     - 結果輸入＆即時觀看: "TFDCSHome"
