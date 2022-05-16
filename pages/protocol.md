@@ -19,5 +19,5 @@ permalink: "protocol"
 4. Electrophoresis
 
 ## Nanopore procedures
-1. library construction
+1. Library construction
 2. Sequencing
