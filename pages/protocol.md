@@ -4,7 +4,7 @@ title: Lab protocols
 permalink: "protocol"
 ---
 ## Sample recording process
-1. Environmental samples (soil & water, etc)
+1. Environmental samples (soil & water, etc.)
 2. Beetles
 3. Fungi
 
