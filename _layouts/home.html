@@ -43,7 +43,7 @@ layout: page
       {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
       Posted on {{ post.date | date: date_format }}
     </p>
-
+  <div class="post-entry-container">
     {% if post.image %}
     <div class="post-image">
       <a href="{{ post.url | relative_url }}">
