@@ -219,7 +219,7 @@ defaults:
     scope:
       path: "" # all files
     values:
-      layout: "page"
+      layout: "home"
       show-avatar: true
 
 # Exclude these files from production site
