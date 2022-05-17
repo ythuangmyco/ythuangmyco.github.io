@@ -31,10 +31,10 @@ layout: page
     {% assign thumbnail=thumbnail | strip %}
 
     {% if site.feed_show_excerpt == false %}
-    {% if post.image %}
-    <div class="post-image">
-      <a href="{{ post.url | relative_url }}">
-        <img src="{{ post.image | relative_url }}">
+    {% if thumbnail != "" %}
+    <div class="post-image post-image-normal">
+      <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
       </a>
     </div>
     {% endif %}
@@ -55,6 +55,23 @@ layout: page
       Posted on {{ post.date | date: date_format }}
     </p>
 
+    {% if post.image %}
+    <div class="post-image">
+      <a href="{{ post.url | relative_url }}">
+        <img src="{{ post.image | relative_url }}">
+      </a>
+    </div>
+    {% endif %}
+
+    {% unless site.feed_show_excerpt == false %}
+    {% if post.image %}
+    <div class="post-image">
+      <a href="{{ post.url | relative_url }}">
+        <img src="{{ post.image | relative_url }}">
+      </a>
+    </div>
+    {% endif %}    
+    
     <div class="post-entry">
       {% assign excerpt_length = site.excerpt_length | default: 50 %}
       {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
