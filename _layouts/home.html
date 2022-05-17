@@ -10,10 +10,10 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
+{% assign posts = paginator.posts | default: site.categories.posts %}
 
 <div class="posts-list">
-  {% for post in posts %}
+  {% for post in site.categories.posts %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
