@@ -27,18 +27,7 @@ layout: page
         {% endif %}
       {% else %}
       {% endif %}
-    {% endcapture %}
-    {% assign thumbnail=thumbnail | strip %}
 
-    {% if site.feed_show_excerpt == false %}
-    {% if post.image %}
-    <div class="post-image">
-      <a href="{{ post.url | relative_url }}">
-        <img src="{{ post.image | relative_url }}">
-      </a>
-    </div>
-    {% endif %}
-    {% endif %}
 
     <a href="{{ post.url | absolute_url }}">
       <h2 class="post-title">{{ post.title | strip_html }}</h2>
