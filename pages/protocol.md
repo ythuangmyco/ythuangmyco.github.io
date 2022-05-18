@@ -21,4 +21,4 @@ permalink: "protocol"
 ## Nanopore procedures
 1. Library construction
 2. Sequencing
-3. [Data stroage](https://uflorida-my.sharepoint.com/:f:/g/personal/ythuang_ufl_edu/ElfhmBPa8MRGtTaFSHmVl-4BlSLY6GMRZ5r2g5UVla4HQQ?e=dc1Jdp){:target="_blank"}(lab use only)<br>
+3. [Data stroage](https://uflorida-my.sharepoint.com/:f:/g/personal/ythuang_ufl_edu/ElfhmBPa8MRGtTaFSHmVl-4BlSLY6GMRZ5r2g5UVla4HQQ?e=dc1Jdp){:target="_blank"} (lab use only)<br>
