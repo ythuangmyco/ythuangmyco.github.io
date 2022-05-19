@@ -3,6 +3,7 @@ layout: post
 title: Invited lecture NCKU
 subtitle: Biology and Genetics of Fungi 
 thumbnail-img: /assets/img/regular_post/Guestspeaker.png
+cover-img:
 show-avatar: true
 round-avatar: true
 readtime: true
