@@ -2,7 +2,7 @@
 layout: post
 title: 2021 Recruitment and Retention of Exceptional Faculty Award
 subtitle: 獲110年度特殊優秀教研人才
-image: "/assets/img/regular post/award.png" 
+thumbnail-img: "/assets/img/regular_post/award.png" 
 cover-img:
 show-avatar: true
 round-avatar: true

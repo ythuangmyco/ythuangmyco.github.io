@@ -2,7 +2,7 @@
 layout: post
 title: 世上最早的「小農」在這裡！菌蠹蟲與真菌缺一不可的共生農業
 subtitle:
-image: "/assets/img/regular post/Corthyloxiphus_Ecuador.jpg"
+thumbnail-img: "/assets/img/regular_post/Corthyloxiphus_Ecuador.jpg"
 cover-img:
 show-avatar: true
 round-avatar: true
