@@ -2,9 +2,8 @@
 layout: page
 title: Join the lab
 subtitle: 
-show-avatar : true
 permalink: "join_us"
-#published: false
+
 ---
 {:refdef: style="text-align: center;"}
 ![](assets/img/Mycena.jpg)
