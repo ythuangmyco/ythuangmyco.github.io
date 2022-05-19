@@ -8,7 +8,7 @@ cover-img:
 #round-avatar: true
 readtime: true
 tags: [InvitedTalk]
-categories: posts
+#categories: posts
 #published: false
 ---
 
