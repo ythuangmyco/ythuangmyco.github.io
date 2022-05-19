@@ -2,12 +2,9 @@
 layout: post
 title: Invited talk
 subtitle: Integrated Biology Seminar
-thumbnail-img: /assets/img/regular_post/Guestspeaker.png
-cover-img:
+thumbnail-img: "/assets/img/regular_post/Guestspeaker.png"
 readtime: true
 tags: [InvitedTalk]
-categories: posts
-#published: false
 ---
 
 Yin-Tse Huang was invited to talk about ambrosia beetles/fungi and their adaptation to the mutualistic lifestyle in the Department of Entomology at National Taiwan University. Much appreciated for the invitation<br>
