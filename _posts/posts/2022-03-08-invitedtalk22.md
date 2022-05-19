@@ -2,7 +2,7 @@
 layout: post
 title: Invited talk
 subtitle: Integrated Biology Seminar
-thumbnail-img: /assets/img/regular post/Guestspeaker.png
+thumbnail-img: /assets/img/regular_post/Guestspeaker.png
 cover-img:
 show-avatar: true
 round-avatar: true
