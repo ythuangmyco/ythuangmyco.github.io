@@ -54,7 +54,24 @@ layout: page
       {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
       Posted on {{ post.date | date: date_format }}
     </p>
-   
+
+    {% if thumbnail != "" %}
+    <div class="post-image post-image-small">
+      <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+      </a>
+    </div>
+    {% endif %}
+
+    {% unless site.feed_show_excerpt == false %}
+    {% if thumbnail != "" %}
+    <div class="post-image post-image-short">
+      <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+      </a>
+    </div>
+    {% endif %}
+
     <div class="post-entry">
       {% assign excerpt_length = site.excerpt_length | default: 50 %}
       {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
