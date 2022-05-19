@@ -13,7 +13,7 @@ categories: posts
 ---
 
 Yin-Tse Huang was invited to give a lecture on introducing the ambrosia symbiosis in the class, Biology and Genetics of Fungi, hosted by [Pedro Gonçalves](https://www.goncalves-lab.com/home). 
-We had a very interactive class and hands-on labratory observation on fungal specimens! Much appreciated for the invitation<br>
+We had a very interactive class and hands-on labratory observation on fungal specimens! Much appreciated for the invitation.<br>
 
 ![](/assets/img/regular post/2022NCKUlecture1.jpg)<br>
 Photo credit: Pedro G.<br>
