@@ -3,13 +3,8 @@ layout: post
 title: You are what you eat
 subtitle: so you give out what you metabolize
 #thumbnail-img: "/assets/img/regular_post/beetle-fungus.png"
-cover-img:
-show-avatar: true
-round-avatar: false
 readtime: true
 tags: [metabolism, evolution]
-categories: posts
-#published: false
 ---
 
 The relationships between wood-boring ambrosia beetles and the fungi which they farm as their sole source of food have long been of interest to anyone concerned with maintaining healthy forests. With millions of years of history between the insects and their fungi, it has been generally assumed that each member of the symbiosis was highly adapted to one another. One of my recent study suggests that the metabolisms of the fungi started out working just as they have continued.
