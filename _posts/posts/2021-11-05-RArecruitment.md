@@ -2,14 +2,9 @@
 layout: post
 title: We are hiring
 subtitle: 徵求計畫助理
-thumbnail-img: "/assets/img/regular_post/Hiring-modified.png" 
-cover-img:
-show-avatar: true
-round-avatar: true
+#thumbnail-img: "/assets/img/regular_post/Hiring-modified.png" 
 readtime: true
 tags: [recrutiment, Research assistant]
-categories: posts
-#published: false
 ---
 【職缺名稱】 
 學士/碩士級研究助理一位
