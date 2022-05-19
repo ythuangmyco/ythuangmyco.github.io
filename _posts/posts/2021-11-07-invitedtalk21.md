@@ -2,14 +2,9 @@
 layout: post
 title: Invited talk
 subtitle: 2021 Annual Meeting of Mycological Society ROC
-thumbnail-img: "/assets/img/regular_post/Guestspeaker.png" 
-cover-img:
-show-avatar: true
-round-avatar: true
+#thumbnail-img: "/assets/img/regular_post/Guestspeaker.png" 
 readtime: true
 tags: [InvitedTalk]
-categories: posts
-#published: false
 ---
 
 Yin-Tse Huang was invited to introduce his ambrosia symbiosis research at the online Annual Meeting of Mycological Society ROC. <br>
