@@ -2,7 +2,7 @@
 layout: post
 title: 獲新聘教師專案計畫補助第二案！
 subtitle: Get funded!
-image: "/assets/img/regular post/getfunded.jpg"
+thumbnail-img: "/assets/img/regular_post/getfunded.jpg"
 cover-img:
 show-avatar: true
 round-avatar: true
