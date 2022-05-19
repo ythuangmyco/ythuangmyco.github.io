@@ -4,8 +4,6 @@ title: Invited talk
 subtitle: Integrated Biology Seminar
 thumbnail-img: /assets/img/regular_post/Guestspeaker.png
 cover-img:
-show-avatar: true
-round-avatar: true
 readtime: true
 tags: [InvitedTalk]
 categories: posts
