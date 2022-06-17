@@ -14,9 +14,8 @@ permalink: "protocol"
 
 ## Molecular methods
 1. DNA extraction
-2. PCR w. regular primer pairs
-3. [PCR w. barcoded primer pairs](https://protocols.io/view/2-step-pcr-mixture-and-conditions-barcoded-head-pr-cbhdsj26.html){:target="_blank"}<br>
-4. Electrophoresis
+2. [PCR w. barcoded primer pairs](https://protocols.io/view/2-step-pcr-mixture-and-conditions-barcoded-head-pr-cbhdsj26.html){:target="_blank"}<br>
+3. Electrophoresis
 
 ## Nanopore procedures
 1. Library construction
