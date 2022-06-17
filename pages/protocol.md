@@ -10,7 +10,7 @@ permalink: "protocol"
 
 ## Culture media
 1. [Fungai culture media](https://protocols.io/view/mycology-media-b9eir3ce.html){:target="_blank"}<br>
-2. Beetle rearing media
+2. [Beetle rearing media](https://www.protocols.io/view/beetle-rearing-media-cbhbsj2n.html){:target="_blank"}<br>
 
 ## Molecular methods
 1. DNA extraction
