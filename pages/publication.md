@@ -3,6 +3,10 @@ layout: page
 title: Publications
 permalink: "publication"
 ---
+## 2022
+<hr>
+**Huang Y.-T.**, Fan Y.-C., Hung T.-C., Chen C.-Y., Sun P.-L. 2022. The high diversity of Scedosporium and Lomentospora species and their prevalence in human-disturbed areas in Taiwan. bioRxiv. https://www.biorxiv.org/content/10.1101/2022.06.10.495564v1<br>
+
 ## 2021
 <hr>
 Li Y, Bateman C, Skelton J, Wang B, Black A, **Huang Y.-T.**, Gonzalez A, Jusino MA, Nolen ZJ, Freeman S, et al. 2021. Pre-invasion assessment of exotic bark beetle-vectored fungi to detect tree-killing pathogens. Phytopathology.<br>
