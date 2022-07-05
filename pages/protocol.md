@@ -7,6 +7,7 @@ permalink: "protocol"
 1. Environmental samples ([soil](https://protocols.io/view/soil-sample-citizen-scientists-chinese-ccedsta6.html){:target="_blank"} & water, etc.)
 2. Beetles
 3. Fungi
+4. [RNAlater](https://protocols.io/view/rnalater-recipe-ccm4su8w.html){:target="_blank"}
 
 ## Culture media
 1. [Fungai culture media](https://protocols.io/view/mycology-media-b9eir3ce.html){:target="_blank"}<br>
