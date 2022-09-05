@@ -81,6 +81,8 @@ permalink: "member_future"
 
 <div class="row">
 <hr/>
+
+<br>
 <br>
   <div class="col no-gutters col-sm col-md">
     <div class="hovereffect">
