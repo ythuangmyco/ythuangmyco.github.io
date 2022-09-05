@@ -49,7 +49,6 @@ permalink: "member_future"
 <br>
 <h3>學士班 Undergraduate</h3>
 <hr/>
-<br>
 <div class="row">
   <div class="col no-gutters col-sm col-md">
      <div class="hovereffect">
@@ -68,6 +67,7 @@ permalink: "member_future"
 </div>
 <br>
 <h3>Alumni</h3>
+<hr/>
 <div class="row">
     <div class="col no-gutters col-sm col-md">
     <div class="hovereffect">
@@ -77,6 +77,9 @@ permalink: "member_future"
      <a href="董蘊庭">董蘊庭</a><br>
   </div>
 </div>
+
+
+<div class="row">
 <hr/>
 <br>
   <div class="col no-gutters col-sm col-md">
@@ -86,6 +89,6 @@ permalink: "member_future"
     <h4> </h4>
     <a href="join_us"> </a><br>
   </div>
-    <div class="col no-gutters col-sm col-md">        
+  <div class="col no-gutters col-sm col-md">        
   </div>
 </div>
