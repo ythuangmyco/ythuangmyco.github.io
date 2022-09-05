@@ -24,21 +24,19 @@ permalink: "member_future"
 <br>
 <h3>研究助理 Research Assistant</h3>
 <hr/>
-<div class="row">
-    <div class="col no-gutters col-sm col-md">
+  <div class="col no-gutters col-sm col-md">
     <div class="hovereffect">
-     <a class="info" href="洪子純"><img class="img-responsive" src="/assets/img/people/洪子純_200.PNG" alt=""></a>
-     </div><br>
-     <h4>研究助理</h4>
-     <a href="洪子純">洪子純</a><br>
+      <a class="info" href="洪子純"><img class="img-responsive" src="/assets/img/people/洪子純_200.PNG" alt=""></a>
+    </div><br>
+    <h4>研究助理</h4>
+    <a href="洪子純">洪子純</a><br>
   </div>
-<div class="row">
-    <div class="col no-gutters col-sm col-md">
+  <div class="col no-gutters col-sm col-md">
     <div class="hovereffect">
-     <a class="info" href="洪子純"><img class="img-responsive" src="/assets/img/people/洪子純_200.PNG" alt=""></a>
-     </div><br>
-     <h4>研究助理</h4>
-     <a href="洪子純">洪子純</a><br>
+      <a class="info" href="洪子純"><img class="img-responsive" src="/assets/img/people/洪子純_200.PNG" alt=""></a>
+    </div><br>
+    <h4>研究助理</h4>
+    <a href="洪子純">洪子純</a><br>
   </div>
 </div>
 <br> 
