@@ -20,3 +20,7 @@ Hi, I am Guan Jie Phang. I .
 <hr>
 Sep 2022 – current&nbsp;&nbsp;**Research Assistant**, Mycology Lab, Kaohsiung Medical University
 Sep 2020 - Sep 2022&nbsp;&nbsp;**Graduate Student**, BEECHEN Lab, Academia Sinica
+
+### Publications
+<hr>
+Phang, GJ. 2020. Host Records for Erotylinae (Coleoptera: Erotylidae) of Taiwan: Part I.
