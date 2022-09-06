@@ -39,7 +39,7 @@ permalink: "member_future"
     <h4>研究助理</h4>
     <a href="cypher">彭冠傑</a><br>
   </div>
-</div>
+<div class="row">
 <br> 
 <h3>博士班 PhD</h3>
 <hr/>
@@ -52,7 +52,7 @@ permalink: "member_future"
 <div class="row">
   <div class="col no-gutters col-sm col-md">
      <div class="hovereffect">
-     <a class="info" href="曾雯渟"><img class="img-responsive" src="/assets/img/people/曾雯渟_circle.png" alt=""></a>
+      <a class="info" href="曾雯渟"><img class="img-responsive" src="/assets/img/people/曾雯渟_circle.png" alt=""></a>
      </div><br>
      <h4>大專研究生</h4>
      <a href="曾雯渟">曾雯渟</a><br>
