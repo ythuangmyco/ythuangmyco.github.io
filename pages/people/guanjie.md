@@ -5,7 +5,7 @@ subtitle: Erotylidae systematist
 permalink: "cypher"
 ---
 {:refdef: style="text-align: center;"}
-![](assets/img/people/P7040065.jpg)
+![](assets/img/people/guanjie_500.jpg)
 {: refdef}
 我是彭冠傑！我以大蕈蟲為研究對象，探討昆蟲與真菌非絕對共生交互關係的演化進程、食蕈性昆蟲的真菌寄主偏好和專一性以及進行大蕈蟲科的整合性分類研究。<br>
 
