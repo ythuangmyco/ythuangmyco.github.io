@@ -34,7 +34,7 @@ permalink: "member_future"
   </div>
   <div class="col no-gutters col-sm col-md">
     <div class="hovereffect">
-      <a class="info" href="cyper"><img class="img-responsive" src="/assets/img/people/guanjie_200.PNG" alt=""></a>
+      <a class="info" href="cyper"><img class="img-responsive" src="/assets/img/people/guanjie_200.png" alt=""></a>
     </div><br>
     <h4>研究助理</h4>
     <a href="cypher">彭冠傑</a><br>
