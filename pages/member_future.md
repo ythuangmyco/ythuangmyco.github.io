@@ -20,25 +20,25 @@ permalink: "member_future"
      <h4>資深研究員 Senior researcher</h4>
      <a href="ythuang">黃尹則 Yin-Tse Huang</a><br>
   </div>
-</div>
-<br>
-<h3>研究助理 Research Assistant</h3>
+</div><br>
+     <h3>研究助理 Research Assistant</h3>
 <hr/>
 <div class="row">
   <div class="col no-gutters col-sm col-md">
     <div class="hovereffect">
-      <a class="info" href="洪子純"><img class="img-responsive" src="/assets/img/people/洪子純_200.PNG" alt=""></a>
+    <a class="info" href="洪子純"><img class="img-responsive" src="/assets/img/people/洪子純_200.PNG" alt=""></a>
     </div><br>
     <h4>研究助理</h4>
     <a href="洪子純">洪子純</a><br>
   </div>
   <div class="col no-gutters col-sm col-md">
     <div class="hovereffect">
-      <a class="info" href="cyper"><img class="img-responsive" src="/assets/img/people/guanjie_200.png" alt=""></a>
+    <a class="info" href="cyper"><img class="img-responsive" src="/assets/img/people/guanjie_200.png" alt=""></a>
     </div><br>
     <h4>研究助理</h4>
     <a href="cypher">彭冠傑</a><br>
   </div>
+</div><br>
 <div class="row">
 <br> 
 <h3>博士班 PhD</h3>
