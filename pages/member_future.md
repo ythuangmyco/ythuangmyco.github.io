@@ -39,8 +39,6 @@ permalink: "member_future"
       <a href="cypher">彭冠傑</a><br>
     </div>
   </div><br>
-  <div class="row">
-    <br>
   <h3>博士班 PhD</h3>
     <hr/>
     <br>
