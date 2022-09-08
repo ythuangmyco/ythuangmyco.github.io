@@ -29,7 +29,7 @@ author: 黃尹則 Yin-Tse Huang
 
 navbar-links:
   Member: "member_future"
-  Ambrosia symbiosis:
+  #Ambrosia symbiosis:
     #- 菌蠹蟲共生關係<br>Ambrosia symbiosis: "ambrosiasymbiosis"
     - 菌蠹蟲真菌<br>Ambrosia fungi: "ambrosiafungi"
         #- 多樣性<br>Diversity: "ambrosiafungi_diversity" 
