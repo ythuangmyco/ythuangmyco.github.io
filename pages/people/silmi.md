@@ -11,19 +11,19 @@ Hello, I am Silmi Yusri Rahmadani, I am interested to stingless bee-collected po
 
 ### Education
 <hr>
-2007-2011 : B.S Biology Department, Faculty of Mathematics and Natural Sciences, Andalas University
-2011-2013 : M.Sc, Biology Graduated Program, Faculty of Mathematics and Natural Sciences, Andalas University
-2022- Now : Ph.D student, Graduated Program of Life Science, Kaohsiung Medical University, Taiwan
+2022-Now&nbsp;&nbsp;&nbsp;**Ph.D.**, Graduated Program of Life Science, Kaohsiung Medical University, Taiwan<br>
+2011-2013&nbsp;&nbsp;&nbsp;**M.S.**, Biology Graduated Program, Faculty of Mathematics and Natural Sciences, Andalas University<br>
+2007-2011&nbsp;&nbsp;&nbsp;**B.S.**, Biology Department, Faculty of Mathematics and Natural Sciences, Andalas University<br>
 
 ### Experiences
 <hr>
-2015 – Now : Andalas University Hospital, Head of Sterilization Department
-2018 – Now : Lecturer of Biology Department, Faculty of Mathematics and Natural Science Andalas University
+2015–Now&nbsp;&nbsp;&nbsp;Andalas University Hospital, Head of Sterilization Department<br>
+2018–Now&nbsp;&nbsp;&nbsp;Lecturer of Biology Department, Faculty of Mathematics and Natural Science Andalas University<br>
 
 ### Memberships
 <hr>
-Association of sterilisation Indonesia 2017 – Now
-Indonesian Microbiology Association 2019 - Now
+Association of sterilisation Indonesia 2017 – Now<br>
+Indonesian Microbiology Association 2019 - Now<br>
 
 ### Publications
 <hr>
