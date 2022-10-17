@@ -5,7 +5,7 @@ permalink: "publication"
 ---
 ## 2022
 <hr>
-**Huang Y.-T.**, Fan Y.-C., Hung T.-C., Chen C.-Y., Sun P.-L. 2022. The high diversity of Scedosporium and Lomentospora species and their prevalence in human-disturbed areas in Taiwan. bioRxiv. https://www.biorxiv.org/content/10.1101/2022.06.10.495564v1<br>
+**Huang Y.-T.**, Fan Y.-C., Hung T.-C., Chen C.-Y., Sun P.-L. 2022. The high diversity of Scedosporium and Lomentospora species and their prevalence in human-disturbed areas in Taiwan. IN REVIEW<br>
 
 ## 2021
 <hr>
