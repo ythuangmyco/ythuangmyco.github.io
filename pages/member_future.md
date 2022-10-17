@@ -41,7 +41,22 @@ permalink: "member_future"
   </div><br>
   <h3>博士班 PhD</h3>
     <hr/>
-    <br>
+  <div class="row">
+    <div class="col no-gutters col-sm col-md">
+      <div class="hovereffect">
+        <a class="info" href="silmi"><img class="img-responsive" src="/assets/img/people/.png" alt=""></a>
+      </div><br>
+      <h4>博士班</h4>
+      <a href="silmi">Silmi Yusri Rahmadani</a><br>
+    </div>
+    <div class="col no-gutters col-sm col-md">
+      <div class="hovereffect">
+        <a class="info" href="khaled"><img class="img-responsive" src="/assets/img/people/.png" alt=""></a>
+      </div><br>
+      <h4>博士班</h4>
+      <a href="khaled">Khaled Abdrabo</a><br>
+    </div>
+  </div><br>
   <h3>碩士班 Master</h3>
     <hr/>
     <br>
