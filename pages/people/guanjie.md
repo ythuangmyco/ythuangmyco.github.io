@@ -14,7 +14,7 @@ Hi, I am Guan Jie Phang. I am studying Erotylidae systematics. I am interested i
 ### Education
 <hr>
 2020–2022&nbsp;&nbsp;&nbsp;**M.S.**, Institute of Entomology, National Taiwan University<br>
-2015-2020&nbsp;&nbsp;&nbsp;**B.S.**, Department of Biological Sciences and Technology, National Chiao Tung University<br>
+2015–2020&nbsp;&nbsp;&nbsp;**B.S.**, Department of Biological Sciences and Technology, National Chiao Tung University<br>
 
 ### Experiences
 <hr>
