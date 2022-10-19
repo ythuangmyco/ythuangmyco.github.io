@@ -48,7 +48,6 @@ permalink: "member"
      <h4>博士生</h4>
      <a href="silmi">Silmi Yusri Rahmadani</a><br>
   </div>
-<div class="row">
     <div class="col no-gutters col-sm col-md">
     <div class="hovereffect">
      <a class="info" href="khaled"><img class="img-responsive" src="/assets/img/people/.png" alt=""></a>
@@ -58,7 +57,8 @@ permalink: "member"
   </div>
 </div>
 <br>
-<div class="col no-gutters col-sm col-md">
+<div class="row">     
+  <div class="col no-gutters col-sm col-md">
      <div class="hovereffect">
      <a class="info" href="曾雯渟"><img class="img-responsive" src="/assets/img/people/曾雯渟_circle.png" alt=""></a>
      </div><br>
