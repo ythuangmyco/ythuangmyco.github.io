@@ -23,4 +23,4 @@ Sep 2020&nbsp;–&nbsp;Sep 2022&nbsp;&nbsp;&nbsp;**Graduate Student**, BEECHEN L
 
 ### Publications
 <hr>
-Phang, GJ. 2020. Host Records for Erotylinae (Coleoptera: Erotylidae) of Taiwan: Part I.
+**Phang, GJ**. 2020. Host Records for Erotylinae (Coleoptera: Erotylidae) of Taiwan: Part I.
