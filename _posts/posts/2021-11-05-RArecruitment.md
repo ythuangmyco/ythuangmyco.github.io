@@ -2,7 +2,7 @@
 layout: post
 title: We are hiring
 subtitle: 徵求計畫助理
-#thumbnail-img: "/assets/img/regular_post/Hiring-modified.png" 
+thumbnail-img: "/assets/img/regular_post/Hiring-modified.png" 
 readtime: true
 tags: [recrutiment, Research assistant]
 ---
