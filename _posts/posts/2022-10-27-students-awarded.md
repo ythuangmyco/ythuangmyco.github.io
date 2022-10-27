@@ -2,7 +2,7 @@
 layout: post
 title: Elite Program Scholarship!
 subtitle: Get funded!
-thumbnail-img: "/assets/img/regular_post/award.png"
+#thumbnail-img: "/assets/img/regular_post/award.png"
 readtime: true
 tags: [funding]
 ---
