@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New members
+title: New lab members
 subtitle: Welcome!
 #thumbnail-img: "/assets/img/regular_post/LabEvent.png"
 readtime: true
