@@ -2,7 +2,7 @@
 layout: post
 title: New members
 subtitle: Welcome!
-thumbnail-img: "/assets/img/regular_post/LabEvent.png"
+#thumbnail-img: "/assets/img/regular_post/LabEvent.png"
 readtime: true
 tags: [members]
 ---
