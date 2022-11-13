@@ -135,6 +135,12 @@ footer-img: "/assets/img/ep_naturalwhite.png"
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-170793292-1"
 
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : "G-X4H3QTQ2Z7"
+    anonymize_ip         : # true, false (default)
+
 # Google Tag Manager ID
 #gtm: ""
 
