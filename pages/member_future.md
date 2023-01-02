@@ -77,6 +77,13 @@ permalink: "member_future"
       <h4>大專研究生</h4>
       <a href="吳昕懋">吳昕懋</a><br>
     </div>
+   <div class="col no-gutters col-sm col-md">
+      <div class="hovereffect">
+        <a class="info" href="yuhsuan"><img class="img-responsive" src="/assets/img/people/yuhsuan_200.PNG" alt=""></a>
+        </div><br>
+      <h4>大專研究生</h4>
+      <a href="yuhsuan">范羽萱</a><br>
+    </div>  
     </div><br>
     <h3>Alumni</h3>
     <hr/>
