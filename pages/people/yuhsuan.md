@@ -7,10 +7,10 @@ permalink: "yuhsuan"
 {:refdef: style="text-align: center;"}
 ![](assets/img/people/yuhsuan_500.png)
 {: refdef}
-我是范羽萱！我喜歡吃果凍(ฅ´ω`ฅ)
+我是范羽萱！我喜歡吃果凍(ฅ´ω`ฅ)<br>
 真菌和甲蟲好可愛喔!!!挖土好好玩!!!我愛貓咪!!!<br>
 
-Hi, I am Yu-Hsuan Fan. I love eating jelly(ฅ´ω`ฅ)
+Hi, I am Yu-Hsuan Fan. I love eating jelly(ฅ´ω`ฅ)<br>
 Fungi and beetles are so cute!!! Digging soil samples is very fun!!! I love cats!!!<br>
 
 ### Education
