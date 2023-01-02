@@ -79,7 +79,7 @@ permalink: "member_future"
     </div>
    <div class="col no-gutters col-sm col-md">
       <div class="hovereffect">
-        <a class="info" href="yuhsuan"><img class="img-responsive" src="/assets/img/people/yuhsuan_200.PNG" alt=""></a>
+        <a class="info" href="yuhsuan"><img class="img-responsive" src="/assets/img/people/yuhsuan_200.png" alt=""></a>
         </div><br>
       <h4>大專研究生</h4>
       <a href="yuhsuan">范羽萱</a><br>
