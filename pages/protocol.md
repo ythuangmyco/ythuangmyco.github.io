@@ -15,10 +15,10 @@ permalink: "protocol"
 
 ## Molecular methods
 1. [DNA extraction](https://www.protocols.io/view/dna-extraction-bomb-cdk7s4zn.html){:target="_blank"}<br>
-2. [PCR w. barcoded primer pairs](https://protocols.io/view/2-step-pcr-mixture-and-conditions-barcoded-head-pr-cbhdsj26.html){:target="_blank"}<br>
-3. Electrophoresis
+2. [Soil DNA extraction](https://www.protocols.io/view/supersoil-soil-dna-extraction-cg33tyqn){:target="_blank"}<br>
+3. [PCR w. barcoded primer pairs](https://protocols.io/view/2-step-pcr-mixture-and-conditions-barcoded-head-pr-cbhdsj26.html){:target="_blank"}<br>
+4. Electrophoresis
 
 ## Nanopore procedures
 1. Library construction
 2. Sequencing
-3. [Data stroage](https://uflorida-my.sharepoint.com/:f:/g/personal/ythuang_ufl_edu/ElfhmBPa8MRGtTaFSHmVl-4BLM_heYMWprkbtNA_UVyJCg?e=FJ1t13){:target="_blank"} (lab use only)<br>
