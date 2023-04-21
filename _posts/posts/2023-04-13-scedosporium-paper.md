@@ -2,7 +2,7 @@
 layout: post
 title: Scedosporium paper is out!
 subtitle: a comprehensive survey throughout Taiwan
-thumbnail-img: "/assets/img/regular_post/sce_taiwan.png"
+thumbnail-image: "/assets/img/regular_post/sce_taiwan.png"
 readtime: true
 tags: [funding]
 ---
