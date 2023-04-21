@@ -4,7 +4,7 @@ title: Scedosporium paper is out!
 subtitle: a comprehensive survey throughout Taiwan
 thumbnail-image: "/assets/img/regular_post/sce_taiwan.png"
 readtime: true
-tags: [funding]
+tags: [research, paper]
 ---
 Finally with almost 10 years of survey of these opportunistic fungi in Taiwan. We present their distribution map throughout Taiwan. More things to come for sure :)
 <br>
