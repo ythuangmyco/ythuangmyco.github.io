@@ -16,7 +16,7 @@ permalink: "protocol"
 ## Molecular methods
 1. [DNA extraction](https://www.protocols.io/view/dna-extraction-bomb-csfywbpw){:target="_blank"}<br>
 2. [Soil DNA extraction](https://www.protocols.io/view/supersoil-soil-dna-extraction-cg33tyqn.html){:target="_blank"}<br>
-3. [PCR w. barcoded primer pairs](https://www.protocols.io/view/2-step-pcr-mixture-and-conditions-barcoded-head-pr-crpbv5in.html){:target="_blank"}<br>
+3. [PCR w. barcoded primer pairs](https://www.protocols.io/view/2-step-pcr-mixture-and-conditions-barcoded-head-pr-yxmvm263og3p/v1){:target="_blank"}<br>
 4. Electrophoresis
 
 ## Nanopore procedures
