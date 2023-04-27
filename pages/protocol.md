@@ -18,6 +18,7 @@ permalink: "protocol"
 2. [Soil DNA extraction](https://www.protocols.io/view/supersoil-soil-dna-extraction-cg33tyqn.html){:target="_blank"}<br>
 3. [PCR w. barcoded primer pairs](https://www.protocols.io/view/2-step-pcr-mixture-and-conditions-barcoded-head-pr-yxmvm263og3p/v1){:target="_blank"}<br>
 4. Electrophoresis
+5. [Size selection](https://www.protocols.io/view/size-selection-purification-bp2l695eklqe/v1){:target="_blank"}<br>
 
 ## Nanopore procedures
 1. Library construction
