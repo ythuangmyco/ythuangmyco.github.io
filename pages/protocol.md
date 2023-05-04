@@ -4,7 +4,7 @@ title: Lab protocols
 permalink: "protocol"
 ---
 ## Sample recording process
-1. Environmental samples ([soil](https://protocols.io/view/soil-sample-citizen-scientists-chinese-ccedsta6.html){:target="_blank"} & water, etc.)
+1. [Microbes isolation from environmental samples](https://www.protocols.io/view/step-by-step-from-environmental-samples-to-preserv-n2bvj8mk5gk5/v1.html){:target="_blank"} ([soil](https://protocols.io/view/soil-sample-citizen-scientists-chinese-ccedsta6.html){:target="_blank"}, water, beetles, and environmental samples.)
 2. Beetles
 3. Fungi
 4. [RNAlater](https://protocols.io/view/rnalater-recipe-ccm4su8w.html){:target="_blank"}
