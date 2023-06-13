@@ -1,13 +1,11 @@
+source 'https://rubygems.org'
 # frozen_string_literal: true
 
+gem "github-pages", group: :jekyll_plugins
 source "https://rubygems.org"
 
 gemspec
 
-group :jekyll_plugins do
-  gem "jekyll-pdf-embed"
-  gem "jekyll-seo-tag"
-  gem "jekyll-sitemap"
-  gem "github-pages"
-
-end
+# enable tzinfo-data for local build
+# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+gem 'jekyll-paginate'
