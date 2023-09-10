@@ -94,12 +94,6 @@ permalink: "member_future"
       <h4>大專研究生</h4>
         <a href="曾雯渟">曾雯渟</a><br>
       </div>
-    #<div class="col no-gutters col-sm col-md">
-      #<div class="hovereffect">
-        #<a class="info" href="洪子純"><img class="img-responsive" src="/assets/img/people/洪子純_200.PNG" alt=""></a>
-      #</div><br>
-      #<h4>研究助理</h4>
-      ＃<a href="洪子純">洪子純</a><br>
     </div>
     </div><br>
   <div class="row">
