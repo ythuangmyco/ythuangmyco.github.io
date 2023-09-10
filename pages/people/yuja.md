@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yu-Ja Li
-subtitle: 
+subtitle: 大專研究生
 permalink: "yuja"
 ---
 {:refdef: style="text-align: center;"}
