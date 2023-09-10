@@ -76,6 +76,7 @@ permalink: "member_future"
         </div><br>
       <h4>大專研究生</h4>
       <a href="yuja">李昱稼</a><br>
+       </div>
     </div><br>
     <h3>Alumni</h3>
     <hr/>
