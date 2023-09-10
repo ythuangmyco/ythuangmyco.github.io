@@ -19,7 +19,7 @@ Hi, I am Guan Jie Phang. I am studying Erotylidae systematics. I am interested i
 ### Experiences
 <hr>
 Sep 2022&nbsp;–&nbsp;current&nbsp;&nbsp;&nbsp;**Research Assistant**, Mycology Lab, Kaohsiung Medical University<br>
-Sep 2020&nbsp;–&nbsp;Sep 2022&nbsp;&nbsp;&nbsp;**Graduate Student**, BEECHEN Lab, Academia Sinica<br>
+Sep 2020&nbsp;–&nbsp;Sep 2022&nbsp;&nbsp;&nbsp;**Part-time Research Assistant**, BEECHEN Lab, Academia Sinica<br>
 
 ### Publications
 <hr>
