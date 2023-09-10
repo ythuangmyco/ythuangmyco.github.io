@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yu-Hsuan Fan
-subtitle: 
+subtitle: 大專研究生
 permalink: "yuhsuan"
 ---
 {:refdef: style="text-align: center;"}
