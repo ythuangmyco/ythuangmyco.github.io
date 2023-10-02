@@ -14,7 +14,7 @@ permalink: "protocol"
 2. [Beetle rearing media](https://www.protocols.io/view/beetle-rearing-media-cbhbsj2n.html){:target="_blank"}<br>
 
 ## Molecular methods
-1. [DNA extraction](https://www.protocols.io/view/dna-extraction-bomb-n2bvj6mdnlk5/v7){:target="_blank"}<br>
+1. [DNA extraction](https://www.protocols.io/view/dna-extraction-v9-0-modified-bomb-czxsx7ne){:target="_blank"}<br>
 2. [Soil DNA extraction](https://www.protocols.io/view/soil-sample-dna-extraction-supersoil-rm7vzbzj2vx1/v1){:target="_blank"}<br>
 3. [PCR w. barcoded primer pairs](https://www.protocols.io/view/2-step-pcr-mixture-and-conditions-barcoded-head-pr-cvq8w5zw){:target="_blank"}<br>
 4. Electrophoresis
