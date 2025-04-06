@@ -3,11 +3,23 @@ layout: page
 title: Publications
 permalink: "publication"
 ---
-## 2022
+## 2025
 <hr>
-**Huang Y.-T.**, Fan Y.-C., Hung T.-C., Chen C.-Y., Sun P.-L. 2022. The high diversity of Scedosporium and Lomentospora species and their prevalence in human-disturbed areas in Taiwan. IN REVIEW<br>
+Wu, H.-M., Fan, Y.-H., Phang, G.-J., Zeng, W.-T., Abdrabo, K. A. E.-S., Wu, Y.-T., Sun, P.-L., Lin, Y.-H., & **Huang, Y.-T.#** (2025). Human activity, not environmental factors, drives Scedosporium and Lomentospora distribution in Taiwan. Medical Mycology: Official Publication of the International Society for Human and Animal Mycology. https://doi.org/10.1093/mmy/myaf022 
+**Huang, Y.-T.#**, Abdrabo, K. A. E.-S., Phang, G. J., Fan, Y.-H., Wu, Y.-T., Ou, J.-H., & Hulcr, J. (2025). Genome diversification of symbiotic fungi in beetle-fungus mutualistic symbioses. The ISME Journal, wraf039. https://doi.org/10.1093/ismejo/wraf039 
 
-## 2021
+## 2024
+<hr>
+Ou, J.-H., Li, H.-Y., Lu, Y.-S., Chen, C.-Y., Fan, Y.-H., Phang, G.J., Huang, G.-Y., Hsieh, S.-Y., **Huang, Y.-T.#**, 2024. Establishing an interactive sequence database for shiitake cultivar identification. Journal of Basic Microbiology. e2400452.
+Lee, Y.-J., Phang, G.J., Chen, C.-C., Ou, J.-H., Fan, Y.-H., **Huang, Y.-T.#**, 2024. Optimal liquid-based DNA preservation for DNA barcoding of field-collected fungal specimens. Heliyon 10, e36829. https://doi.org/10.1016/j.heliyon.2024.e36829
+Abdrabo, K.A.E.-S., Phang, G.J., Rahmadani, S.Y., **Huang, Y.-T.#**, 2024. Insights into the complexities of fungus‐insect‐plant interaction: The laurel wilt disease. J. Phytopathol. 172. https://doi.org/10.1111/jph.13263
+
+## 2023
+<hr>
+Chiu, C.-I., Ou, J.-H., Kuan, K.-C., Chen, C.-Y., **Huang, Y.-T.**, Sripontan, Y., Li, H.-F., 2023. Body size of fungus-growing termites infers on the volume and density of their fungal cultivar. Royal Society Open Science 10, 230126. https://doi.org/10.1098/rsos.230126.
+**Huang, Y.-T.**, Hung, T.-C., Fan, Y.-C., Chen, C.-Y., Sun, P.-L#. 2023. The high diversity of Scedosporium and Lomentospora species and their prevalence in human-disturbed areas in Taiwan. Med. Mycol. 61, myad041. https://doi.org/10.1093/mmy/myad041
+
+## 2022
 <hr>
 Li Y, Bateman C, Skelton J, Wang B, Black A, **Huang Y.-T.**, Gonzalez A, Jusino MA, Nolen ZJ, Freeman S, et al. 2021. Pre-invasion assessment of exotic bark beetle-vectored fungi to detect tree-killing pathogens. Phytopathology.<br>
 
