@@ -5,9 +5,9 @@ permalink: "publication"
 ---
 ## 2025
 <hr>
-Wu, H.-M., Fan, Y.-H., Phang, G.-J., Zeng, W.-T., Abdrabo, K. A. E.-S., Wu, Y.-T., Sun, P.-L., Lin, Y.-H., & **Huang, Y.-T.#** (2025). Human activity, not environmental factors, drives Scedosporium and Lomentospora distribution in Taiwan. Medical Mycology: Official Publication of the International Society for Human and Animal Mycology. (https://doi.org/10.1093/mmy/myaf022){:target="_blank"}<br>
+Wu, H.-M., Fan, Y.-H., Phang, G.-J., Zeng, W.-T., Abdrabo, K. A. E.-S., Wu, Y.-T., Sun, P.-L., Lin, Y.-H., & **Huang, Y.-T.#** (2025). Human activity, not environmental factors, drives Scedosporium and Lomentospora distribution in Taiwan. Medical Mycology: Official Publication of the International Society for Human and Animal Mycology. [https://doi.org/10.1093/mmy/myaf022](https://doi.org/10.1093/mmy/myaf022){:target="_blank"}<br>
 
-**Huang, Y.-T.#**, Abdrabo, K. A. E.-S., Phang, G. J., Fan, Y.-H., Wu, Y.-T., Ou, J.-H., & Hulcr, J. (2025). Genome diversification of symbiotic fungi in beetle-fungus mutualistic symbioses. The ISME Journal, wraf039. (https://doi.org/10.1093/ismejo/wraf039){:target="_blank"}<br>
+**Huang, Y.-T.#**, Abdrabo, K. A. E.-S., Phang, G. J., Fan, Y.-H., Wu, Y.-T., Ou, J.-H., & Hulcr, J. (2025). Genome diversification of symbiotic fungi in beetle-fungus mutualistic symbioses. The ISME Journal, wraf039. [https://doi.org/10.1093/ismejo/wraf039](https://doi.org/10.1093/ismejo/wraf039){:target="_blank"}<br>
 
 ## 2024
 <hr>
