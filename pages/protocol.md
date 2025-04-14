@@ -21,5 +21,5 @@ permalink: "protocol"
 5. [Size selection](https://www.protocols.io/view/size-selection-purification-bp2l695eklqe/v1){:target="_blank"}<br>
 
 ## Nanopore procedures
-1. Library construction
+1. Library construction (R10 NB barcode) (https://protocols.io/view/nanopore-library-preparation-for-r10-native-barcod-d5cv82w6.html){:target="_blank"}<br>
 2. Sequencing
