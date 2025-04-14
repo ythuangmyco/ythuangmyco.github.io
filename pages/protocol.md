@@ -5,7 +5,7 @@ permalink: "protocol"
 ---
 ## Sample recording process
 1. [Microbes isolation from environmental samples](https://www.protocols.io/view/step-by-step-from-environmental-samples-to-preserv-n2bvj8mk5gk5/v1){:target="_blank"}<br>
-2. ([Soil](https://protocols.io/view/soil-sample-citizen-scientists-chinese-ccedsta6.html){:target="_blank"}, water, beetles, and environmental samples.)
+2. Environmental ([Soil](https://protocols.io/view/soil-sample-citizen-scientists-chinese-ccedsta6.html){:target="_blank"}, water)
 3. Beetles
 4. Fungi
 5. [RNAlater](https://www.protocols.io/view/rnalater-recipe-bp2l61w35vqe/v1){:target="_blank"}<br>
