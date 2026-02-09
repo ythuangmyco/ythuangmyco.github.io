@@ -56,6 +56,10 @@ permalink: "member_future"
   <h3>學士班 Undergraduate</h3>
     <hr/>
   <div class="row">
+    </div><br>
+    <h3>Alumni</h3>
+    <hr/>
+  <div class="row">
     <div class="col no-gutters col-sm col-md">
       <div class="hovereffect">
         <a class="info" href="吳昕懋"><img class="img-responsive" src="/assets/img/people/吳昕懋_200.PNG" alt=""></a>
@@ -76,11 +80,7 @@ permalink: "member_future"
         </div><br>
       <h4>大專研究生</h4>
       <a href="yuja">李昱稼</a><br>
-     </div>
-    </div><br>
-    <h3>Alumni</h3>
-    <hr/>
-  <div class="row">
+    </div>
     <div class="col no-gutters col-sm col-md">
       <div class="hovereffect">
         <a class="info" href="董蘊庭"><img class="img-responsive" src="/assets/img/people/董蘊庭_circle.png" alt=""></a>
