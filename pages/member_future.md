@@ -21,16 +21,16 @@ permalink: "member_future"
       <a href="ythuang">黃尹則 Yin-Tse Huang</a><br>
     </div>
   </div><br>
-  <h3>研究助理 Research Assistant</h3>
-  <hr/>
+  <h3>博士後研究員 Postdoc Researcher</h3>
+    <hr/>
   <div class="row">
     <div class="col no-gutters col-sm col-md">
       <div class="hovereffect">
-        <a class="info" href="cypher"><img class="img-responsive" src="/assets/img/people/guanjie_200.png" alt=""></a>
+        <a class="info" href="khaled"><img class="img-responsive" src="/assets/img/people/khaled_200.png" alt=""></a>
       </div><br>
-      <h4>研究助理</h4>
-      <a href="cypher">彭冠傑</a><br>
-    </div>
+      <h4>博士後</h4>
+      <a href="khaled">Khaled Abdrabo</a><br>
+    </div>    
   </div><br>
   <h3>博士班 PhD</h3>
     <hr/>
@@ -41,13 +41,6 @@ permalink: "member_future"
       </div><br>
       <h4>博士班</h4>
       <a href="silmi">Silmi Yusri Rahmadani</a><br>
-    </div>
-    <div class="col no-gutters col-sm col-md">
-      <div class="hovereffect">
-        <a class="info" href="khaled"><img class="img-responsive" src="/assets/img/people/khaled_200.png" alt=""></a>
-      </div><br>
-      <h4>博士班</h4>
-      <a href="khaled">Khaled Abdrabo</a><br>
     </div>
   </div><br>
   <h3>碩士班 Master</h3>
@@ -60,6 +53,13 @@ permalink: "member_future"
     <h3>Alumni</h3>
     <hr/>
   <div class="row">
+    <div class="col no-gutters col-sm col-md">
+      <div class="hovereffect">
+        <a class="info" href="cypher"><img class="img-responsive" src="/assets/img/people/guanjie_200.png" alt=""></a>
+      </div><br>
+      <h4>研究助理</h4>
+      <a href="cypher">彭冠傑</a><br>
+    </div>
     <div class="col no-gutters col-sm col-md">
       <div class="hovereffect">
         <a class="info" href="吳昕懋"><img class="img-responsive" src="/assets/img/people/吳昕懋_200.PNG" alt=""></a>
