@@ -74,6 +74,8 @@ permalink: "member_future"
       <h4>大專研究生</h4>
       <a href="yuhsuan">范羽萱</a><br>
     </div>
+  </div>
+  <div class="row">
     <div class="col no-gutters col-sm col-md">
       <div class="hovereffect">
         <a class="info" href="yuja"><img class="img-responsive" src="/assets/img/people/yuja_200.png" alt=""></a>
