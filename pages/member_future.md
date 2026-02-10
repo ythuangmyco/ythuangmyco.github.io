@@ -8,7 +8,7 @@ permalink: "member_future"
   <div class="row">
     <div class="col no-gutters col-sm col-md">
       <div class="hovereffect">
-        <a class="info" href="ythuang"><img class="img-responsive" src="/assets/img/people/Me2021_circle_200.png" alt=""></a>
+        <a class="info" href="ythuang"><img class="img-responsive" src="/assets/img/people/me2026_circle_200.png" alt=""></a>
       </div><br>
       <h4>資深研究員 Senior researcher</h4>
       <a href="ythuang">黃尹則 Yin-Tse Huang</a><br>
