@@ -1,0 +1,22 @@
+---
+layout: post
+title: Decoding Antifungal Resistance Through the Hardest-to-Treat Fungi
+subtitle: Ecology and antifungal resistance of opportunistic fungal pathogens under a One Health framework
+image: "/assets/img/Research/intro1_antifungal_multiomics_1.png"
+cover-img:
+show-avatar: true
+round-avatar: false
+readtime: true
+tags: [antifungal, mechanism, evolution, One-health]
+#permalink: ""
+categories: research_posts
+#published: FALSE
+---
+<p align="center">
+  <img src="/assets/img/Research/intro1_antifungal_multiomics_1.png" />
+</p>
+Invasive fungal infections cause significant global mortality, yet therapeutic options remain limited to three mechanistic drug classes. Our research uses intrinsically multidrug-resistant Scedosporium and Lomentospora species — WHO priority pathogens — as model systems to study constitutive resistance mechanisms and identify novel therapeutic targets.
+
+Through international collaborations, we are building a comprehensive Asia-Pacific strain biobank and applying 4D multi-omics integration (genomics, transcriptomics, proteomics, metabolomics) to map the molecular networks underlying pan-resistance. Candidate targets are functionally validated using a CRISPR-Cpf1 genome editing platform developed specifically for these species, and translated into therapeutic strategies through nanomedicine delivery systems, drug repurposing screens, and in vivo efficacy testing.
+
+Because this pipeline targets organisms with the highest baseline resistance, the resulting discoveries are directly transferable to other clinically important pathogens such as Candida auris and azole-resistant Aspergillus.
