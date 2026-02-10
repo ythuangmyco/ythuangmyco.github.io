@@ -3,11 +3,19 @@ layout: page
 title: Publications
 permalink: "publication"
 ---
+## 2026
+<hr>
+Abdrabo, K. A. E.-S., Phang, G. J., Fan, Y.-H., & **Huang, Y.-T.#** (2026). Phylogeny and ecological roles shaping yeast-hyphae morphogenesis in Ophiostomataceae. Fungal Biology, 130(1), 101665. [https://doi.org/10.1016/j.funbio.2025.101665](https://doi.org/10.1016/j.funbio.2025.101665){:target="_blank"}<br>
+
 ## 2025
 <hr>
-Wu, H.-M., Fan, Y.-H., Phang, G.-J., Zeng, W.-T., Abdrabo, K. A. E.-S., Wu, Y.-T., Sun, P.-L., Lin, Y.-H., & **Huang, Y.-T.#** (2025). Human activity, not environmental factors, drives Scedosporium and Lomentospora distribution in Taiwan. Medical Mycology: Official Publication of the International Society for Human and Animal Mycology. [https://doi.org/10.1093/mmy/myaf022](https://doi.org/10.1093/mmy/myaf022){:target="_blank"}<br>
+Lin, S.-Y., Tseng, Y.-T., Abdrabo, K. A. E.-S., Wu, H.-M., Sun, P.-L., Wu, C.-J., Sukphopetch, P., Chen, S. C.-A., & **Huang, Y.-T.#** (2025). Phylogenetic insights into antifungal susceptibility: Comparing environmental and clinical Scedosporium and Lomentospora isolates from Taiwan. In bioRxiv (p. 2025.11. 08.687386). [https://doi.org/10.1101/2025.11.08.687386](https://doi.org/10.1101/2025.11.08.687386){:target="_blank"}<br>
+
+Lo, P.-H., El-Sayid Abdrabo, K. A., Nai, Y.-S., Lu, H.-L., & **Huang, Y.-T.#** (2025). Versatile entomopathogenic activity of Purpureocillium takamizusanense against diverse agricultural pests. In bioRxiv (p. 2025.04.08.647886). [https://doi.org/10.1101/2025.04.08.647886](https://doi.org/10.1101/2025.04.08.647886){:target="_blank"}<br>
 
 **Huang, Y.-T.#**, Abdrabo, K. A. E.-S., Phang, G. J., Fan, Y.-H., Wu, Y.-T., Ou, J.-H., & Hulcr, J. (2025). Genome diversification of symbiotic fungi in beetle-fungus mutualistic symbioses. The ISME Journal, wraf039. [https://doi.org/10.1093/ismejo/wraf039](https://doi.org/10.1093/ismejo/wraf039){:target="_blank"}<br>
+
+Wu, H.-M., Fan, Y.-H., Phang, G.-J., Zeng, W.-T., Abdrabo, K. A. E.-S., Wu, Y.-T., Sun, P.-L., Lin, Y.-H., & **Huang, Y.-T.#** (2025). Human activity, not environmental factors, drives Scedosporium and Lomentospora distribution in Taiwan. Medical Mycology: Official Publication of the International Society for Human and Animal Mycology. [https://doi.org/10.1093/mmy/myaf022](https://doi.org/10.1093/mmy/myaf022){:target="_blank"}<br>
 
 ## 2024
 <hr>
