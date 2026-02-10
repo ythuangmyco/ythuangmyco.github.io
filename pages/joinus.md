@@ -9,12 +9,12 @@ permalink: "join_us"
 ![](assets/img/Mycena.jpg)
 {: refdef}
 
-The Huang lab is always looking for motivated undergraduate students, graduate students, and postdocs to join the lab. Please e-mail [ythuangmyco@gmail.com](mailto:ythuangmyco@gmail.com){:target="_blank"} or [ythuangmyco@kmu.edu.tw](mailto:ythuangmyco@kmu.edu.tw){:target="_blank"} if you are interested in joining us.
+The Huang lab is always looking for motivated undergraduate students, graduate students, and postdocs to join the lab. Please e-mail [ythuangmyco@gmail.com](mailto:ythuangmyco@gmail.com){:target="_blank"} or [ythuangmyco@gs.ncku.edu.tw](mailto:ythuangmyco@gs.ncku.edu.tw){:target="_blank"} if you are interested in joining us.
 
-The Huang lab is housed in the [Department of Biomedical Science and Environmental Biology](https://biology.kmu.edu.tw/index.php/zh-TW/){:target="_blank"} at Kaohsiung Medical University.<br>
+The Huang lab is housed in the [Department of Biotechnology and Bioindustry Sciences](https://dbbs.ncku.edu.tw/index.php?Lang=zh-tw){:target="_blank"} at National Cheng Kung University.<br>
 <br>
-Lab: N932<br>
-Office: N927<br>
+Lab: 89A13<br>
+Office: 89A03<br>
 
 <h4>Graduate students</h4>
 <hr/>
