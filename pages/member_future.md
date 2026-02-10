@@ -10,7 +10,7 @@ permalink: "member_future"
       <div class="hovereffect">
         <a class="info" href="ythuang"><img class="img-responsive" src="/assets/img/people/me2026_circle_200.png" alt=""></a>
       </div><br>
-      <h4>資深研究員 Senior researcher</h4>
+      <h4>主持人 Principal investigator</h4>
       <a href="ythuang">黃尹則 Yin-Tse Huang</a><br>
     </div>
   </div><br>
