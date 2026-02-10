@@ -19,7 +19,8 @@ My name is Yin-Tse Huang. I study symbiosis, using fungi, beetles, and plants as
 
 ### Experiences
 <hr>
-Feb 2021 – present **Assistant Professor**, Department of Biomedical Science and Environment Biology, Kaohsiung Medical School<br>
+Feb 2026 – present **Assistant Professor**, Department of Biotechnology and Bioindustry Sciences, NCKU<br>
+Feb 2021 – Jan 2026 **Assistant Professor**, Department of Biomedical Science and Environment Biology, Kaohsiung Medical School<br>
 Oct 2019 – Jan 2021 &nbsp;&nbsp;**Postdoc Researcher**, Center for Ecological Research, Kyoto University<br>
 Aug 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, United States Forest Service, Northern Research Station<br>
 May 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Visiting Scholar**, Institute of Microbiology, Czech Academy of Sciences<br>
