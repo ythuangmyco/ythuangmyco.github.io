@@ -10,7 +10,7 @@ readtime: true
 tags: [symbiosis, transcriptome]
 permalink: "plantfungi"
 categories: research_posts
-#published: FALSE
+published: FALSE
 ---
 ![](/assets/img/Research/plantfungiscoring.png)
 *Scoring introducted microbes for their interaction with plant hosts in a network system [picture from Toju et al. (2020)]* <br>
