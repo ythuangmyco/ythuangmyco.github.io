@@ -29,22 +29,22 @@ author: 黃尹則 Yin-Tse Huang
 
 navbar-links:
   Member: "member_future"
-  #Ambrosia symbiosis:
-    #- 菌蠹蟲共生關係<br>Ambrosia symbiosis: "ambrosiasymbiosis"
-    #- 菌蠹蟲真菌<br>Ambrosia fungi: "ambrosiafungi"
-        #- 多樣性<br>Diversity: "ambrosiafungi_diversity" 
-        #- 代謝演化<br>Metabolic evolution: "ambrosiafungi_metevolution"
-    #- 菌蠹蟲<br>Ambrosia beetle: "ambrosiabeetle"
-        #- 生態<br>Ecology: "ambrosiabeetle_ecology"
-        #- 多樣性<br>Diversity: "ambrosiabeetle_diversity"
-        #- 共生適應<br>adaptation: "ambrosiabeetle_adaptation"
+#  Ambrosia symbiosis:
+#    - 菌蠹蟲共生關係<br>Ambrosia symbiosis: "ambrosiasymbiosis"
+#    - 菌蠹蟲真菌<br>Ambrosia fungi: "ambrosiafungi"
+#        - 多樣性<br>Diversity: "ambrosiafungi_diversity" 
+#        - 代謝演化<br>Metabolic evolution: "ambrosiafungi_metevolution"
+#    - 菌蠹蟲<br>Ambrosia beetle: "ambrosiabeetle"
+#        - 生態<br>Ecology: "ambrosiabeetle_ecology"
+#        - 多樣性<br>Diversity: "ambrosiabeetle_diversity"
+#        - 共生適應<br>adaptation: "ambrosiabeetle_adaptation"
   Research: "research"
   Protocol: "protocol"
   Publication: "publication"
-  真菌公民科學調查: 
-    - 結果輸入＆即時觀看: "TFDCSHome"
-    - 如何加入調查: "TFDCSJoin" 
-  # Test: "MapboxSolution"
+#  真菌公民科學調查: 
+#    - 結果輸入＆即時觀看: "TFDCSHome"
+#    - 如何加入調查: "TFDCSJoin" 
+#  Test: "MapboxSolution"
 # --- Logo --- #
 
 
