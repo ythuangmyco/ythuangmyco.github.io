@@ -37,7 +37,7 @@ permalink: "member_future"
     </div>
     <div class="col no-gutters col-sm col-md">
       <div class="hovereffect">
-        <a class="info" href="silmi"><img class="img-responsive" src="/assets/img/people/AMI_circular_200.png" alt=""></a>
+        <a class="info" href="amira"><img class="img-responsive" src="/assets/img/people/AMI_circular_200.png" alt=""></a>
       </div><br>
       <h4>博士班</h4>
       <a href="amira">Amira Ibrahim</a><br>
