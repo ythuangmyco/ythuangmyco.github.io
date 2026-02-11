@@ -10,6 +10,7 @@ permalink: "khaled"
 I am a mycologist with a strong interest in fungal biology, with particular emphasis on fungal symbiosis and cross-kingdom interactions. My research integrates molecular biology approaches with classical culturing techniques to investigate fungal biology and ecology. Supported by a background in chemistry, I bring an additional analytical perspective to the study of fungal metabolic processes and ecological adaptations.
 
 ### Research Interests
+<hr>
 Mycology, Microbiology, Evolution, Fungal Metabolism
 
 ### Education
@@ -23,7 +24,7 @@ Mycology, Microbiology, Evolution, Fungal Metabolism
 2007–2011 **BSc**, Chemistry and Microbiology, Assiut University, Egypt
 
 ### Executing Projects
-
+<hr>
 1. Molecular Mechanisms and Experimental Evolution of Antifungal Resistance in Scedosporium and Lomentospora: A One Health Investigation. National Science and Technology Council, Taiwan, Postdoctoral researcher, PI: Yin-Tse Huang. (Aug. 2025 – Jul. 2026).
 
 2. Integrative investigation of the association between mutations in the squalene epoxidase, biological characteristics, and antifungal resistance in dermatophytes and establish a web-based nanopore sequencing system for rapid identification and prediction of dermatophyte resistance. National Science and Technology Council, Taiwan, Postdoctoral researcher, Co-PI: Yin-Tse Huang. (Aug. 2025 – Jul. 2028).
@@ -31,6 +32,7 @@ Mycology, Microbiology, Evolution, Fungal Metabolism
 3. Preliminary study on the pest control mechanism of entomopathogenic fungi: molecular interaction research on Purpureocillium infection of lychee stink bug. Ministry of Agriculture, Postdoctoral researcher, PI: Yin-Tse Huang. (Jan. 2025 – Dec. 2025).
 
 ### Research outputs
+<hr>
 Poster
 
 1. Abdrabo, Khaled Abdrabo El-Sayid, Lo, Pei-Hsin, and Huang, Yin-Tse. Independent programs, synchronized timelines: dual RNA-seq of Purpureocillium–LSB infection Nov 2025. 2025 Annual Meeting of Mycological Society of Taiwan.
