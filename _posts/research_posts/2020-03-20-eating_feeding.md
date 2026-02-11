@@ -10,7 +10,7 @@ readtime: true
 tags: [symbiosis, metabolism, evolution]
 #permalink: ""
 categories: research_posts
-#published: FALSE
+published: FALSE
 ---
 100 million years ago, a group of bark beetles started to farm their fungal symbionts and formed a tight relationship with the fungal crops. Such lifeform between bark beetles and their fungi is termed ambrosia symbiosis, and therefore “ambrosia" beetles and “ambrosia" fungi for these critters involved.<br>
 
