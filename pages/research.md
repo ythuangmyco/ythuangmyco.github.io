@@ -1,7 +1,7 @@
 ---
 layout: research_post
 title: Research
-subtitle: past and ongoing projects
+subtitle: Ongoing projects
 show-avatar : true
 permalink: "research"
 #published: false
