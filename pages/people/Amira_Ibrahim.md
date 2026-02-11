@@ -15,7 +15,7 @@ Fungal biodiversity, Lignocellulolytic enzyme production, Opportunistic fungal p
 
 ### Education
 <hr>
-2025-present&nbsp;&nbsp;&nbsp;**PhD student**, Life Science, Kaohsiung Medical University, Taiwan
+2025-present&nbsp;&nbsp;&nbsp;**PhD student**, Life Science, Kaohsiung Medical University, Taiwan<br>
 2020–2024&nbsp;&nbsp;&nbsp;**MS**, Department of Botany and Microbiology, Assiut University, Egypt<br>
 2013–2017&nbsp;&nbsp;&nbsp;**BS**, Chemistry and Microbiology, Assiut University, Egypt. Graduated with **Distinction with Honor**<br>
 
