@@ -15,10 +15,6 @@ Mycology, Microbiology, Evolution, Fungal Metabolism
 
 ### Education
 <hr>
-2022–Now&nbsp;&nbsp;&nbsp;**Ph.D.**, Graduated Program of Life Science, Kaohsiung Medical University<br>
-2014–2017&nbsp;&nbsp;&nbsp;**M.S.**, Department of Botany and Microbiology, Assiut University<br>
-2007–2011&nbsp;&nbsp;&nbsp;**B.S.**, Chemistry and Microbiology, Assiut University<br>
-
 2022–2025&nbsp;&nbsp;&nbsp;**PhD**, Life Science, Kaohsiung Medical University, Taiwan<br>
 2013–2017&nbsp;&nbsp;&nbsp;**MSc**, Microbiology (Mycology), Assiut University, Egypt<br>
 2007–2011&nbsp;&nbsp;&nbsp;**BSc**, Chemistry and Microbiology, Assiut University, Egypt<br>
