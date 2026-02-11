@@ -17,7 +17,7 @@ url: "https://ythuangmyco.github.io/"
 #baseurl: "/projectname"
 
 # Name of website
-title: Huang Lab
+title: Huang MEGA Lab
 
 # Short description of your site
 description: Yin-Tse's research site
@@ -65,8 +65,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "ythuangmyco@gmail.com"
-  facebook: MycoveryHD
+  email: "ythuangmyco@gs.ncku.edu.tw"
+#  facebook: MycoveryHD
   googlescholar: citations?user=JT5_A6oAAAAJ
   #github: daattali
   #twitter: daattali
