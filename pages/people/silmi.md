@@ -25,8 +25,9 @@ Hello, I am Silmi Yusri Rahmadani, I am interested to stingless bee-collected po
 Association of sterilisation Indonesia 2017 – Now<br>
 Indonesian Microbiology Association 2019 - Now<br>
 
-### Publications
+### Research outputs
 <hr>
-**Rahmadani, SY**, Alponsin, Jannatan, R,Maideliza, T, 2021. Anatomical And Energi Characteristics Of Wood From Three Invasive Species. Jurnal Riset Industri Hasil Hutan (JRIHH) (13) 1<br>
-Indrayati, S, **Rahmadani, SY**, Periadnadi, Nurmiati. 2021. Potensial Indigenous Microbiota Pulp of Three (Cocoa Theobroma Cacao, L) varieties as the Strater on Cocoa Bean Fermentation. Biopropal Industri. (12) 1<br>
-**Rahmadani, SY**, Periadnadi, Nurmiati. 2020. Isolation and Characterizations Of Indigenous Fermenting Bacteria From Pulp Of Three Cocoa Varieties (Theobroma Cacao, L.). Biopropal Industri. (11) 1<br>
+#### Publication
+1. **Rahmadani, SY**, Alponsin, Jannatan, R,Maideliza, T, 2021. Anatomical And Energi Characteristics Of Wood From Three Invasive Species. Jurnal Riset Industri Hasil Hutan (JRIHH) (13) 1.
+2. Indrayati, S, **Rahmadani, SY**, Periadnadi, Nurmiati. 2021. Potensial Indigenous Microbiota Pulp of Three (Cocoa Theobroma Cacao, L) varieties as the Strater on Cocoa Bean Fermentation. Biopropal Industri. (12) 1.
+3. **Rahmadani, SY**, Periadnadi, Nurmiati. 2020. Isolation and Characterizations Of Indigenous Fermenting Bacteria From Pulp Of Three Cocoa Varieties (Theobroma Cacao, L.). Biopropal Industri. (11) 1.
