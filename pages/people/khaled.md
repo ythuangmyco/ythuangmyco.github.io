@@ -19,9 +19,9 @@ Mycology, Microbiology, Evolution, Fungal Metabolism
 2014–2017&nbsp;&nbsp;&nbsp;**M.S.**, Department of Botany and Microbiology, Assiut University<br>
 2007–2011&nbsp;&nbsp;&nbsp;**B.S.**, Chemistry and Microbiology, Assiut University<br>
 
-2022–2025 **PhD**, Life Science, Kaohsiung Medical University, Taiwan
-2013–2017 **MSc**, Microbiology (Mycology), Assiut University, Egypt
-2007–2011 **BSc**, Chemistry and Microbiology, Assiut University, Egypt
+2022–2025&nbsp;&nbsp;&nbsp;**PhD**, Life Science, Kaohsiung Medical University, Taiwan<br>
+2013–2017&nbsp;&nbsp;&nbsp;**MSc**, Microbiology (Mycology), Assiut University, Egypt<br>
+2007–2011&nbsp;&nbsp;&nbsp;**BSc**, Chemistry and Microbiology, Assiut University, Egypt<br>
 
 ### Executing Projects
 <hr>
