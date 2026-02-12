@@ -21,11 +21,11 @@ Mycology, Microbiology, Evolution, Fungal Metabolism
 
 ### Executing Projects
 <hr>
-1. Molecular Mechanisms and Experimental Evolution of Antifungal Resistance in Scedosporium and Lomentospora: A One Health Investigation. National Science and Technology Council, Taiwan, Postdoctoral researcher, PI: Yin-Tse Huang. (Aug. 2025 – Jul. 2026).
+1. **Molecular Mechanisms and Experimental Evolution of Antifungal Resistance in Scedosporium and Lomentospora** A One Health Investigation. National Science and Technology Council, Taiwan, Postdoctoral researcher, PI: Yin-Tse Huang. (Aug. 2025 – Jul. 2026).
 
-2. Integrative investigation of the association between mutations in the squalene epoxidase, biological characteristics, and antifungal resistance in dermatophytes and establish a web-based nanopore sequencing system for rapid identification and prediction of dermatophyte resistance. National Science and Technology Council, Taiwan, Postdoctoral researcher, Co-PI: Yin-Tse Huang. (Aug. 2025 – Jul. 2028).
+2. **Integrative investigation of the association between mutations in the squalene epoxidase, biological characteristics, and antifungal resistance in dermatophytes** and establish a web-based nanopore sequencing system for rapid identification and prediction of dermatophyte resistance. National Science and Technology Council, Taiwan, Postdoctoral researcher, Co-PI: Yin-Tse Huang. (Aug. 2025 – Jul. 2028).
 
-3. Preliminary study on the pest control mechanism of entomopathogenic fungi: molecular interaction research on Purpureocillium infection of lychee stink bug. Ministry of Agriculture, Postdoctoral researcher, PI: Yin-Tse Huang. (Jan. 2025 – Dec. 2025).
+3. **Preliminary study on the pest control mechanism of entomopathogenic fungi** molecular interaction research on Purpureocillium infection of lychee stink bug. Ministry of Agriculture, Postdoctoral researcher, PI: Yin-Tse Huang. (Jan. 2025 – Dec. 2025).
 
 ### Research outputs
 <hr>
