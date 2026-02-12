@@ -15,17 +15,16 @@ Microbiology, Microbial ecology, Microbiome
 
 ### Education
 <hr>
-2022-present&nbsp;&nbsp;&nbsp;**PhD student**, Life Science, Kaohsiung Medical University, Taiwan
-2011–2013&nbsp;&nbsp;&nbsp;**MSc**, Biology, Andalas University, Indonesia
-2007–2011&nbsp;&nbsp;&nbsp;**BSc**, Biology, Andalas University, Indonesia
+2022-present&nbsp;&nbsp;&nbsp;**PhD student**, Life Science, Kaohsiung Medical University, Taiwan<br>
+2011–2013&nbsp;&nbsp;&nbsp;**MSc**, Biology, Andalas University, Indonesia<br>
+2007–2011&nbsp;&nbsp;&nbsp;**BSc**, Biology, Andalas University, Indonesia<br>
 
 ### Executing Projects
 <hr>
 1. **Orchard-Type Soil Microbiome, Candida tropicalis, and Azole Residues**
-Investigating how different orchard systems, ecological distribution of Candida tropicalis,  and azole fungicide residues shape soil bacterial and fungal communities using 16S and ITS amplicon sequencing.<br>
+Investigating how different orchard systems, ecological distribution of Candida tropicalis,  and azole fungicide residues shape soil bacterial and fungal communities using 16S and ITS amplicon sequencing.
 2. **Land Use, Edaphic Gradients, and Human Footprint Effects on Soil Microbiomes**
 Analyzing how land-use categories, soil physicochemical properties, and anthropogenic disturbance collectively influence soil microbial diversity, community composition, and core microbiome structure.
-
 
 ### Research outputs
 <hr>
