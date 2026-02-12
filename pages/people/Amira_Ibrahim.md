@@ -26,4 +26,4 @@ Fungal biodiversity, Lignocellulolytic enzyme production, Opportunistic fungal p
 ### Research outputs
 <hr>
 #### Publication
-1. Hussien, A. K. E., Hussein, N. A. G., & El-Nagdy, M. A. (2023). Biodiversity of Chaetomium-like genera in the Nile River, at Assiut, Egypt. Assiut University Journal of Multidisciplinary Scientific Research, 52(3), 295-321.
+1. **Hussien, A. K. E.**, Hussein, N. A. G., & El-Nagdy, M. A. (2023). Biodiversity of Chaetomium-like genera in the Nile River, at Assiut, Egypt. Assiut University Journal of Multidisciplinary Scientific Research, 52(3), 295-321.
