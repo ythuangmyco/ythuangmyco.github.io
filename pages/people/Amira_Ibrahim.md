@@ -21,7 +21,7 @@ Fungal biodiversity, Lignocellulolytic enzyme production, Opportunistic fungal p
 
 ### Executing Projects
 <hr>
-1. Azole-resistance mutations in Lomentospora and Scedosporium species: This project aims to elucidate the molecular mechanisms of antifungal resistance in emerging opportunistic fungi that cause severe infections in immunocompromised patients, with the goal of informing the development of alternative and more effective treatment strategies, including novel antifungal agents such as olorofim.<br>
+1. **Azole-resistance mutations in Lomentospora and Scedosporium species** This project aims to elucidate the molecular mechanisms of antifungal resistance in emerging opportunistic fungi that cause severe infections in immunocompromised patients, with the goal of informing the development of alternative and more effective treatment strategies, including novel antifungal agents such as olorofim.<br>
 
 ### Research outputs
 <hr>
