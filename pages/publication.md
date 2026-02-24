@@ -5,6 +5,8 @@ permalink: "publication"
 ---
 ## 2026
 <hr>
+Bickerstaff, J., Huang, Y.-T., & Barnes, M. Comparative genomic methods specific to the ambrosia symbiosis. In Hulcr, J. & Barnes, M. (Eds.), Ambrosia Symbiosis Research Handbook. Springer. (In press, 2026)<br>
+
 Abdrabo, K. A. E.-S., Phang, G. J., Fan, Y.-H., & **Huang, Y.-T.#** (2026). Phylogeny and ecological roles shaping yeast-hyphae morphogenesis in Ophiostomataceae. Fungal Biology, 130(1), 101665. [https://doi.org/10.1016/j.funbio.2025.101665](https://doi.org/10.1016/j.funbio.2025.101665){:target="_blank"}<br>
 
 ## 2025
