@@ -6,7 +6,7 @@
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
-url: "https://ythuangmyco.github.io/"
+url: "https://ythuangmyco.github.io"
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 #url: "https://ythuangmyco.com"
@@ -133,7 +133,7 @@ footer-img: "/assets/img/ep_naturalwhite.png"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-170793292-1"
+# google_analytics: "UA-170793292-1"  # Deprecated Universal Analytics - using GA4 below instead
 
 analytics:
   provider               : "google-gtag"
@@ -200,7 +200,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Taiwan"
+timezone: "Asia/Taipei"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -243,7 +243,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-multiple-languages-plugin
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
