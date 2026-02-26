@@ -6,7 +6,7 @@ permalink: "join_us"
 
 ---
 {:refdef: style="text-align: center;"}
-![](assets/img/Mycena.jpg)
+![](/assets/img/Mycena.jpg)
 {: refdef}
 
 The Huang lab is always looking for motivated undergraduate students, graduate students, and postdocs to join the lab. Please e-mail [ythuangmyco@gmail.com](mailto:ythuangmyco@gmail.com){:target="_blank"} or [ythuangmyco@gs.ncku.edu.tw](mailto:ythuangmyco@gs.ncku.edu.tw){:target="_blank"} if you are interested in joining us.

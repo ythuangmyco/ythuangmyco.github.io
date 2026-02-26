@@ -14,7 +14,7 @@ mylist:
     github: 
     url: /pages/people/ythuang.md
     website: 
-    img: /assets/img/people/MeintheField_220px.png
+    img: /assets/img/people/MeintheField_300.jpg
 
 #permalink: "member"
 ---
