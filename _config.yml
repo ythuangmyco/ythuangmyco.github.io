@@ -33,7 +33,6 @@ navbar-links:
   Protocol: "protocol"
   Publication: "publication"
   LIMS: "https://lims.huangmegalab.com"
-  Specify: "https://specify.huangmegalab.com"
 #  真菌公民科學調查: 
 #    - 結果輸入＆即時觀看: "TFDCSHome"
 #    - 如何加入調查: "TFDCSJoin" 
