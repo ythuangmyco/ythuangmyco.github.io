@@ -5,6 +5,8 @@ permalink: "publication"
 ---
 ## 2026
 <hr>
+Lin, S.-Y.; Tseng, Y.-T. ; Abdrabo, K. A. E.-S. ; Wu, H.-M. ; Sun, P.-L.; Lao, C. K.; Lai, C.-C.; Wu, C.-J. ; Sukphopetch, P. ; Chen, S.; **Huang, Y.-T.#** (2026). Antifungal Susceptibility Profiles of Clinical and Environmental Scedosporium and Lomentospora Isolates from Taiwan: Focus on Olorofim Activity and Phylogenetic Heterogeneity. Journal of Antimicrobial Chemotherapy. [https://doi.org/10.1093/jac/dkag236](https://doi.org/10.1093/jac/dkag236){:target="_blank"}<br>
+
 Lo, P.-H., El-Sayid Abdrabo, K. A., Nai, Y.-S., Lu, H.-L., & **Huang, Y.-T.#** (2026). Entomopathogenic activity of Purpureocillium takamizusanense against diverse agricultural pests. Scientific Reports, 1–11. [https://doi.org/10.1038/s41598-026-56870-2](https://doi.org/10.1038/s41598-026-56870-2){:target="_blank"}<br>
 
 Abdrabo, K. A. E.-S., Wu, Y.-T., & **Huang, Y.-T.#** (2026). Metabolic and elemental stoichiometric analyses in ambrosia fungi reveal lineage‐specific strategies in symbiotic associations. Environmental Microbiology, 28(5), e70323. [https://doi.org/10.1111/1462-2920.70323](https://doi.org/10.1111/1462-2920.70323){:target="_blank"}<br>
