@@ -3,7 +3,7 @@ layout: page
 title: 菌蠹蟲
 subtitle: Ambrosia beetle
 permalink: "ambrosiabeetle"
-#published: false
+published: false
 ---
 ![](assets/img/Research/amb_beetle_phy_hulcr.png)
 *Cartoonish phylogeny of ambrosia beetles (Hulcr and Stelinski 2017)*
