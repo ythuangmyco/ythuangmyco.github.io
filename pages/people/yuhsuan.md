@@ -5,7 +5,7 @@ subtitle: 大專研究生
 permalink: "yuhsuan"
 ---
 {:refdef: style="text-align: center;"}
-![](assets/img/people/yuhsuan_500.png)
+![](assets/img/people/yuhsuan_500.jpg)
 {: refdef}
 我是范羽萱！我喜歡吃果凍(ฅ´ω`ฅ)<br>
 目前正進行臺灣土壤嗜角質真菌的研究<br>
