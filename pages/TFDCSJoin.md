@@ -3,7 +3,7 @@ layout: page_TFDCS
 title: 台灣真菌多樣性
 subtitle: 公民科學調查
 permalink: "TFDCSJoin"
-#published: false
+published: false
 ---
 <h3 style="text-align: center;"> 了解真菌多樣性對人類社會、經濟、生態永續至關重要，我們需要你的協助來加速整體物種調查</h3>
 <h3 style="text-align: center;"> 只要三個簡單的步驟來加入我們的調查</h3>

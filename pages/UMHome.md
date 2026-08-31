@@ -3,7 +3,7 @@ layout: page_TFDCS
 title: 城市微生物相
 subtitle: 公民科學調查
 permalink: "UMHome"
-#published: false
+published: false
 ---
 <h2 style="text-align: center;">將你的觀察紀錄放到地圖上</h2>
 <hr>  

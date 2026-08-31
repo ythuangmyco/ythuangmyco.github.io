@@ -14,7 +14,7 @@ published: FALSE
 ---
 100 million years ago, a group of bark beetles started to farm their fungal symbionts and formed a tight relationship with the fungal crops. Such lifeform between bark beetles and their fungi is termed ambrosia symbiosis, and therefore “ambrosia" beetles and “ambrosia" fungi for these critters involved.<br>
 
-![](/assets/img/Research/AmbFungi among BarkBeetleFungi_pic2.png)<br>
+![](/assets/img/Research/AmbFungi_among_BarkBeetleFungi_pic2.png)<br>
 *Diverse origins and enlarged ambrosia cells of ambrosia fungi.* <br>
 
 The ambrosia lifeform is currently the earliest known agriculture in insects, and perhaps in animals. The farmer beetles are fully reliant on the farmed fungi for food sources, in return, the beetles are the only vehicle for the fungi, which, otherwise, be left in the doomed environment. Therefore, ambrosia beetles and ambrosia fungi are in mutualistic, obligate relationships.<br>
