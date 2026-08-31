@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Guan Jie Phang
-subtitle: Erotylidae systematist
+subtitle: "Alumni · 研究助理 Research assistant · Erotylidae systematist"
 permalink: "cypher"
 ---
 {:refdef: style="text-align: center;"}

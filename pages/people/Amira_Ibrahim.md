@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Amira Ibrahim
-subtitle: 
+subtitle: "博士班 PhD student"
 permalink: "amira"
 ---
 {:refdef: style="text-align: center;"}

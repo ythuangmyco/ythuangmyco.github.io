@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yu-Ja Li
-subtitle: 大專研究生
+subtitle: "Alumni · 大專研究生 Undergraduate researcher"
 permalink: "yuja"
 ---
 {:refdef: style="text-align: center;"}

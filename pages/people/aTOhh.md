@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 洪子純
-subtitle: 研究助理
+subtitle: "Alumni · 研究助理 Research assistant"
 permalink: "洪子純"
 ---
 {:refdef: style="text-align: center;"}
