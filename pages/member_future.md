@@ -17,13 +17,6 @@ permalink: "member_future"
   <h3>博士後研究員 Postdoc Researcher</h3>
     <hr/>
   <div class="row">
-    <div class="col no-gutters col-sm col-md">
-      <div class="hovereffect">
-        <a class="info" href="khaled"><img class="img-responsive" src="/assets/img/people/KHA_2026_circular_200.png" alt=""></a>
-      </div><br>
-      <h4>博士後</h4>
-      <a href="khaled">Khaled Abdrabo</a><br>
-    </div>    
   </div><br>
   <h3>博士班 PhD</h3>
     <hr/>
@@ -50,9 +43,27 @@ permalink: "member_future"
     <hr/>
   <div class="row">
     </div><br>
+  <h3>訪問學生 Visiting students</h3>
+    <hr/>
+  <div class="row">
+    <div class="col no-gutters col-sm col-md">
+      <div class="hovereffect">
+        <a class="info" href="mazen"><img class="img-responsive" src="/assets/img/people/mazen_circular_200.png" alt=""></a>
+      </div><br>
+      <h4>訪問學生</h4>
+      <a href="mazen">Mazen Refae</a><br>
+    </div>
+  </div><br>
     <h3>Alumni</h3>
     <hr/>
   <div class="row">
+    <div class="col no-gutters col-sm col-md">
+      <div class="hovereffect">
+        <a class="info" href="khaled"><img class="img-responsive" src="/assets/img/people/KHA_2026_circular_200.png" alt=""></a>
+      </div><br>
+      <h4>博士後 Postdoc, 2025–2026</h4>
+      <a href="khaled">Khaled Abdrabo</a><br>
+    </div>
     <div class="col no-gutters col-sm col-md">
       <div class="hovereffect">
         <a class="info" href="cypher"><img class="img-responsive" src="/assets/img/people/guanjie_200.png" alt=""></a>
