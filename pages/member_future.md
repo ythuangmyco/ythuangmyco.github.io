@@ -3,130 +3,41 @@ layout: page
 title: Members
 subtitle:
 permalink: "member_future"
---- 
+---
+{% comment %} Generated from _data/members.yml — add/move people there, not here. Max 3 cards per row. {% endcomment %}
 <div class="container-fluid">
+{% for sec in site.data.members.sections %}
+  {% assign ms = site.data.members.members | where: "section", sec.id %}
+  <h3>{{ sec.title }}</h3>
+  <hr/>
+  {% for m in ms %}
+    {% assign i = forloop.index0 | modulo: 3 %}
+    {% if i == 0 %}<div class="row">{% endif %}
+    <div class="col no-gutters col-sm col-md">
+      <div class="hovereffect">
+        <a class="info" href="{{ m.page }}"><img class="img-responsive" src="/assets/img/people/{{ m.img }}" alt="{{ m.name }}"></a>
+      </div><br>
+      <h4>{{ m.role }}{% if m.years %}, {{ m.years }}{% endif %}</h4>
+      <a href="{{ m.page }}">{{ m.name }}</a><br>
+    </div>
+    {% if forloop.last %}
+      {% if i == 0 %}<div class="col no-gutters col-sm col-md"></div><div class="col no-gutters col-sm col-md"></div>{% elsif i == 1 %}<div class="col no-gutters col-sm col-md"></div>{% endif %}
+    {% endif %}
+    {% if i == 2 or forloop.last %}</div>{% endif %}
+  {% endfor %}
+  <br>
+{% endfor %}
+  <hr/>
+  <br>
   <div class="row">
     <div class="col no-gutters col-sm col-md">
       <div class="hovereffect">
-        <a class="info" href="ythuang"><img class="img-responsive" src="/assets/img/people/me2026_circle_200.png" alt=""></a>
-      </div><br>
-      <h4>主持人 Principal investigator</h4>
-      <a href="ythuang">黃尹則 Yin-Tse Huang</a><br>
-    </div>
-  </div><br>
-  <h3>博士後研究員 Postdoc Researcher</h3>
-    <hr/>
-  <div class="row">
-  </div><br>
-  <h3>博士班 PhD</h3>
-    <hr/>
-  <div class="row">
-    <div class="col no-gutters col-sm col-md">
-      <div class="hovereffect">
-        <a class="info" href="silmi"><img class="img-responsive" src="/assets/img/people/silmi_circular_200.png" alt=""></a>
-      </div><br>
-      <h4>博士班</h4>
-      <a href="silmi">Silmi Yusri Rahmadani</a><br>
-    </div>
-    <div class="col no-gutters col-sm col-md">
-      <div class="hovereffect">
-        <a class="info" href="amira"><img class="img-responsive" src="/assets/img/people/AMI_circular_200.png" alt=""></a>
-      </div><br>
-      <h4>博士班</h4>
-      <a href="amira">Amira Ibrahim</a><br>
-    </div>
-  </div><br>
-  <h3>碩士班 Master</h3>
-    <hr/>
-    <br>
-  <h3>學士班 Undergraduate</h3>
-    <hr/>
-  <div class="row">
-    </div><br>
-  <h3>訪問學生 Visiting students</h3>
-    <hr/>
-  <div class="row">
-    <div class="col no-gutters col-sm col-md">
-      <div class="hovereffect">
-        <a class="info" href="mazen"><img class="img-responsive" src="/assets/img/people/mazen_circular_200.png" alt=""></a>
-      </div><br>
-      <h4>訪問學生</h4>
-      <a href="mazen">Mazen Refae</a><br>
-    </div>
-  </div><br>
-    <h3>Alumni</h3>
-    <hr/>
-  <div class="row">
-    <div class="col no-gutters col-sm col-md">
-      <div class="hovereffect">
-        <a class="info" href="khaled"><img class="img-responsive" src="/assets/img/people/KHA_2026_circular_200.png" alt=""></a>
-      </div><br>
-      <h4>博士後 Postdoc, 2025–2026</h4>
-      <a href="khaled">Khaled Abdrabo</a><br>
-    </div>
-    <div class="col no-gutters col-sm col-md">
-      <div class="hovereffect">
-        <a class="info" href="cypher"><img class="img-responsive" src="/assets/img/people/guanjie_200.png" alt=""></a>
-      </div><br>
-      <h4>研究助理</h4>
-      <a href="cypher">彭冠傑</a><br>
-    </div>
-    <div class="col no-gutters col-sm col-md">
-      <div class="hovereffect">
-        <a class="info" href="吳昕懋"><img class="img-responsive" src="/assets/img/people/吳昕懋_200.PNG" alt=""></a>
-      </div><br>
-      <h4>大專研究生</h4>
-      <a href="吳昕懋">吳昕懋</a><br>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col no-gutters col-sm col-md">
-      <div class="hovereffect">
-        <a class="info" href="yuhsuan"><img class="img-responsive" src="/assets/img/people/yuhsuan_200.png" alt=""></a>
-      </div><br>
-      <h4>大專研究生</h4>
-      <a href="yuhsuan">范羽萱</a><br>
-    </div>
-    <div class="col no-gutters col-sm col-md">
-      <div class="hovereffect">
-        <a class="info" href="yuja"><img class="img-responsive" src="/assets/img/people/yuja_200.png" alt=""></a>
-      </div><br>
-      <h4>大專研究生</h4>
-      <a href="yuja">李昱稼</a><br>
-    </div>
-    <div class="col no-gutters col-sm col-md">
-      <div class="hovereffect">
-        <a class="info" href="董蘊庭"><img class="img-responsive" src="/assets/img/people/董蘊庭_circle.png" alt=""></a>
-      </div><br>
-      <h4>大專研究生</h4>
-      <a href="董蘊庭">董蘊庭</a><br>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col no-gutters col-sm col-md">
-      <div class="hovereffect">
-        <a class="info" href="曾雯渟"><img class="img-responsive" src="/assets/img/people/曾雯渟_circle.png" alt=""></a>
-      </div><br>
-      <h4>大專研究生</h4>
-      <a href="曾雯渟">曾雯渟</a><br>
-    </div>
-    <div class="col no-gutters col-sm col-md">
-    </div>
-    <div class="col no-gutters col-sm col-md">
-    </div>
-  </div>
-    </div><br>
-  <div class="row">
-    <hr/>
-    <br>
-    <br>
-    <div class="col no-gutters col-sm col-md">
-      <div class="hovereffect">
-        <a class="info" href="join_us"><img class="img-responsive" src="/assets/img/people/joinus_circle_200.png" alt=""></a>
+        <a class="info" href="join_us"><img class="img-responsive" src="/assets/img/people/joinus_circle_200.png" alt="Join us"></a>
       </div><br>
       <h4> </h4>
       <a href="join_us"> </a><br>
     </div>
-    <div class="col no-gutters col-sm col-md">
-    </div>
+    <div class="col no-gutters col-sm col-md"></div>
+    <div class="col no-gutters col-sm col-md"></div>
   </div>
+</div>

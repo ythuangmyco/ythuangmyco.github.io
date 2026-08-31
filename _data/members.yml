@@ -1,0 +1,86 @@
+# Members page (/member_future) is generated from this file.
+# sections: order of headings. members: one entry each; `section` must match a section id.
+# img = 200x200 circular PNG in assets/img/people/; page = permalink of pages/people/<x>.md
+# role = label under the photo (中文 English). years = tenure shown for alumni.
+sections:
+  - id: pi
+    title: 主持人 Principal Investigator
+  - id: postdoc
+    title: 博士後研究員 Postdoc Researchers
+  - id: phd
+    title: 博士班 PhD Students
+  - id: master
+    title: 碩士班 Master Students
+  - id: undergrad
+    title: 學士班 Undergraduate Students
+  - id: visiting
+    title: 訪問學生 Visiting Students
+  - id: alumni
+    title: Alumni
+
+members:
+  - name: 黃尹則 Yin-Tse Huang
+    role: 主持人 Principal Investigator
+    section: pi
+    img: me2026_circle_200.png
+    page: ythuang
+
+  - name: Silmi Yusri Rahmadani
+    role: 博士班 PhD student
+    section: phd
+    img: silmi_circular_200.png
+    page: silmi
+  - name: Amira Ibrahim
+    role: 博士班 PhD student
+    section: phd
+    img: AMI_circular_200.png
+    page: amira
+
+  - name: Mazen Refae
+    role: 訪問學生 Visiting student
+    section: visiting
+    img: mazen_circular_200.png
+    page: mazen
+
+  # ---- Alumni (newest departure first) ----
+  - name: Khaled Abdrabo
+    role: 博士後 Postdoc
+    years: 2025–2026
+    section: alumni
+    img: KHA_2026_circular_200.png
+    page: khaled
+  - name: 彭冠傑 Guan Jie Phang
+    role: 研究助理 Research assistant
+    section: alumni
+    img: guanjie_200.png
+    page: cypher
+  - name: 洪子純
+    role: 研究助理 Research assistant
+    section: alumni
+    img: 洪子純_200.PNG
+    page: 洪子純
+  - name: 吳昕懋
+    role: 大專研究生 Undergraduate researcher
+    section: alumni
+    img: 吳昕懋_200.PNG
+    page: 吳昕懋
+  - name: 范羽萱 Yu-Hsuan Fan
+    role: 大專研究生 Undergraduate researcher
+    section: alumni
+    img: yuhsuan_200.png
+    page: yuhsuan
+  - name: 李昱稼 Yu-Ja Li
+    role: 大專研究生 Undergraduate researcher
+    section: alumni
+    img: yuja_200.png
+    page: yuja
+  - name: 董蘊庭
+    role: 大專研究生 Undergraduate researcher
+    section: alumni
+    img: 董蘊庭_circle.png
+    page: 董蘊庭
+  - name: 曾雯渟
+    role: 大專研究生 Undergraduate researcher
+    section: alumni
+    img: 曾雯渟_circle.png
+    page: 曾雯渟
