@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Khaled Abdrabo
-subtitle: 
+subtitle: "Alumni · 博士後 Postdoc (2025–2026)"
 permalink: "khaled"
 ---
 {:refdef: style="text-align: center;"}
