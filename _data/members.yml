@@ -41,6 +41,16 @@ members:
     section: visiting
     img: mazen_circular_200.png
     page: mazen
+  - name: Thitaree Doungdun
+    role: 訪問學生 Visiting student
+    section: visiting
+    img: thitaree_circular_200.png
+    page: thitaree
+  - name: Sahapan Vichathai
+    role: 訪問學生 Visiting student
+    section: visiting
+    img: sahapan_circular_200.png
+    page: sahapan
 
   # ---- Alumni (newest departure first) ----
   - name: Khaled Abdrabo
