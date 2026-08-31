@@ -4,7 +4,10 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
+{% comment %} News feed only: research project posts live on /research {% endcomment %}
+{% assign posts = site.posts | where_exp: "p", "p.categories.size == 0" %}
+<h2>News</h2>
+<hr/>
 
 <div class="posts-list">
   {% for post in posts %}
@@ -58,18 +61,3 @@ layout: page
    </article>
   {% endfor %}
 </div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
