@@ -20,7 +20,7 @@ url: "https://ythuangmyco.github.io"
 title: Huang MEGA Lab
 
 # Short description of your site
-description: Yin-Tse's research site
+description: Huang MEGA Lab (Yin-Tse Huang, NCKU) — Microbial Ecology, Genomics, and Applications. Fungal ecology, antifungal resistance, beetle–fungus symbiosis, nanopore genomics.
 
 # Your name to show in the footer
 author: 黃尹則 Yin-Tse Huang
@@ -196,7 +196,7 @@ timezone: "Asia/Taipei"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 8
+# paginate: 8   # home shows the full news list; pagination disabled
 #paginate_path: "page:num/"
 
 kramdown:
