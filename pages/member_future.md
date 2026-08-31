@@ -74,23 +74,23 @@ permalink: "member_future"
     <div class="col no-gutters col-sm col-md">
       <div class="hovereffect">
         <a class="info" href="吳昕懋"><img class="img-responsive" src="/assets/img/people/吳昕懋_200.PNG" alt=""></a>
-        </div><br>
+      </div><br>
       <h4>大專研究生</h4>
       <a href="吳昕懋">吳昕懋</a><br>
-    </div>
-   <div class="col no-gutters col-sm col-md">
-      <div class="hovereffect">
-        <a class="info" href="yuhsuan"><img class="img-responsive" src="/assets/img/people/yuhsuan_200.png" alt=""></a>
-        </div><br>
-      <h4>大專研究生</h4>
-      <a href="yuhsuan">范羽萱</a><br>
     </div>
   </div>
   <div class="row">
     <div class="col no-gutters col-sm col-md">
       <div class="hovereffect">
+        <a class="info" href="yuhsuan"><img class="img-responsive" src="/assets/img/people/yuhsuan_200.png" alt=""></a>
+      </div><br>
+      <h4>大專研究生</h4>
+      <a href="yuhsuan">范羽萱</a><br>
+    </div>
+    <div class="col no-gutters col-sm col-md">
+      <div class="hovereffect">
         <a class="info" href="yuja"><img class="img-responsive" src="/assets/img/people/yuja_200.png" alt=""></a>
-        </div><br>
+      </div><br>
       <h4>大專研究生</h4>
       <a href="yuja">李昱稼</a><br>
     </div>
@@ -101,14 +101,20 @@ permalink: "member_future"
       <h4>大專研究生</h4>
       <a href="董蘊庭">董蘊庭</a><br>
     </div>
+  </div>
+  <div class="row">
     <div class="col no-gutters col-sm col-md">
       <div class="hovereffect">
         <a class="info" href="曾雯渟"><img class="img-responsive" src="/assets/img/people/曾雯渟_circle.png" alt=""></a>
       </div><br>
       <h4>大專研究生</h4>
-        <a href="曾雯渟">曾雯渟</a><br>
-      </div>
+      <a href="曾雯渟">曾雯渟</a><br>
     </div>
+    <div class="col no-gutters col-sm col-md">
+    </div>
+    <div class="col no-gutters col-sm col-md">
+    </div>
+  </div>
     </div><br>
   <div class="row">
     <hr/>
