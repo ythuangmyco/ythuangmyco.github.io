@@ -36,6 +36,12 @@ members:
     img: AMI_circular_200.png
     page: amira
 
+  - name: 林昱晴 Yu Qing Lin
+    role: 碩士班 Master student
+    section: master
+    img: yuqing_circular_200.png
+    page: yuqing
+
   - name: Mazen Refae
     role: 訪問學生 Visiting student
     section: visiting
