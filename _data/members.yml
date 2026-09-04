@@ -25,6 +25,12 @@ members:
     img: me2026_circle_200.png
     page: ythuang
 
+  - name: Vanshika Nimker
+    role: 博士後 Postdoc
+    section: postdoc
+    img: mushroom_placeholder_200.png
+    # page: (add when profile arrives)
+
   - name: Silmi Yusri Rahmadani
     role: 博士班 PhD student
     section: phd
@@ -36,11 +42,25 @@ members:
     img: AMI_circular_200.png
     page: amira
 
+  - name: Aditi Tayade
+    role: 博士班 PhD student
+    section: phd
+    img: mushroom_placeholder_200.png
+
   - name: 林昱晴 Yu Qing Lin
     role: 碩士班 Master student
     section: master
     img: yuqing_circular_200.png
     page: yuqing
+
+  - name: Felicia Wijaya
+    role: 碩士班 Master student
+    section: master
+    img: mushroom_placeholder_200.png
+  - name: 蔣依臻
+    role: 碩士班 Master student
+    section: master
+    img: mushroom_placeholder_200.png
 
   - name: Mazen Refae
     role: 訪問學生 Visiting student

@@ -15,10 +15,10 @@ permalink: "member_future"
     {% if i == 0 %}<div class="row">{% endif %}
     <div class="col no-gutters col-sm col-md">
       <div class="hovereffect">
-        <a class="info" href="{{ m.page }}"><img class="img-responsive" src="/assets/img/people/{{ m.img }}" alt="{{ m.name }}"></a>
+        {% if m.page %}<a class="info" href="{{ m.page }}"><img class="img-responsive" src="/assets/img/people/{{ m.img }}" alt="{{ m.name }}"></a>{% else %}<img class="img-responsive" src="/assets/img/people/{{ m.img }}" alt="{{ m.name }}">{% endif %}
       </div><br>
       <h4>{{ m.role }}{% if m.years %}, {{ m.years }}{% endif %}</h4>
-      <a href="{{ m.page }}">{{ m.name }}</a><br>
+      {% if m.page %}<a href="{{ m.page }}">{{ m.name }}</a>{% else %}{{ m.name }}{% endif %}<br>
     </div>
     {% if forloop.last %}
       {% if i == 0 %}<div class="col no-gutters col-sm col-md"></div><div class="col no-gutters col-sm col-md"></div>{% elsif i == 1 %}<div class="col no-gutters col-sm col-md"></div>{% endif %}
