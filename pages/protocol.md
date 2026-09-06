@@ -23,5 +23,5 @@ permalink: "protocol"
 
 ## Nanopore procedures
 1. [Library construction (R10 NB barcode)](https://protocols.io/view/nanopore-library-preparation-for-r10-native-barcod-ejg7bcjzp.html){:target="_blank"}<br>
-2. [KAPA EvoPrep NBD114.24 WGS library prep, half-volume (0.5×) v2 (PDF)](/assets/protocols/KAPA_EvoPrep_NBD114.24_WGS_0.5X_v2.pdf){:target="_blank"}<br>
+2. [KAPA EvoPrep NBD114.24 WGS library prep v2 (PDF)](/assets/protocols/KAPA_EvoPrep_NBD114.24_WGS_0.5X_v2.pdf){:target="_blank"}<br>
 3. Sequencing
