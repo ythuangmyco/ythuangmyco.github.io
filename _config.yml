@@ -196,7 +196,8 @@ timezone: "Asia/Taipei"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-# paginate: 8   # home shows the full news list; pagination disabled
+# paginate: 8   # jekyll-paginate disabled: it cannot exclude research_posts; News is paged client-side (see _layouts/home.html)
+news_per_page: 10
 #paginate_path: "page:num/"
 
 kramdown:
