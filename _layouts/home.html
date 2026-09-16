@@ -6,12 +6,14 @@ layout: page
 
 {% comment %} News feed only: research project posts live on /research {% endcomment %}
 {% assign posts = site.posts | where_exp: "p", "p.categories.size == 0" %}
+{% assign news_per_page = site.news_per_page | default: 10 %}
 <h2>News</h2>
 <hr/>
 
-<div class="posts-list">
+<div class="posts-list" id="news-list" data-per-page="{{ news_per_page }}">
   {% for post in posts %}
-  <article class="post-preview">
+  {% assign news_page = forloop.index0 | divided_by: news_per_page | plus: 1 %}
+  <article class="post-preview" data-page="{{ news_page }}">
     <a href="{{ post.url | relative_url }}">
       <h2 class="post-title">{{ post.title }}</h2>
 
@@ -61,3 +63,55 @@ layout: page
    </article>
   {% endfor %}
 </div>
+
+<ul class="pagination main-pager" id="news-pager" hidden>
+  <li class="page-item previous" id="news-prev"><a class="page-link" href="#">&larr; Newer Posts</a></li>
+  <li class="page-item next" id="news-next"><a class="page-link" href="#">Older Posts &rarr;</a></li>
+</ul>
+
+<script>
+(function () {
+  var list = document.getElementById('news-list');
+  if (!list) return;
+  var perPage = parseInt(list.getAttribute('data-per-page'), 10) || 10;
+  var items = Array.prototype.slice.call(list.querySelectorAll('.post-preview'));
+  var total = Math.max(1, Math.ceil(items.length / perPage));
+  var pager = document.getElementById('news-pager');
+  var prev = document.getElementById('news-prev');
+  var next = document.getElementById('news-next');
+
+  function pageFromUrl() {
+    var m = /[?&]page=(\d+)/.exec(window.location.search);
+    var n = m ? parseInt(m[1], 10) : 1;
+    return Math.min(Math.max(n, 1), total);
+  }
+
+  function show(n, push) {
+    items.forEach(function (el) {
+      el.hidden = parseInt(el.getAttribute('data-page'), 10) !== n;
+    });
+    pager.hidden = total <= 1;
+    prev.hidden = n <= 1;
+    next.hidden = n >= total;
+    prev.querySelector('a').href = '?page=' + (n - 1);
+    next.querySelector('a').href = '?page=' + (n + 1);
+    if (push) {
+      var url = n === 1 ? window.location.pathname : window.location.pathname + '?page=' + n;
+      history.pushState({ page: n }, '', url);
+      list.scrollIntoView({ block: 'start' });
+    }
+  }
+
+  function onClick(delta) {
+    return function (e) {
+      e.preventDefault();
+      show(pageFromUrl() + delta, true);
+    };
+  }
+  prev.querySelector('a').addEventListener('click', onClick(-1));
+  next.querySelector('a').addEventListener('click', onClick(1));
+  window.addEventListener('popstate', function () { show(pageFromUrl(), false); });
+
+  show(pageFromUrl(), false);
+})();
+</script>
