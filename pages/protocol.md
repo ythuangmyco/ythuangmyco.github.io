@@ -22,5 +22,7 @@ permalink: "protocol"
 5. [Purification (Size selection, 1X ratio)](/assets/protocols/Size_selection_purification_1X_j9f6cr3rf.pdf){:target="_blank"}<br>
 
 ## Nanopore procedures
-1. [Library construction (R10 NB barcode)](/assets/protocols/KAPA_EvoPrep_NBD114.24_WGS_0.5X_v2.pdf){:target="_blank"}<br>
-2. Sequencing
+1. [Library construction (R10 NB barcode)](/assets/protocols/KAPA_EvoPrep_NBD114.96_WGS_0.5X_v2.pdf){:target="_blank"}<br>
+2. [Library construction (R10 PCR barcode)](/assets/protocols/KAPA_HyperPrep_LSK114_PCR-barcoded_0.5X.pdf){:target="_blank"}<br>
+3. Sequencing
+4. [Flow cell wash (PromethION)](/assets/protocols/Flow_Cell_Wash_Kit_EXP-WSH004_PromethION.pdf){:target="_blank"}<br>
