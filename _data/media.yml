@@ -1,0 +1,10 @@
+# One entry per media appearance, newest first. `year` groups entries into headings on /media.
+# `youtube` is the video ID; `start`/`end` (seconds) clip the embed to the lab's segment; `clip` is the human-readable range.
+- year: '2026'
+  date: '2026-09-20'
+  outlet: 華視新聞 CTS News｜新聞高峰會
+  title: 馬太鞍溪堰塞湖潰堤一週年｜光復鄉的這一年
+  youtube: nf4D9ySnVlY
+  start: 2599
+  end: 2742
+  clip: '43:19–45:42'
