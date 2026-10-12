@@ -63,11 +63,6 @@ members:
     section: master
     img: mushroom_placeholder_200.png
 
-  - name: Mazen Refae
-    role: 訪問學生 Visiting student
-    section: visiting
-    img: mazen_circular_200.png
-    page: mazen
   - name: Thitaree Doungdun
     role: 訪問學生 Visiting student
     section: visiting
@@ -80,6 +75,12 @@ members:
     page: sahapan
 
   # ---- Alumni (newest departure first) ----
+  - name: Mazen Refae
+    role: 訪問學生 Visiting student
+    years: 2026
+    section: alumni
+    img: mazen_circular_200.png
+    page: mazen
   - name: Khaled Abdrabo
     role: 博士後 Postdoc
     years: 2025–2026
