@@ -18,8 +18,9 @@ permalink: "protocol"
 3. [2-step PCR w. barcoded-head primer pairs](/assets/protocols/Two_step_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
 3b. [One-pot PCR w. barcoded-head primers](/assets/protocols/One_pot_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
 4. [Purification (Size selection, 1X ratio)](/assets/protocols/Size_selection_purification_1X.pdf){:target="_blank"}<br>
-5. [Workflow overview: two-step PCR amplicon library (QR links + LIMS stages)](/assets/protocols/Workflow_amplicon_library_two_step.pdf){:target="_blank"}<br>
-6. [Workflow overview: one-pot PCR amplicon library (QR links + LIMS stages)](/assets/protocols/Workflow_amplicon_library_one_pot.pdf){:target="_blank"}<br>
+5. [Workflow overview: amplicon library, two-step **or** one-pot PCR on one chart (QR links + LIMS stages)](/assets/protocols/Workflow_amplicon_library_merged.pdf){:target="_blank"}<br>
+5a. [Workflow overview: two-step PCR only](/assets/protocols/Workflow_amplicon_library_two_step.pdf){:target="_blank"}<br>
+5b. [Workflow overview: one-pot PCR only](/assets/protocols/Workflow_amplicon_library_one_pot.pdf){:target="_blank"}<br>
 
 ## Nanopore procedures
 1. [Library construction (R10 NB barcode) (EvoPrep)](/assets/protocols/KAPA_EvoPrep_NBD114.96_WGS_0.5X_v2.pdf){:target="_blank"}<br>
