@@ -16,6 +16,7 @@ permalink: "protocol"
 1. [DNA extraction v9.0 (modified BOMB)](/assets/protocols/DNA_extraction_v9_modified_BOMB.pdf){:target="_blank"}<br>
 2. [Soil DNA extraction (SuperSoil)](/assets/protocols/Soil_DNA_extraction_SuperSoil.pdf){:target="_blank"}<br>
 3. [2-step PCR w. barcoded-head primer pairs](/assets/protocols/Two_step_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
+3b. [One-pot PCR w. barcoded-head primers (draft v0.1, to be validated)](/assets/protocols/One_pot_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
 4. [Purification (Size selection, 1X ratio)](/assets/protocols/Size_selection_purification_1X.pdf){:target="_blank"}<br>
 5. [Workflow overview: two-step PCR amplicon library (QR links + LIMS stages)](/assets/protocols/Workflow_amplicon_library_two_step.pdf){:target="_blank"}<br>
 6. [Workflow overview: one-pot PCR amplicon library (QR links + LIMS stages)](/assets/protocols/Workflow_amplicon_library_one_pot.pdf){:target="_blank"}<br>
