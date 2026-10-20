@@ -13,10 +13,12 @@ permalink: "protocol"
 2. [Beetle rearing media](https://www.protocols.io/view/beetle-rearing-media-cbhbsj2n.html){:target="_blank"}<br>
 
 ## Molecular methods
-1. [DNA extraction](https://www.protocols.io/view/dna-extraction-v9-0-modified-bomb-czxsx7ne){:target="_blank"}<br>
-2. [Soil DNA extraction](https://www.protocols.io/view/soil-sample-dna-extraction-supersoil-rm7vzbzj2vx1/v1){:target="_blank"}<br>
-3. [PCR w. barcoded primer pairs](https://www.protocols.io/view/2-step-pcr-mixture-and-conditions-barcoded-head-pr-g88jbzzup){:target="_blank"}<br>
-4. [Purification (Size selection, 1X ratio)](/assets/protocols/Size_selection_purification_1X_j9f6cr3rf.pdf){:target="_blank"}<br>
+1. [DNA extraction v9.0 (modified BOMB)](/assets/protocols/DNA_extraction_v9_modified_BOMB.pdf){:target="_blank"}<br>
+2. [Soil DNA extraction (SuperSoil)](/assets/protocols/Soil_DNA_extraction_SuperSoil.pdf){:target="_blank"}<br>
+3. [2-step PCR w. barcoded-head primer pairs](/assets/protocols/Two_step_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
+4. [Purification (Size selection, 1X ratio)](/assets/protocols/Size_selection_purification_1X.pdf){:target="_blank"}<br>
+5. [Workflow overview: two-step PCR amplicon library (QR links + LIMS stages)](/assets/protocols/Workflow_amplicon_library_two_step.pdf){:target="_blank"}<br>
+6. [Workflow overview: one-pot PCR amplicon library (QR links + LIMS stages)](/assets/protocols/Workflow_amplicon_library_one_pot.pdf){:target="_blank"}<br>
 
 ## Nanopore procedures
 1. [Library construction (R10 NB barcode) (EvoPrep)](/assets/protocols/KAPA_EvoPrep_NBD114.96_WGS_0.5X_v2.pdf){:target="_blank"}<br>
