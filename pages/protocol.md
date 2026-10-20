@@ -4,12 +4,12 @@ title: Lab protocols
 permalink: "protocol"
 ---
 ## Sample recording process
-1. [Microbes isolation from environmental samples](https://www.protocols.io/view/step-by-step-from-environmental-samples-to-preserv-n2bvj8mk5gk5/v1){:target="_blank"}<br>
+1. [Microbes isolation from environmental samples (to preservation vials)](/assets/protocols/Microbe_isolation_environmental_samples.pdf){:target="_blank"}<br>
 2. Environmental ([Soil](https://protocols.io/view/soil-sample-citizen-scientists-chinese-ccedsta6.html){:target="_blank"}, water)
 3. [RNAlater](https://www.protocols.io/view/rnalater-recipe-bp2l61w35vqe/v1){:target="_blank"}<br>
 
 ## Culture media
-1. [Fungal culture media](https://protocols.io/view/mycology-media-b9eir3ce.html){:target="_blank"}<br>
+1. [Fungal culture media](/assets/protocols/Fungal_culture_media.pdf){:target="_blank"}<br>
 2. [Beetle rearing media](https://www.protocols.io/view/beetle-rearing-media-cbhbsj2n.html){:target="_blank"}<br>
 
 ## Molecular methods
@@ -18,7 +18,7 @@ permalink: "protocol"
 3. [2-step PCR w. barcoded-head primer pairs](/assets/protocols/Two_step_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
 3b. [One-pot PCR w. barcoded-head primers](/assets/protocols/One_pot_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
 4. [Purification (Size selection, 1X ratio)](/assets/protocols/Size_selection_purification_1X.pdf){:target="_blank"}<br>
-5. [Amplicon library workflow chart: two-step or one-pot PCR, QR links to each protocol, LIMS stages](/assets/protocols/Workflow_amplicon_library.pdf){:target="_blank"}<br>
+5. [Lab sequencing workflow chart: culturing → extraction → amplicon (two-step / one-pot PCR) or genome → Nanopore; QR links to every protocol; LIMS stages 1–4a](/assets/protocols/Workflow_amplicon_library.pdf){:target="_blank"}<br>
 
 ## Nanopore procedures
 1. [Library construction (R10 NB barcode) (EvoPrep)](/assets/protocols/KAPA_EvoPrep_NBD114.96_WGS_0.5X_v2.pdf){:target="_blank"}<br>
