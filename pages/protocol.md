@@ -23,7 +23,7 @@ full-width: true
 3. [Soil DNA extraction — semi-automated (SuperSoil, Zixpress 32)](/assets/protocols/Soil_DNA_extraction_SuperSoil_Zixpress32.pdf){:target="_blank"}<br>
 4. [Soil DNA extraction — manual (SuperSoil, legacy)](/assets/protocols/Soil_DNA_extraction_SuperSoil.pdf){:target="_blank"}<br>
 5. [2-step PCR w. barcoded-head primer pairs](/assets/protocols/Two_step_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
-6. [One-pot PCR w. barcoded-head primers](/assets/protocols/One_pot_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
+6. [One-pot PCR w. barcoded-head primers (strains: single- or multi-locus)](/assets/protocols/One_pot_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
 7. [Purification (size selection, 1X ratio)](/assets/protocols/Size_selection_purification_1X.pdf){:target="_blank"}<br>
 
 ## Nanopore procedures
