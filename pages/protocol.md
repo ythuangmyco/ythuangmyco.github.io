@@ -4,7 +4,7 @@ title: Lab protocols
 permalink: "protocol"
 ---
 ## Sample recording process
-1. [Microbes isolation from environmental samples (to preservation vials)](/assets/protocols/Microbe_isolation_environmental_samples.pdf){:target="_blank"}<br>
+1. [Microbe isolation: environmental sample → primary plate → pure culture → preservation vials (v2.0, data steps via /lims-register)](/assets/protocols/Microbe_isolation_environmental_samples.pdf){:target="_blank"}<br>
 2. Environmental ([Soil](https://protocols.io/view/soil-sample-citizen-scientists-chinese-ccedsta6.html){:target="_blank"}, water)
 3. [RNAlater](https://www.protocols.io/view/rnalater-recipe-bp2l61w35vqe/v1){:target="_blank"}<br>
 
