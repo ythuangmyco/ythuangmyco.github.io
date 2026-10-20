@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab protocols
-subtitle: From specimen to sequence — click a QR code in the chart, or a link below, to open the protocol PDF
+subtitle: click a QR code to open the protocol PDF
 permalink: "protocol"
 full-width: true
 ---
@@ -11,7 +11,7 @@ full-width: true
 <img src="/assets/protocols/Sequencing_workflow.png" alt="From specimen to sequence: Huang MEGA Lab Nanopore workflow" style="width:100%">
 </object>
 </div>
-<p style="text-align:center;color:#666">QR codes are clickable here and scannable on paper · <a href="/assets/protocols/Sequencing_workflow.pdf" target="_blank">print version (PDF)</a> · chart and list generated 2026-10-20 from the lab protocol registry</p>
+<p style="text-align:center;color:#666"><a href="/assets/protocols/Sequencing_workflow.pdf" target="_blank">print version (PDF)</a> · updated 2026-10-20</p>
 
 <div markdown="1" style="max-width:60rem;margin:0 auto">
 ## Culture media
@@ -20,8 +20,8 @@ full-width: true
 ## Molecular methods
 1. [RNAlater (sample preservation before extraction)](https://www.protocols.io/view/rnalater-recipe-bp2l61w35vqe/v1){:target="_blank"}<br>
 2. [DNA extraction v9.0 (modified BOMB)](/assets/protocols/DNA_extraction_v9_modified_BOMB.pdf){:target="_blank"}<br>
-3. [Soil DNA extraction (SuperSoil modified, semi-automated, Zixpress 32) — current method; appendix: difficult samples](/assets/protocols/Soil_DNA_extraction_SuperSoil_Zixpress32.pdf){:target="_blank"}<br>
-4. [Soil DNA extraction (SuperSoil, manual) — legacy](/assets/protocols/Soil_DNA_extraction_SuperSoil.pdf){:target="_blank"}<br>
+3. [Soil DNA extraction — semi-automated (SuperSoil, Zixpress 32)](/assets/protocols/Soil_DNA_extraction_SuperSoil_Zixpress32.pdf){:target="_blank"}<br>
+4. [Soil DNA extraction — manual (SuperSoil, legacy)](/assets/protocols/Soil_DNA_extraction_SuperSoil.pdf){:target="_blank"}<br>
 5. [2-step PCR w. barcoded-head primer pairs](/assets/protocols/Two_step_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
 6. [One-pot PCR w. barcoded-head primers](/assets/protocols/One_pot_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
 7. [Purification (size selection, 1X ratio)](/assets/protocols/Size_selection_purification_1X.pdf){:target="_blank"}<br>
