@@ -108,6 +108,15 @@
 <line x1='590' y1='1665' x2='590' y2='1795' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
 <text x='608' y='1730' font-family='Inter, sans-serif' font-size='24' text-anchor='start' dominant-baseline='middle' fill='#000' font-weight='bold' >2nd PCR  (barcoding)</text>
 <text x='608' y='1760' font-family='Inter, sans-serif' font-size='19' text-anchor='start' dominant-baseline='middle' fill='#555'  >gel check #1: good amplicons only</text>
+<rect x='400' y='1702' width='120' height='76' rx='6' fill='#263238' stroke='#AD1457' stroke-width='2.5'/>
+<rect x='410' y='1732.4' width='16' height='5' fill='#F8BBD0'/>
+<rect x='426.8' y='1738.48' width='16' height='5' fill='#F8BBD0'/>
+<rect x='443.6' y='1733.92' width='16' height='5' fill='#F8BBD0'/>
+<rect x='460.4' y='1743.8' width='16' height='5' fill='#F8BBD0'/>
+<rect x='477.2' y='1736.96' width='16' height='5' fill='#F8BBD0'/>
+<rect x='494' y='1749.12' width='16' height='5' fill='#F8BBD0'/>
+<rect x='404' y='1714' width='8' height='52' fill='none' stroke='#F8BBD0' stroke-width='1' stroke-dasharray='3,6'/>
+<line x1='520' y1='1740' x2='586' y2='1740' stroke='#9E9E9E' stroke-width='2' stroke-dasharray='6,6' />
 <rect x='293' y='1830' width='180' height='160' rx='4' fill='#FFF8E1' stroke='#F9A825' stroke-width='2.4' />
 <text x='383' y='1854' font-family='Inter, sans-serif' font-size='21' text-anchor='middle' dominant-baseline='middle' fill='#000' font-weight='bold' >Tube 1</text>
 <polygon points='321,1873 321,1891 339,1882' fill='#E53935' stroke='#333' stroke-width='1.5'/>
