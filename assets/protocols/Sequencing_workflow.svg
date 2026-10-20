@@ -82,7 +82,7 @@
 <line x1='1350' y1='1330' x2='1350' y2='1375' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
 <text x='1066' y='1292' font-family='Inter, sans-serif' font-size='21' text-anchor='start' dominant-baseline='middle' fill='#555'  >choose a route</text>
 <text x='590' y='1410' font-family='Inter, sans-serif' font-size='26' text-anchor='middle' dominant-baseline='middle' fill='#111111' font-weight='bold' >Route A · amplicon, two-step PCR</text>
-<text x='1350' y='1410' font-family='Inter, sans-serif' font-size='26' text-anchor='middle' dominant-baseline='middle' fill='#111111' font-weight='bold' >Route B · amplicon, one-pot PCR</text>
+<text x='1350' y='1410' font-family='Inter, sans-serif' font-size='24' text-anchor='middle' dominant-baseline='middle' fill='#111111' font-weight='bold' >Route B · one-pot PCR: strains, single- or multi-locus</text>
 <text x='1891' y='1364' font-family='Inter, sans-serif' font-size='24' text-anchor='end' dominant-baseline='middle' fill='#111111' font-weight='bold' >Route C ↓</text>
 <line x1='590' y1='1438' x2='590' y2='1450' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
 <text x='608' y='1444' font-family='Inter, sans-serif' font-size='24' text-anchor='start' dominant-baseline='middle' fill='#000' font-weight='bold' >1st PCR  (gene regions)</text>
@@ -168,7 +168,7 @@
 <line x1='1350' y1='1438' x2='1350' y2='1450' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
 <text x='1368' y='1444' font-family='Inter, sans-serif' font-size='24' text-anchor='start' dominant-baseline='middle' fill='#000' font-weight='bold' >Set up one-pot PCR</text>
 <rect x='1050' y='1455' width='600' height='170' rx='4' fill='#FFF3E0' stroke='#EF6C00' stroke-width='2.4'/>
-<text x='1350' y='1478' font-family='Inter, sans-serif' font-size='21' text-anchor='middle' dominant-baseline='middle' fill='#8a4500'  >One reaction tube  (per sample)</text>
+<text x='1350' y='1478' font-family='Inter, sans-serif' font-size='21' text-anchor='middle' dominant-baseline='middle' fill='#8a4500'  >One reaction tube  (per strain × locus)</text>
 <text x='1200' y='1514' font-family='Inter, sans-serif' font-size='20' text-anchor='middle' dominant-baseline='middle' fill='#000' font-weight='bold' >gene-region primers</text>
 <text x='1200' y='1536' font-family='Inter, sans-serif' font-size='17' text-anchor='middle' dominant-baseline='middle' fill='#555'  >(head-tailed, 0.1 µM each)</text>
 <line x1='1135' y1='1570' x2='1187' y2='1570' stroke='#37474F' stroke-width='4'  />
@@ -378,5 +378,5 @@
 <rect x='14' y='2445' width='50' height='1040' rx='10' fill='#2E7D32'/>
 <text x='33' y='2965' font-family='Inter, sans-serif' font-size='22' text-anchor='middle' dominant-baseline='middle' fill='white' font-weight='bold' transform='rotate(-90 33 2965)'>Stage 4a</text>
 <text x='53' y='2965' font-family='Inter, sans-serif' font-size='14' text-anchor='middle' dominant-baseline='middle' fill='white'  transform='rotate(-90 53 2965)'>Nanopore experiment · Nanopore#</text>
-<text x='1990' y='3562' font-family='Inter, sans-serif' font-size='16' text-anchor='end' dominant-baseline='middle' fill='#777'  >Huang MEGA Lab (NCKU)  ·  chart built 2026-10-20 from doc/protocols/registry.csv  ·  live version with clickable links: ythuangmyco.github.io/protocol</text>
+<text x='1990' y='3562' font-family='Inter, sans-serif' font-size='16' text-anchor='end' dominant-baseline='middle' fill='#777'  >Huang MEGA Lab (NCKU)  ·  chart built 2026-10-21 from doc/protocols/registry.csv  ·  live version with clickable links: ythuangmyco.github.io/protocol</text>
 </svg>
