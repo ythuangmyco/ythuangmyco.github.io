@@ -9,7 +9,8 @@ permalink: "protocol"
 ## Molecular methods
 1. [RNAlater (sample preservation before extraction)](https://www.protocols.io/view/rnalater-recipe-bp2l61w35vqe/v1){:target="_blank"}<br>
 2. [DNA extraction v9.0 (modified BOMB)](/assets/protocols/DNA_extraction_v9_modified_BOMB.pdf){:target="_blank"}<br>
-3. [Soil DNA extraction (SuperSoil)](/assets/protocols/Soil_DNA_extraction_SuperSoil.pdf){:target="_blank"}<br>
+3. [Soil DNA extraction (SuperSoil modified, semi-automated, Zixpress 32) — current method; appendix: difficult samples](/assets/protocols/Soil_DNA_extraction_SuperSoil_Zixpress32.pdf){:target="_blank"}<br>
+3b. [Soil DNA extraction (SuperSoil, manual) — legacy](/assets/protocols/Soil_DNA_extraction_SuperSoil.pdf){:target="_blank"}<br>
 4. [2-step PCR w. barcoded-head primer pairs](/assets/protocols/Two_step_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
 4b. [One-pot PCR w. barcoded-head primers](/assets/protocols/One_pot_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
 5. [Purification (Size selection, 1X ratio)](/assets/protocols/Size_selection_purification_1X.pdf){:target="_blank"}<br>
