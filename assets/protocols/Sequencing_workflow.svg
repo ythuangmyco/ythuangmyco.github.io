@@ -9,11 +9,9 @@
 <text x='1050' y='183.8' font-family='Inter, sans-serif' font-size='27' text-anchor='middle' dominant-baseline='middle' fill='#000' font-weight='bold' >Specimen</text>
 <text x='1050' y='216.2' font-family='Inter, sans-serif' font-size='23' text-anchor='middle' dominant-baseline='middle' fill='#333'  >soil / environmental / insect   |   fungal strain in culture</text>
 <line x1='1050' y1='248' x2='1050' y2='295' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
-<rect x='540.68' y='297' width='1018.64' height='96' rx='48' fill='#F2F2F2' stroke='#111111' stroke-width='2.8'/>
-<text x='730.68' y='330' font-family='Inter, sans-serif' font-size='25' text-anchor='end' dominant-baseline='middle' fill='#000' font-weight='bold' >LIMS register</text>
-<text x='730.68' y='361' font-family='DejaVu Sans Mono, monospace' font-size='20' text-anchor='end' dominant-baseline='middle' fill='#111111'  >/lims-register</text>
-<line x1='746.68' y1='315' x2='746.68' y2='375' stroke='#111111' stroke-width='1.6'  />
-<text x='762.68' y='345' font-family='Inter, sans-serif' font-size='21' text-anchor='start' dominant-baseline='middle' fill='#333'  >Stage 1 → Specimen# (soil, environmental)  or  Culture# (strain)</text>
+<rect x='633.68' y='295' width='832.64' height='100' rx='4' fill='#F2F2F2' stroke='#111111' stroke-width='2.6'/>
+<text x='1050' y='327' font-family='DejaVu Sans Mono, monospace' font-size='26' text-anchor='middle' dominant-baseline='middle' fill='#111111' font-weight='bold' >/lims-register</text>
+<text x='1050' y='363' font-family='Inter, sans-serif' font-size='21' text-anchor='middle' dominant-baseline='middle' fill='#333'  >Stage 1 → Specimen# (soil, environmental)  or  Culture# (strain)</text>
 <line x1='1050' y1='393' x2='1050' y2='455' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
 <text x='1068' y='424' font-family='Inter, sans-serif' font-size='24' text-anchor='start' dominant-baseline='middle' fill='#000' font-weight='bold' >isolate fungi  (strains, Route B / C)</text>
 <rect x='640' y='460' width='820' height='170' rx='4' fill='#F3E5F5' stroke='#7B1FA2' stroke-width='2.6'/>
@@ -36,12 +34,10 @@
 </a>
 <line x1='285' y1='651' x2='638' y2='570' stroke='#9E9E9E' stroke-width='2' stroke-dasharray='6,6' />
 <line x1='1050' y1='630' x2='1050' y2='680' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
-<rect x='593.6' y='682' width='912.8' height='96' rx='48' fill='#F2F2F2' stroke='#111111' stroke-width='2.8'/>
-<text x='783.6' y='715' font-family='Inter, sans-serif' font-size='25' text-anchor='end' dominant-baseline='middle' fill='#000' font-weight='bold' >LIMS register</text>
-<text x='783.6' y='746' font-family='DejaVu Sans Mono, monospace' font-size='20' text-anchor='end' dominant-baseline='middle' fill='#111111'  >/lims-register</text>
-<line x1='799.6' y1='700' x2='799.6' y2='760' stroke='#111111' stroke-width='1.6'  />
-<text x='815.6' y='730' font-family='Inter, sans-serif' font-size='21' text-anchor='start' dominant-baseline='middle' fill='#333'  >Stage 2a plate → Stage 2b isolate → Culture# per strain</text>
-<path d='M1559.32 345 L1600 345 L1600 872 L1462 872' fill='none' stroke='#444' stroke-width='3' stroke-dasharray='12,8' marker-end='url(#arr)'/>
+<rect x='670' y='680' width='760' height='100' rx='4' fill='#F2F2F2' stroke='#111111' stroke-width='2.6'/>
+<text x='1050' y='712' font-family='DejaVu Sans Mono, monospace' font-size='26' text-anchor='middle' dominant-baseline='middle' fill='#111111' font-weight='bold' >/lims-register</text>
+<text x='1050' y='748' font-family='Inter, sans-serif' font-size='21' text-anchor='middle' dominant-baseline='middle' fill='#333'  >Stage 2a plate → Stage 2b isolate → Culture# per strain</text>
+<path d='M1466.32 345 L1600 345 L1600 872 L1462 872' fill='none' stroke='#444' stroke-width='3' stroke-dasharray='12,8' marker-end='url(#arr)'/>
 <text x='1616' y='596.5' font-family='Inter, sans-serif' font-size='20' text-anchor='start' dominant-baseline='middle' fill='#555'  >soil / environmental sample,</text>
 <text x='1616' y='622.5' font-family='Inter, sans-serif' font-size='20' text-anchor='start' dominant-baseline='middle' fill='#555'  >or an existing pure culture:</text>
 <text x='1616' y='648.5' font-family='Inter, sans-serif' font-size='20' text-anchor='start' dominant-baseline='middle' fill='#555'  >extract directly (skip isolation)</text>
@@ -72,11 +68,9 @@
 <text x='1050' y='1076.2' font-family='Inter, sans-serif' font-size='23' text-anchor='middle' dominant-baseline='middle' fill='#333'  >concentration of the extract (dsDNA HS)</text>
 <use href='#qubit' x='1365' y='967'/>
 <line x1='1050' y1='1103' x2='1050' y2='1160' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
-<rect x='593.6' y='1162' width='912.8' height='96' rx='48' fill='#F2F2F2' stroke='#111111' stroke-width='2.8'/>
-<text x='783.6' y='1195' font-family='Inter, sans-serif' font-size='25' text-anchor='end' dominant-baseline='middle' fill='#000' font-weight='bold' >LIMS register</text>
-<text x='783.6' y='1226' font-family='DejaVu Sans Mono, monospace' font-size='20' text-anchor='end' dominant-baseline='middle' fill='#111111'  >/lims-register</text>
-<line x1='799.6' y1='1180' x2='799.6' y2='1240' stroke='#111111' stroke-width='1.6'  />
-<text x='815.6' y='1210' font-family='Inter, sans-serif' font-size='21' text-anchor='start' dominant-baseline='middle' fill='#333'  >Stage 3a → MolWork#  (minted only after quantification)</text>
+<rect x='670' y='1160' width='760' height='100' rx='4' fill='#F2F2F2' stroke='#111111' stroke-width='2.6'/>
+<text x='1050' y='1192' font-family='DejaVu Sans Mono, monospace' font-size='26' text-anchor='middle' dominant-baseline='middle' fill='#111111' font-weight='bold' >/lims-register</text>
+<text x='1050' y='1228' font-family='Inter, sans-serif' font-size='21' text-anchor='middle' dominant-baseline='middle' fill='#333'  >Stage 3a → MolWork#  (minted only after quantification)</text>
 <line x1='1050' y1='1258' x2='1050' y2='1330' stroke='#444' stroke-width='3'  />
 <line x1='590' y1='1330' x2='1905' y2='1330' stroke='#444' stroke-width='3'  />
 <line x1='590' y1='1330' x2='590' y2='1375' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
@@ -284,11 +278,9 @@
 <rect x='324' y='2212' width='8' height='76' fill='none' stroke='#F8BBD0' stroke-width='1' stroke-dasharray='3,6'/>
 <use href='#qubit' x='1125' y='2157'/>
 <line x1='800' y1='2298' x2='800' y2='2350' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
-<rect x='300' y='2352' width='1000' height='96' rx='48' fill='#F2F2F2' stroke='#111111' stroke-width='2.8'/>
-<text x='490' y='2385' font-family='Inter, sans-serif' font-size='25' text-anchor='end' dominant-baseline='middle' fill='#000' font-weight='bold' >LIMS register</text>
-<text x='490' y='2416' font-family='DejaVu Sans Mono, monospace' font-size='20' text-anchor='end' dominant-baseline='middle' fill='#111111'  >/lims-register</text>
-<line x1='506' y1='2370' x2='506' y2='2430' stroke='#111111' stroke-width='1.6'  />
-<text x='522' y='2400' font-family='Inter, sans-serif' font-size='21' text-anchor='start' dominant-baseline='middle' fill='#333'  >Stage 3b → pcr_reaction: method, conc., 2nd_pcr_ok, barcode</text>
+<rect x='300' y='2350' width='1000' height='100' rx='4' fill='#F2F2F2' stroke='#111111' stroke-width='2.6'/>
+<text x='800' y='2382' font-family='DejaVu Sans Mono, monospace' font-size='26' text-anchor='middle' dominant-baseline='middle' fill='#111111' font-weight='bold' >/lims-register</text>
+<text x='800' y='2418' font-family='Inter, sans-serif' font-size='21' text-anchor='middle' dominant-baseline='middle' fill='#333'  >Stage 3b → pcr_reaction: method, conc., 2nd_pcr_ok, barcode</text>
 <line x1='800' y1='2448' x2='800' y2='2500' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
 <text x='818' y='2474' font-family='Inter, sans-serif' font-size='24' text-anchor='start' dominant-baseline='middle' fill='#000' font-weight='bold' >Pooling  (equal molar)</text>
 <rect x='570' y='2502' width='460' height='86' rx='4' fill='#E8F5E9' stroke='#2E7D32' stroke-width='2.4'/>
@@ -345,11 +337,9 @@
 <path d='M800 2995 L800 3080 L980 3080' fill='none' stroke='#444' stroke-width='3'  />
 <path d='M1585 2643 L1585 3080 L1120 3080' fill='none' stroke='#444' stroke-width='3'  />
 <line x1='1050' y1='3080' x2='1050' y2='3125' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
-<rect x='440.72' y='3127' width='1218.56' height='96' rx='48' fill='#F2F2F2' stroke='#111111' stroke-width='2.8'/>
-<text x='630.72' y='3160' font-family='Inter, sans-serif' font-size='25' text-anchor='end' dominant-baseline='middle' fill='#000' font-weight='bold' >LIMS register</text>
-<text x='630.72' y='3191' font-family='DejaVu Sans Mono, monospace' font-size='20' text-anchor='end' dominant-baseline='middle' fill='#111111'  >/lims-register</text>
-<line x1='646.72' y1='3145' x2='646.72' y2='3205' stroke='#111111' stroke-width='1.6'  />
-<text x='662.72' y='3175' font-family='Inter, sans-serif' font-size='21' text-anchor='start' dominant-baseline='middle' fill='#333'  >Stage 4a → Nanopore#: experiment, samples (PCR barcode or NB), flow cell, NanoAmp</text>
+<rect x='520' y='3125' width='1060' height='100' rx='4' fill='#F2F2F2' stroke='#111111' stroke-width='2.6'/>
+<text x='1050' y='3157' font-family='DejaVu Sans Mono, monospace' font-size='26' text-anchor='middle' dominant-baseline='middle' fill='#111111' font-weight='bold' >/lims-register</text>
+<text x='1050' y='3193' font-family='Inter, sans-serif' font-size='21' text-anchor='middle' dominant-baseline='middle' fill='#333'  >Stage 4a → Nanopore#: experiment, samples (PCR barcode or NB), flow cell, NanoAmp</text>
 <line x1='1050' y1='3223' x2='1050' y2='3272' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
 <rect x='750' y='3272' width='600' height='96' rx='4' fill='#C8E6C9' stroke='#1B5E20' stroke-width='3.2'/>
 <text x='1050' y='3303.8' font-family='Inter, sans-serif' font-size='27' text-anchor='middle' dominant-baseline='middle' fill='#000' font-weight='bold' >Load the flow cell and sequence</text>
@@ -383,11 +373,9 @@
 </a>
 <line x1='655' y1='3655' x2='788' y2='3655' stroke='#9E9E9E' stroke-width='2' stroke-dasharray='6,6' />
 <line x1='1050' y1='3698' x2='1050' y2='3805' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
-<rect x='617.12' y='3807' width='865.76' height='96' rx='48' fill='#F2F2F2' stroke='#111111' stroke-width='2.8'/>
-<text x='807.12' y='3840' font-family='Inter, sans-serif' font-size='25' text-anchor='end' dominant-baseline='middle' fill='#000' font-weight='bold' >LIMS register</text>
-<text x='807.12' y='3871' font-family='DejaVu Sans Mono, monospace' font-size='20' text-anchor='end' dominant-baseline='middle' fill='#111111'  >/lims-register</text>
-<line x1='823.12' y1='3825' x2='823.12' y2='3885' stroke='#111111' stroke-width='1.6'  />
-<text x='839.12' y='3855' font-family='Inter, sans-serif' font-size='21' text-anchor='start' dominant-baseline='middle' fill='#333'  >Stage 4a → flow cell: pores after wash, date of use</text>
+<rect x='670' y='3805' width='760' height='100' rx='4' fill='#F2F2F2' stroke='#111111' stroke-width='2.6'/>
+<text x='1050' y='3837' font-family='DejaVu Sans Mono, monospace' font-size='26' text-anchor='middle' dominant-baseline='middle' fill='#111111' font-weight='bold' >/lims-register</text>
+<text x='1050' y='3873' font-family='Inter, sans-serif' font-size='21' text-anchor='middle' dominant-baseline='middle' fill='#333'  >Stage 4a → flow cell: pores after wash, date of use</text>
 <rect x='90' y='3945' width='620' height='290' rx='12' fill='#FAFAFA' stroke='#9E9E9E' stroke-width='1.5'/>
 <text x='108' y='3977' font-family='Inter, sans-serif' font-size='22' text-anchor='start' dominant-baseline='middle' fill='#000' font-weight='bold' >Legend</text>
 <rect x='111' y='4001' width='20' height='20' fill='#1565C0' stroke='#0D47A1' stroke-width='1.5'/>
