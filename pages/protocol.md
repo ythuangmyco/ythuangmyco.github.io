@@ -31,7 +31,7 @@ full-width: true
 3. [Flow cell wash (PromethION)](/assets/protocols/Flow_Cell_Wash_Kit_EXP-WSH004_PromethION.pdf){:target="_blank"}<br>
 
 ## Miscellaneous
-1. [RNAlater (sample preservation before extraction)](https://www.protocols.io/view/rnalater-recipe-bp2l61w35vqe/v1){:target="_blank"}<br>
+1. [RNAlater (sample preservation solution) recipe](/assets/protocols/RNAlater_recipe.pdf){:target="_blank"}<br>
 2. [DEPC-treated water (nuclease-free water)](/assets/protocols/DEPC_treated_water.pdf){:target="_blank"}<br>
 
 </div>
