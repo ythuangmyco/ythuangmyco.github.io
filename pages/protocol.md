@@ -18,17 +18,20 @@ full-width: true
 1. [Fungal culture media](/assets/protocols/Fungal_culture_media.pdf){:target="_blank"}<br>
 
 ## Molecular methods
-1. [RNAlater (sample preservation before extraction)](https://www.protocols.io/view/rnalater-recipe-bp2l61w35vqe/v1){:target="_blank"}<br>
-2. [DNA extraction v9.0 (modified BOMB)](/assets/protocols/DNA_extraction_v9_modified_BOMB.pdf){:target="_blank"}<br>
-3. [Soil DNA extraction — semi-automated (SuperSoil, Zixpress 32)](/assets/protocols/Soil_DNA_extraction_SuperSoil_Zixpress32.pdf){:target="_blank"}<br>
-4. [Soil DNA extraction — manual (SuperSoil, legacy)](/assets/protocols/Soil_DNA_extraction_SuperSoil.pdf){:target="_blank"}<br>
-5. [2-step PCR w. barcoded-head primer pairs (environmental and mixed templates)](/assets/protocols/Two_step_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
-6. [One-pot PCR w. barcoded-head primers (strains: single- or multi-locus)](/assets/protocols/One_pot_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
-7. [Purification (size selection, 1X ratio)](/assets/protocols/Size_selection_purification_1X.pdf){:target="_blank"}<br>
+1. [DNA extraction v9.0 (modified BOMB)](/assets/protocols/DNA_extraction_v9_modified_BOMB.pdf){:target="_blank"}<br>
+2. [Soil DNA extraction — semi-automated (SuperSoil, Zixpress 32)](/assets/protocols/Soil_DNA_extraction_SuperSoil_Zixpress32.pdf){:target="_blank"}<br>
+3. [Soil DNA extraction — manual (SuperSoil, legacy)](/assets/protocols/Soil_DNA_extraction_SuperSoil.pdf){:target="_blank"}<br>
+4. [2-step PCR w. barcoded-head primer pairs (environmental and mixed templates)](/assets/protocols/Two_step_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
+5. [One-pot PCR w. barcoded-head primers (strains: single- or multi-locus)](/assets/protocols/One_pot_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
+6. [Purification (size selection, 1X ratio)](/assets/protocols/Size_selection_purification_1X.pdf){:target="_blank"}<br>
 
 ## Nanopore procedures
 1. [Library construction (R10 NB barcode) (KAPA EvoPrep NBD114.96)](/assets/protocols/KAPA_EvoPrep_NBD114.96_WGS_0.5X_v2.pdf){:target="_blank"}<br>
 2. [Library construction (R10 PCR barcode) (KAPA HyperPrep)](/assets/protocols/KAPA_HyperPrep_LSK114_PCR-barcoded_0.5X.pdf){:target="_blank"}<br>
 3. [Flow cell wash (PromethION)](/assets/protocols/Flow_Cell_Wash_Kit_EXP-WSH004_PromethION.pdf){:target="_blank"}<br>
+
+## Miscellaneous
+1. [RNAlater (sample preservation before extraction)](https://www.protocols.io/view/rnalater-recipe-bp2l61w35vqe/v1){:target="_blank"}<br>
+2. [DEPC-treated water (nuclease-free water)](/assets/protocols/DEPC_treated_water.pdf){:target="_blank"}<br>
 
 </div>
