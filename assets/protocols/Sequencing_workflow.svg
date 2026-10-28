@@ -54,9 +54,9 @@
 </a>
 <line x1='285' y1='958' x2='340' y2='958' stroke='#9E9E9E' stroke-width='2' stroke-dasharray='6,6' />
 <line x1='620' y1='1056' x2='620' y2='1116' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
-<rect x='340' y='1116' width='560' height='100' rx='4' fill='#F2F2F2' stroke='#111111' stroke-width='2.6'/>
-<text x='620' y='1148' font-family='DejaVu Sans Mono, monospace' font-size='26' text-anchor='middle' dominant-baseline='middle' fill='#111111' font-weight='bold' >LIMS tab 2c · Cultures</text>
-<text x='620' y='1184' font-family='Inter, sans-serif' font-size='21' text-anchor='middle' dominant-baseline='middle' fill='#333'  >MIC per drug, CV, MTT → Culture record</text>
+<rect x='262.48' y='1116' width='715.04' height='100' rx='4' fill='#F2F2F2' stroke='#111111' stroke-width='2.6'/>
+<text x='620' y='1148' font-family='DejaVu Sans Mono, monospace' font-size='26' text-anchor='middle' dominant-baseline='middle' fill='#111111' font-weight='bold' >/lims-register</text>
+<text x='620' y='1184' font-family='Inter, sans-serif' font-size='21' text-anchor='middle' dominant-baseline='middle' fill='#333'  >Stage 2c → MIC per drug, CV, MTT on the Culture record</text>
 <path d='M1466.32 345 L1600 345 L1600 1342 L1462 1342' fill='none' stroke='#444' stroke-width='3' stroke-dasharray='12,8' marker-end='url(#arr)'/>
 <text x='1616' y='831.5' font-family='Inter, sans-serif' font-size='20' text-anchor='start' dominant-baseline='middle' fill='#555'  >soil / environmental sample,</text>
 <text x='1616' y='857.5' font-family='Inter, sans-serif' font-size='20' text-anchor='start' dominant-baseline='middle' fill='#555'  >or an existing pure culture:</text>
