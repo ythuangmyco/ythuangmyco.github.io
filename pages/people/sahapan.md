@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sahapan Vichathai
-subtitle: "訪問學生 Visiting student"
+subtitle: "Alumni · 訪問學生 Visiting student (2026)"
 permalink: "sahapan"
 ---
 {:refdef: style="text-align: center;"}

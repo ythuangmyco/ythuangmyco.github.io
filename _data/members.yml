@@ -63,18 +63,19 @@ members:
     section: master
     img: mushroom_placeholder_200.png
 
+  # ---- Alumni (newest departure first) ----
   - name: Thitaree Doungdun
     role: 訪問學生 Visiting student
-    section: visiting
+    years: 2026
+    section: alumni
     img: thitaree_circular_200.png
     page: thitaree
   - name: Sahapan Vichathai
     role: 訪問學生 Visiting student
-    section: visiting
+    years: 2026
+    section: alumni
     img: sahapan_circular_200.png
     page: sahapan
-
-  # ---- Alumni (newest departure first) ----
   - name: Mazen Refae
     role: 訪問學生 Visiting student
     years: 2026

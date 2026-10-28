@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thitaree Doungdun
-subtitle: "訪問學生 Visiting student"
+subtitle: "Alumni · 訪問學生 Visiting student (2026)"
 permalink: "thitaree"
 ---
 {:refdef: style="text-align: center;"}

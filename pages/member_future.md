@@ -8,6 +8,7 @@ permalink: "member_future"
 <div class="container-fluid">
 {% for sec in site.data.members.sections %}
   {% assign ms = site.data.members.members | where: "section", sec.id %}
+  {% if ms.size > 0 %}
   <h3>{{ sec.title }}</h3>
   <hr/>
   {% for m in ms %}
@@ -26,6 +27,7 @@ permalink: "member_future"
     {% if i == 2 or forloop.last %}</div>{% endif %}
   {% endfor %}
   <br>
+  {% endif %}
 {% endfor %}
   <hr/>
   <br>
