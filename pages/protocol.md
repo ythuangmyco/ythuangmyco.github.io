@@ -11,7 +11,7 @@ full-width: true
 <img src="/assets/protocols/Sequencing_workflow.png" alt="From specimen to sequence: Huang MEGA Lab Nanopore workflow" style="width:100%">
 </object>
 </div>
-<p style="text-align:center;color:#666"><a href="/assets/protocols/Sequencing_workflow.pdf" target="_blank">print version (PDF)</a> · updated 2026-10-28</p>
+<p style="text-align:center;color:#666"><a href="/assets/protocols/Sequencing_workflow.pdf" target="_blank">print version (PDF)</a> · updated 2026-10-30</p>
 
 <div markdown="1" style="max-width:60rem;margin:0 auto">
 ## Culture media
@@ -25,7 +25,7 @@ full-width: true
 2. [Soil DNA extraction — semi-automated (SuperSoil, Zixpress 32)](/assets/protocols/Soil_DNA_extraction_SuperSoil_Zixpress32.pdf){:target="_blank"}<br>
 3. [Soil DNA extraction — manual (SuperSoil, legacy)](/assets/protocols/Soil_DNA_extraction_SuperSoil.pdf){:target="_blank"}<br>
 4. [2-step PCR w. barcoded-head primer pairs (environmental and mixed templates)](/assets/protocols/Two_step_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
-5. [One-pot PCR w. barcoded-head primers (strains: single- or multi-locus)](/assets/protocols/One_pot_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
+5. [One-pot PCR w. barcoded-head primers (strains: single- or multi-locus)](https://lims.huangmegalab.com/protocols/One_pot_PCR_barcoded_head_primers.pdf){:target="_blank"} (LIMS login required)<br>
 6. [Purification (size selection, 1X ratio)](/assets/protocols/Size_selection_purification_1X.pdf){:target="_blank"}<br>
 
 ## Nanopore procedures
