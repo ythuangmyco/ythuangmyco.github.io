@@ -15,26 +15,26 @@ full-width: true
 
 <div markdown="1" style="max-width:60rem;margin:0 auto">
 ## Culture media
-1. [Fungal culture media](/assets/protocols/Fungal_culture_media.pdf){:target="_blank"}<br>
+1. [Fungal culture media](https://lims.huangmegalab.com/protocols/Fungal_culture_media.pdf){:target="_blank"} (LIMS login required)<br>
 
 ## Strain phenotyping
-1. [Antifungal MIC (broth microdilution) and biofilm assays (crystal violet, MTT)](/assets/protocols/MIC_biofilm_assays.pdf){:target="_blank"}<br>
+1. [Antifungal MIC (broth microdilution) and biofilm assays (crystal violet, MTT)](https://lims.huangmegalab.com/protocols/MIC_biofilm_assays.pdf){:target="_blank"} (LIMS login required)<br>
 
 ## Molecular methods
-1. [DNA extraction v9.0 (modified BOMB)](/assets/protocols/DNA_extraction_v9_modified_BOMB.pdf){:target="_blank"}<br>
-2. [Soil DNA extraction — semi-automated (SuperSoil, Zixpress 32)](/assets/protocols/Soil_DNA_extraction_SuperSoil_Zixpress32.pdf){:target="_blank"}<br>
-3. [Soil DNA extraction — manual (SuperSoil, legacy)](/assets/protocols/Soil_DNA_extraction_SuperSoil.pdf){:target="_blank"}<br>
-4. [2-step PCR w. barcoded-head primer pairs (environmental and mixed templates)](/assets/protocols/Two_step_PCR_barcoded_head_primers.pdf){:target="_blank"}<br>
+1. [DNA extraction v9.0 (modified BOMB)](https://lims.huangmegalab.com/protocols/DNA_extraction_v9_modified_BOMB.pdf){:target="_blank"} (LIMS login required)<br>
+2. [Soil DNA extraction — semi-automated (SuperSoil, Zixpress 32)](https://lims.huangmegalab.com/protocols/Soil_DNA_extraction_SuperSoil_Zixpress32.pdf){:target="_blank"} (LIMS login required)<br>
+3. [Soil DNA extraction — manual (SuperSoil, legacy)](https://lims.huangmegalab.com/protocols/Soil_DNA_extraction_SuperSoil.pdf){:target="_blank"} (LIMS login required)<br>
+4. [2-step PCR w. barcoded-head primer pairs (environmental and mixed templates)](https://lims.huangmegalab.com/protocols/Two_step_PCR_barcoded_head_primers.pdf){:target="_blank"} (LIMS login required)<br>
 5. [One-pot PCR w. barcoded-head primers (strains: single- or multi-locus)](https://lims.huangmegalab.com/protocols/One_pot_PCR_barcoded_head_primers.pdf){:target="_blank"} (LIMS login required)<br>
-6. [Purification (size selection, 1X ratio)](/assets/protocols/Size_selection_purification_1X.pdf){:target="_blank"}<br>
+6. [Purification (size selection, 1X ratio)](https://lims.huangmegalab.com/protocols/Size_selection_purification_1X.pdf){:target="_blank"} (LIMS login required)<br>
 
 ## Nanopore procedures
-1. [Library construction (R10 NB barcode) (KAPA EvoPrep NBD114.96)](/assets/protocols/KAPA_EvoPrep_NBD114.96_WGS_0.5X_v2.pdf){:target="_blank"}<br>
-2. [Library construction (R10 PCR barcode) (KAPA HyperPrep)](/assets/protocols/KAPA_HyperPrep_LSK114_PCR-barcoded_0.5X.pdf){:target="_blank"}<br>
-3. [Flow cell wash (PromethION)](/assets/protocols/Flow_Cell_Wash_Kit_EXP-WSH004_PromethION.pdf){:target="_blank"}<br>
+1. [Library construction (R10 NB barcode) (KAPA EvoPrep NBD114.96)](https://lims.huangmegalab.com/protocols/KAPA_EvoPrep_NBD114.96_WGS_0.5X_v2.pdf){:target="_blank"} (LIMS login required)<br>
+2. [Library construction (R10 PCR barcode) (KAPA HyperPrep)](https://lims.huangmegalab.com/protocols/KAPA_HyperPrep_LSK114_PCR-barcoded_0.5X.pdf){:target="_blank"} (LIMS login required)<br>
+3. [Flow cell wash (PromethION)](https://lims.huangmegalab.com/protocols/Flow_Cell_Wash_Kit_EXP-WSH004_PromethION.pdf){:target="_blank"} (LIMS login required)<br>
 
 ## Miscellaneous
-1. [RNAlater (sample preservation solution) recipe](/assets/protocols/RNAlater_recipe.pdf){:target="_blank"}<br>
-2. [DEPC-treated water (nuclease-free water)](/assets/protocols/DEPC_treated_water.pdf){:target="_blank"}<br>
+1. [RNAlater (sample preservation solution) recipe](https://lims.huangmegalab.com/protocols/RNAlater_recipe.pdf){:target="_blank"} (LIMS login required)<br>
+2. [DEPC-treated water (nuclease-free water)](https://lims.huangmegalab.com/protocols/DEPC_treated_water.pdf){:target="_blank"} (LIMS login required)<br>
 
 </div>
