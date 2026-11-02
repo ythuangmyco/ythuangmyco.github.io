@@ -281,10 +281,10 @@
 <text x='1770' y='2161' font-family='Inter, sans-serif' font-size='15' text-anchor='middle' dominant-baseline='middle' fill='#555'  >50 µL mix + 25/15 cycles</text>
 </a>
 <line x1='1665' y1='2050' x2='1650' y2='2050' stroke='#9E9E9E' stroke-width='2' stroke-dasharray='6,6' />
-<path d='M590 2502 L590 2650 L730 2650' fill='none' stroke='#444' stroke-width='3'  />
-<path d='M1350 2502 L1350 2650 L870 2650' fill='none' stroke='#444' stroke-width='3'  />
-<line x1='800' y1='2650' x2='800' y2='2670' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
-<text x='800' y='2636' font-family='Inter, sans-serif' font-size='18' text-anchor='middle' dominant-baseline='middle' fill='#555'  >same barcoded molecule from either route</text>
+<path d='M590 2502 L590 2616 L730 2616' fill='none' stroke='#444' stroke-width='3'  />
+<path d='M1350 2502 L1350 2616 L870 2616' fill='none' stroke='#444' stroke-width='3'  />
+<line x1='800' y1='2616' x2='800' y2='2670' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
+<text x='800' y='2600' font-family='Inter, sans-serif' font-size='18' text-anchor='middle' dominant-baseline='middle' fill='#555'  >same barcoded molecule from either route</text>
 <rect x='520' y='2672' width='560' height='96' rx='4' fill='#FCE4EC' stroke='#AD1457' stroke-width='2.4'/>
 <text x='800' y='2703.8' font-family='Inter, sans-serif' font-size='27' text-anchor='middle' dominant-baseline='middle' fill='#000' font-weight='bold' >Gel check  →  Qubit Flex (dsDNA BR)</text>
 <text x='800' y='2736.2' font-family='Inter, sans-serif' font-size='23' text-anchor='middle' dominant-baseline='middle' fill='#333'  >confirm the barcoded product</text>
@@ -432,5 +432,5 @@
 <rect x='14' y='2955' width='50' height='1490' rx='10' fill='#2E7D32'/>
 <text x='33' y='3700' font-family='Inter, sans-serif' font-size='22' text-anchor='middle' dominant-baseline='middle' fill='white' font-weight='bold' transform='rotate(-90 33 3700)'>Stage 4a</text>
 <text x='53' y='3700' font-family='Inter, sans-serif' font-size='14' text-anchor='middle' dominant-baseline='middle' fill='white'  transform='rotate(-90 53 3700)'>Nanopore experiment · Nanopore#</text>
-<text x='1990' y='4825' font-family='Inter, sans-serif' font-size='16' text-anchor='end' dominant-baseline='middle' fill='#777'  >Huang MEGA Lab (NCKU)  ·  chart built 2026-10-30 from doc/protocols/registry.csv  ·  live version with clickable links: ythuangmyco.github.io/protocol</text>
+<text x='1990' y='4825' font-family='Inter, sans-serif' font-size='16' text-anchor='end' dominant-baseline='middle' fill='#777'  >Huang MEGA Lab (NCKU)  ·  chart built 2026-11-02 from doc/protocols/registry.csv  ·  live version with clickable links: ythuangmyco.github.io/protocol</text>
 </svg>
