@@ -220,8 +220,6 @@
 <text x='1350' y='2116' font-family='Inter, sans-serif' font-size='17' text-anchor='middle' dominant-baseline='middle' fill='#555'  >50 µL: KAPA HiFi 2X + both primer sets + 3 µL template</text>
 <line x1='1350' y1='2135' x2='1350' y2='2265' stroke='#444' stroke-width='3'  marker-end='url(#arr)'/>
 <text x='1368' y='2200' font-family='Inter, sans-serif' font-size='24' text-anchor='start' dominant-baseline='middle' fill='#000' font-weight='bold' >One-pot PCR</text>
-<text x='1368' y='2218' font-family='Inter, sans-serif' font-size='19' text-anchor='start' dominant-baseline='middle' fill='#555'  >phase 1: 25 cycles, 60–66 °C</text>
-<text x='1368' y='2242' font-family='Inter, sans-serif' font-size='19' text-anchor='start' dominant-baseline='middle' fill='#555'  >phase 2: 15 cycles, 65 °C</text>
 <rect x='1053' y='2300' width='180' height='160' rx='4' fill='#FFF8E1' stroke='#F9A825' stroke-width='2.4' />
 <text x='1143' y='2324' font-family='Inter, sans-serif' font-size='21' text-anchor='middle' dominant-baseline='middle' fill='#000' font-weight='bold' >Tube 1</text>
 <polygon points='1081,2343 1081,2361 1099,2352' fill='#E53935' stroke='#333' stroke-width='1.5'/>
@@ -434,5 +432,5 @@
 <rect x='14' y='2955' width='50' height='1490' rx='10' fill='#2E7D32'/>
 <text x='33' y='3700' font-family='Inter, sans-serif' font-size='22' text-anchor='middle' dominant-baseline='middle' fill='white' font-weight='bold' transform='rotate(-90 33 3700)'>Stage 4a</text>
 <text x='53' y='3700' font-family='Inter, sans-serif' font-size='14' text-anchor='middle' dominant-baseline='middle' fill='white'  transform='rotate(-90 53 3700)'>Nanopore experiment · Nanopore#</text>
-<text x='1990' y='4825' font-family='Inter, sans-serif' font-size='16' text-anchor='end' dominant-baseline='middle' fill='#777'  >Huang MEGA Lab (NCKU)  ·  chart built 2026-11-02 from doc/protocols/registry.csv  ·  live version with clickable links: ythuangmyco.github.io/protocol</text>
+<text x='1990' y='4825' font-family='Inter, sans-serif' font-size='16' text-anchor='end' dominant-baseline='middle' fill='#777'  >Huang MEGA Lab (NCKU)  ·  chart built 2026-11-03 from doc/protocols/registry.csv  ·  live version with clickable links: ythuangmyco.github.io/protocol</text>
 </svg>

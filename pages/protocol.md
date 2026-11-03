@@ -11,7 +11,7 @@ full-width: true
 <img src="/assets/protocols/Sequencing_workflow.png" alt="From specimen to sequence: Huang MEGA Lab Nanopore workflow" style="width:100%">
 </object>
 </div>
-<p style="text-align:center;color:#666"><a href="/assets/protocols/Sequencing_workflow.pdf" target="_blank">print version (PDF)</a> · <a href="/assets/protocols/Sequencing_workflow_poster_A0.pdf" target="_blank">A0 poster (PDF)</a> · <a href="/assets/protocols/Sequencing_workflow_poster_A0.png" target="_blank">A0 poster preview (PNG)</a> · updated 2026-11-02</p>
+<p style="text-align:center;color:#666"><a href="/assets/protocols/Sequencing_workflow.pdf" target="_blank">print version (PDF)</a> · <a href="/assets/protocols/Sequencing_workflow_poster_A0.pdf" target="_blank">A0 poster (PDF)</a> · <a href="/assets/protocols/Sequencing_workflow_poster_A0.png" target="_blank">A0 poster preview (PNG)</a> · updated 2026-11-03</p>
 
 <div markdown="1" style="max-width:60rem;margin:0 auto">
 ## Culture media
