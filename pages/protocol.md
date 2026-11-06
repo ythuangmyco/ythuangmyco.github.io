@@ -11,7 +11,7 @@ full-width: true
 <img src="/assets/protocols/Sequencing_workflow.png" alt="From specimen to sequence: Huang MEGA Lab Nanopore workflow" style="width:100%">
 </object>
 </div>
-<p style="text-align:center;color:#666"><a href="/assets/protocols/Sequencing_workflow.pdf" target="_blank">print version (PDF)</a> · <a href="/assets/protocols/Sequencing_workflow_poster_A0.pdf" target="_blank">A0 poster (PDF)</a> · <a href="/assets/protocols/Sequencing_workflow_poster_A0.png" target="_blank">A0 poster preview (PNG)</a> · updated 2026-11-03</p>
+<p style="text-align:center;color:#666"><a href="/assets/protocols/Sequencing_workflow.pdf" target="_blank">print version (PDF)</a> · <a href="/assets/protocols/Sequencing_workflow_poster_A0.pdf" target="_blank">A0 poster (PDF)</a> · <a href="/assets/protocols/Sequencing_workflow_poster_A0.png" target="_blank">A0 poster preview (PNG)</a> · updated 2026-11-06</p>
 
 <div markdown="1" style="max-width:60rem;margin:0 auto">
 ## Culture media
@@ -29,9 +29,10 @@ full-width: true
 6. [Purification (size selection, 1X ratio)](https://lims.huangmegalab.com/protocols/Size_selection_purification_1X.pdf){:target="_blank"} (LIMS login required)<br>
 
 ## Nanopore procedures
-1. [Library construction (R10 NB barcode) (KAPA EvoPrep NBD114.96)](https://lims.huangmegalab.com/protocols/KAPA_EvoPrep_NBD114.96_WGS_0.5X_v2.pdf){:target="_blank"} (LIMS login required)<br>
-2. [Library construction (R10 PCR barcode) (KAPA HyperPrep)](https://lims.huangmegalab.com/protocols/KAPA_HyperPrep_LSK114_PCR-barcoded_0.5X.pdf){:target="_blank"} (LIMS login required)<br>
-3. [Flow cell wash (PromethION)](https://lims.huangmegalab.com/protocols/Flow_Cell_Wash_Kit_EXP-WSH004_PromethION.pdf){:target="_blank"} (LIMS login required)<br>
+1. [Library construction (R10 PCR barcode, Routes A and B) (KAPA EvoPrep + SQK-LSK114)](https://lims.huangmegalab.com/protocols/KAPA_EvoPrep_LSK114_PCR-barcoded_0.5X.pdf){:target="_blank"} (LIMS login required)<br>
+2. [Library construction (R10 NB barcode, Route C) (KAPA EvoPrep NBD114.96)](https://lims.huangmegalab.com/protocols/KAPA_EvoPrep_NBD114.96_WGS_0.5X_v2.pdf){:target="_blank"} (LIMS login required)<br>
+3. [Library construction (R10 PCR barcode) (KAPA HyperPrep)](https://lims.huangmegalab.com/protocols/KAPA_HyperPrep_LSK114_PCR-barcoded_0.5X.pdf){:target="_blank"} (LIMS login required)<br>
+4. [Flow cell wash (PromethION)](https://lims.huangmegalab.com/protocols/Flow_Cell_Wash_Kit_EXP-WSH004_PromethION.pdf){:target="_blank"} (LIMS login required)<br>
 
 ## Miscellaneous
 1. [RNAlater (sample preservation solution) recipe](https://lims.huangmegalab.com/protocols/RNAlater_recipe.pdf){:target="_blank"} (LIMS login required)<br>
