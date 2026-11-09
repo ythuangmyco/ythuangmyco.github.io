@@ -11,7 +11,7 @@ full-width: true
 <img src="/assets/protocols/Sequencing_workflow.png" alt="From specimen to sequence: Huang MEGA Lab Nanopore workflow" style="width:100%">
 </object>
 </div>
-<p style="text-align:center;color:#666"><a href="/assets/protocols/Sequencing_workflow.pdf" target="_blank">print version (PDF)</a> · <a href="/assets/protocols/Sequencing_workflow_poster_A0.pdf" target="_blank">A0 poster (PDF)</a> · <a href="/assets/protocols/Sequencing_workflow_poster_A0.png" target="_blank">A0 poster preview (PNG)</a> · updated 2026-11-06</p>
+<p style="text-align:center;color:#666"><a href="/assets/protocols/Sequencing_workflow.pdf" target="_blank">print version (PDF)</a> · <a href="/assets/protocols/Sequencing_workflow_poster_A0.pdf" target="_blank">A0 poster (PDF)</a> · <a href="/assets/protocols/Sequencing_workflow_poster_A0.png" target="_blank">A0 poster preview (PNG)</a> · updated 2026-11-10</p>
 
 <div markdown="1" style="max-width:60rem;margin:0 auto">
 ## Culture media
@@ -37,5 +37,8 @@ full-width: true
 ## Miscellaneous
 1. [RNAlater (sample preservation solution) recipe](https://lims.huangmegalab.com/protocols/RNAlater_recipe.pdf){:target="_blank"} (LIMS login required)<br>
 2. [DEPC-treated water (nuclease-free water)](https://lims.huangmegalab.com/protocols/DEPC_treated_water.pdf){:target="_blank"} (LIMS login required)<br>
+
+## Lab computing
+1. [Remote access: lab server (SSH) and NAS on your laptop (Windows / Mac / Ubuntu)](https://lims.huangmegalab.com/protocols/HuangLab_remote_access_SSH_NAS.pdf){:target="_blank"} (LIMS login required)<br>
 
 </div>
