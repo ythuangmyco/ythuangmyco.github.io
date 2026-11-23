@@ -1,4 +1,5 @@
 # One entry per paper, newest first. `citation` is Markdown (**bold** = lab members, # = corresponding author).
+# `thumb` (optional) is a square image in assets/img/pubs/, shown beside the entry on /publication.
 # `year` groups entries into headings on /publication. Add new papers at the top.
 - year: '2026'
   citation: 'Lin, S.-Y., **Huang, Y.-T.**, Huang, H.-Y., Hung, W.-C., Tseng, Y.-T., & Lu, P.-L. (2026). Genotypes, fluconazole tolerance and virulence phenotypes of Candida albicans bloodstream isolates: A multilocus sequence typing-based analysis. Mycoses, 69(9), e70217.'
@@ -6,6 +7,7 @@
 - year: '2026'
   citation: 'Lin, S.-Y.; Tseng, Y.-T. ; Abdrabo, K. A. E.-S. ; Wu, H.-M. ; Sun, P.-L.; Lao, C. K.; Lai, C.-C.; Wu, C.-J. ; Sukphopetch, P. ; Chen, S.; **Huang, Y.-T.#** (2026). Antifungal Susceptibility Profiles of Clinical and Environmental Scedosporium and Lomentospora Isolates from Taiwan: Focus on Olorofim Activity and Phylogenetic Heterogeneity. Journal of Antimicrobial Chemotherapy.'
   url: https://doi.org/10.1093/jac/dkag236
+  thumb: /assets/img/pubs/2026-olorofim.jpg
 - year: '2026'
   citation: Lo, P.-H., El-Sayid Abdrabo, K. A., Nai, Y.-S., Lu, H.-L., & **Huang, Y.-T.#** (2026). Entomopathogenic activity of Purpureocillium takamizusanense against diverse agricultural pests. Scientific Reports, 1–11.
   url: https://doi.org/10.1038/s41598-026-56870-2
@@ -18,6 +20,7 @@
 - year: '2026'
   citation: Abdrabo, K. A. E.-S., Phang, G. J., Fan, Y.-H., & **Huang, Y.-T.#** (2026). Phylogeny and ecological roles shaping yeast-hyphae morphogenesis in Ophiostomataceae. Fungal Biology, 130(1), 101665.
   url: https://doi.org/10.1016/j.funbio.2025.101665
+  thumb: /assets/img/pubs/2026-dimorphism.jpg
 - year: '2025'
   citation: 'Lin, S.-Y., Tseng, Y.-T., Abdrabo, K. A. E.-S., Wu, H.-M., Sun, P.-L., Wu, C.-J., Sukphopetch, P., Chen, S. C.-A., & **Huang, Y.-T.#** (2025). Phylogenetic insights into antifungal susceptibility: Comparing environmental and clinical Scedosporium and Lomentospora isolates from Taiwan. In bioRxiv (p. 2025.11. 08.687386).'
   url: https://doi.org/10.1101/2025.11.08.687386
@@ -42,6 +45,7 @@
 - year: '2023'
   citation: '**Huang, Y.-T.**, Hung, T.-C., Fan, Y.-C., Chen, C.-Y., Sun, P.-L#. 2023. The high diversity of Scedosporium and Lomentospora species and their prevalence in human-disturbed areas in Taiwan. Med. Mycol. 61, myad041.'
   url: https://doi.org/10.1093/mmy/myad041
+  thumb: /assets/img/pubs/2023-scedosporium-taiwan.jpg
 - year: '2022'
   citation: Li Y, Bateman C, Skelton J, Wang B, Black A, **Huang Y.-T.**, Gonzalez A, Jusino MA, Nolen ZJ, Freeman S, et al. 2021. Pre-invasion assessment of exotic bark beetle-vectored fungi to detect tree-killing pathogens. Phytopathology.
   url: https://doi.org/10.1094/PHYTO-01-21-0041-R
