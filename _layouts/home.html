@@ -30,13 +30,13 @@ layout: page
     </p>
 
     <div class="post-entry-container">
-      {% if post.image %}
+      {% comment %} Circular picture: thumbnail-img, else image, else cover-img, else the lab logo {% endcomment %}
+      {% assign thumb = post.thumbnail-img | default: post.image | default: post.cover-img | default: site.avatar | default: "/assets/img/Logo_circle_transparent.png" %}
       <div class="post-image">
-        <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.image | relative_url }}">
+        <a href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }}">
+          <img src="{{ thumb | relative_url }}" alt="" loading="lazy">
         </a>
       </div>
-      {% endif %}
       <div class="post-entry">
         {% assign excerpt_length = site.excerpt_length | default: 50 %}
 	{{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
