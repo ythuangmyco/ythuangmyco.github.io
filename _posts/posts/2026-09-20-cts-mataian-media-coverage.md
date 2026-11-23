@@ -17,7 +17,7 @@ The question we work on is simple: when is a buried field ready to be farmed aga
 
 The goal is one simple index: green to plant, yellow to wait, red not yet.
 
-![](/assets/img/mataian_soil_tubes_260724.jpg)
+![](/assets/img/mataian_field_and_tubes_260723.jpg)
 
 Our segment runs from 38:32 to 50:53. Thanks to the CTS team, the farmers of Guangfu, and our partners at the Hualien station. More clips are on the [Media coverage](/media) page.
 
