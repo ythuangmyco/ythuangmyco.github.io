@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome and farewell dinner"
-subtitle: "New faces for the fall semester, and a send-off for Mazen"
+subtitle: "New faces for the fall semester, and a send-off for interns"
 cover-img: /assets/img/S__2572298.jpg
 thumbnail-img: "/assets/img/S__2572298.jpg"
 readtime: false
