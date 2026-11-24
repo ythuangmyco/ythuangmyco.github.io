@@ -2,6 +2,7 @@
 layout: post
 title: "Four wheels that happened to roll"
 subtitle: "Nutritional strategies of ambrosia fungi — Environmental Microbiology"
+thumbnail-img: "/assets/img/pubs/2026-ambrosia-stoichiometry.jpg"
 readtime: true
 tags: [paper, ambrosia-symbiosis, metabolism]
 ---

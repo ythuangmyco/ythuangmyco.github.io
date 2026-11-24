@@ -2,6 +2,7 @@
 layout: post
 title: "A biocontrol fungus for the lychee stink bug"
 subtitle: "Purpureocillium takamizusanense — Scientific Reports"
+thumbnail-img: "/assets/img/pubs/2026-purpureocillium-entomopathogen.jpg"
 readtime: true
 tags: [paper, biocontrol, entomopathogen]
 ---
